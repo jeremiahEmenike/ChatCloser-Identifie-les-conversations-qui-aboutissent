@@ -1,0 +1,30 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700153800010,
+      "content": "99741474 whatsapp intÃ©ressÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700153787823,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700153787218,
+      "content": "Etienne Ekoue Kouelambou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700153784429,
+      "content": "Etienne Ekoue a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700153783961,
+      "content": "Etienne Ekoue a nommÃ© le groupe Etienne Ekoue Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

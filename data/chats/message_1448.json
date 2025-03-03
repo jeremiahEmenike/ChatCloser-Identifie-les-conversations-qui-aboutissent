@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704446942433,
+      "content": "9500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704446786224,
+      "content": "C'est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704446733655,
+      "content": "Bonjour c'est ceci est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704446724411,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704445731970,
+      "content": "Zidane Barro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704445727723,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704445725697,
+      "content": "Zidane a nommÃ© le groupe Zidane Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704445725697,
+      "content": "Zidane a modifiÃ© la photo du groupe."
+    }
+  ]
+}

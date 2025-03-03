@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707890338380,
+      "content": "Oui c'est disponible. Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707866389287,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707866389003,
+      "content": "ArsÃ¨ne Djada"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707866386530,
+      "content": "ArsÃ¨ne a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707866385613,
+      "content": "ArsÃ¨ne a nommÃ© le groupe ArsÃ¨ne Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

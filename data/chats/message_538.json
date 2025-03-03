@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294223487,
+      "content": "Bonsoir, c'est disponible\n\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701293800715,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701293800165,
+      "content": "GaÃ«lstone Kpatcha"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701293797916,
+      "content": "GaÃ«lstone a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701293797470,
+      "content": "GaÃ«lstone a nommÃ© le groupe GaÃ«lstone Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

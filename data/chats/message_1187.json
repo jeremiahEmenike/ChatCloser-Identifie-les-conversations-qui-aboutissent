@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720869129741,
+      "content": "d'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720869107175,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720869100993,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720869093479,
+      "content": "bien reÃ§u c'est Ã  LomÃ© j'espÃ¨re"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720869045166,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868869142,
+      "content": "unitÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868858563,
+      "content": "c'est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868166681,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868159415,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720867652656,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720867652374,
+      "content": "Roma Ipd"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720867649353,
+      "content": "Roma a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720867648968,
+      "content": "Roma a nommÃ© le groupe Roma Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

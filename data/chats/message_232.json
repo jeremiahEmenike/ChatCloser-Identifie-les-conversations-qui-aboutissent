@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699991305125,
+      "content": "vous pouvez decrocher l'appel sur la montre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699991283063,
+      "content": "Il vous notifie s'il y a appel"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699991170797,
+      "content": "Il prend appelle ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699991154536,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699991120758,
+      "content": "Vous allez passer ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699991102456,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699991061800,
+      "content": "Agbalepedo nonloin de groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699990994046,
+      "content": "Ok vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699990938454,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699990933722,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699990929025,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699990928845,
+      "content": "Carny Kenny Lamboni"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699990927224,
+      "content": "Carny Kenny a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699990926853,
+      "content": "Carny Kenny a nommÃ© le groupe Carny Kenny Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

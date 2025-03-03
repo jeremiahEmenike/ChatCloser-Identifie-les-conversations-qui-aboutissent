@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712836497919,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712827137188,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712827136832,
+      "content": "Ãlisko Babagan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712827133915,
+      "content": "Ãlisko a nommÃ© le groupe Ãlisko Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712827133915,
+      "content": "Ãlisko a modifiÃ© la photo du groupe."
+    }
+  ]
+}

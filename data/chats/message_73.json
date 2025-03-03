@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183066110,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183062842,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713142436615,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713142432722,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713142432512,
+      "content": "Ali Pompidou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713142429495,
+      "content": "Ali a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713142429182,
+      "content": "Ali a nommÃ© le groupe Ali Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

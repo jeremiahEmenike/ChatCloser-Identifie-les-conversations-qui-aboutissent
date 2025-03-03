@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699034135508,
+      "content": "Non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699034013401,
+      "content": "On peut mettre du sim dedans tu es oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699018990073,
+      "content": "Oui, c'est a 8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698919172018,
+      "content": "Le prix c'est 8000fcfa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698838560183,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698838555772,
+      "content": "Bonjour, c'est disponible."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698831240233,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698831239990,
+      "content": "Ambroise Toudji"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698831237981,
+      "content": "Ambroise a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698831237639,
+      "content": "Ambroise a nommÃ© le groupe Ambroise Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

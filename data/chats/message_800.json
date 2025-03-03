@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713382537110,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713382536730,
+      "content": "Kodjo BenoÃ®t Soussoukpo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713382534341,
+      "content": "Kodjo BenoÃ®t a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713382534000,
+      "content": "Kodjo BenoÃ®t a nommÃ© le groupe Kodjo BenoÃ®t Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

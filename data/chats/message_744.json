@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294861669,
+      "content": "Bonjour c'est disponible\n\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701277224970,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701277224217,
+      "content": "Jules Pito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701277220758,
+      "content": "Jules a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701277219703,
+      "content": "Jules a nommÃ© le groupe Jules Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

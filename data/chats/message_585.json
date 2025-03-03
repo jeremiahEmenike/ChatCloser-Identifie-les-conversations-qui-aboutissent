@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712879826310,
+      "content": "Legbassito carrefour avinato mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712879107060,
+      "content": "Pardon c'est oÃ¹ vous vendez Ã§a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874371307,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712856670578,
+      "content": "Salut"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712856652226,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712856651824,
+      "content": "Hama Marou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712856649398,
+      "content": "Hama a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712856649000,
+      "content": "Hama a nommÃ© le groupe Hama Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

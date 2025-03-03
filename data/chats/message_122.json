@@ -1,0 +1,50 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698089201594,
+      "content": "98191863"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698089183742,
+      "content": "Votre numÃ©ro ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698089154459,
+      "content": "EnvoyÃ© moi Les photos et les prix Ã  l'appui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698089107972,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698089098817,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698088367589,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698088367136,
+      "content": "Apollinaire Sodatonou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698088365313,
+      "content": "Apollinaire a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698088364774,
+      "content": "Apollinaire a nommÃ© le groupe Apollinaire Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

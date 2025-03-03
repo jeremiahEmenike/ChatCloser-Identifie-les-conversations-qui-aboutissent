@@ -1,0 +1,100 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701525595054,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701525588811,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701525565156,
+      "content": "Votre numÃ©ro svp??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701525559657,
+      "content": "Oui vers 16h c'est bon ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701525529541,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701525494031,
+      "content": "Produit : 2500\nLivraison : 1000\nTotal : 3500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701525460434,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701525454504,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701525433195,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701525426847,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701525249225,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701525239523,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701524972152,
+      "content": "Nous sommes Ã  agbalepedo groupe C\n\nPrendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le corner Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701524936843,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701523222350,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701523217545,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701523217028,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701523214719,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701523214284,
+      "content": "Un contact a nommÃ© le groupe Merveille Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

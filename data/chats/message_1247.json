@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698251407474,
+      "content": "SÃ©rieusement le dernier prix 8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698251386472,
+      "content": "Last tu vas me faire Ã§a combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698251315834,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698251299223,
+      "content": "Oui combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698251162514,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698245953326,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698245948993,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698245948674,
+      "content": "Shampion Esse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698245946268,
+      "content": "Shampion a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698245945753,
+      "content": "Shampion a nommÃ© le groupe Shampion Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

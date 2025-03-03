@@ -1,0 +1,80 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721384888470,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720902704882,
+      "content": "Vous serez livrer lundi Ã  midi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720902599965,
+      "content": "71011173"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720899645675,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720899637069,
+      "content": "Hello"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864181690,
+      "content": "D'accord livraison 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864146983,
+      "content": "AnÃ©ho"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863938326,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863880124,
+      "content": "Un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720859984356,
+      "content": "Combien vous voulez??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720859973046,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720857581367,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720857581124,
+      "content": "Antoine Afannou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720857578654,
+      "content": "Antoine a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720857578037,
+      "content": "Antoine a nommÃ© le groupe Antoine Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

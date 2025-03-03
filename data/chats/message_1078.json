@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713202952517,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713201132418,
+      "content": "2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713020492504,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713016130861,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713015131260,
+      "content": "Yes it's available"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713015057259,
+      "content": "Is this still available?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713015056967,
+      "content": "Oluwa Femi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713015054029,
+      "content": "Oluwa a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713015053289,
+      "content": "Oluwa a nommÃ© le groupe Oluwa Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

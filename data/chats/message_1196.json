@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698392358396,
+      "content": "Le last c'est 8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698392295808,
+      "content": "Et lax prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698391826694,
+      "content": "Je voulais savoir le travail de la montre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698391781055,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698391775699,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698388091942,
+      "content": "Montre connectÃ© comment ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698388068324,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698388067968,
+      "content": "Romarico Hlomadon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698388065689,
+      "content": "Romarico a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698388065438,
+      "content": "Romarico a nommÃ© le groupe Romarico Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

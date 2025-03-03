@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721229364642,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721229321208,
+      "content": "Aujourd'hui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721229317312,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721229286964,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721227377229,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721227370857,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721227370474,
+      "content": "Touwati Guet"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721227368535,
+      "content": "Touwati a nommÃ© le groupe Touwati Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721227368535,
+      "content": "Touwati a modifiÃ© la photo du groupe."
+    }
+  ]
+}

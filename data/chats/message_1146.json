@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710761563557,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710752666068,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710750478477,
+      "content": "Jâai 2k et je suis Ã  adÃ©wi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710745032107,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710744526406,
+      "content": "Oui last prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710737662997,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710724325174,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710724317476,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710724317085,
+      "content": "RÃ£Ã¯dÃ¬nhÃ¸ RÃ¼z Kiko Jr."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710724312954,
+      "content": "RÃ£Ã¯dÃ¬nhÃ¸ RÃ¼z a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710724312120,
+      "content": "RÃ£Ã¯dÃ¬nhÃ¸ RÃ¼z a nommÃ© le groupe RÃ£Ã¯dÃ¬nhÃ¸ RÃ¼z Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

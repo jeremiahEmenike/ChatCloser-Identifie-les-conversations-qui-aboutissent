@@ -1,0 +1,75 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721142708272,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721137010941,
+      "content": "Ok je te paye 3500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721136965540,
+      "content": "91592461"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721129252889,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721129178763,
+      "content": "La livraison est Ã  1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721129172789,
+      "content": "D'accord on pourra vous livrer demain si vous voulez"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721127045372,
+      "content": "Ã  novissi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721126917234,
+      "content": "Oui vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721126761601,
+      "content": "on peux le livre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720880520008,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720880258121,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720880257955,
+      "content": "Kayi Lawson"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720880255084,
+      "content": "Kayi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720880254630,
+      "content": "Kayi a nommÃ© le groupe Kayi Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

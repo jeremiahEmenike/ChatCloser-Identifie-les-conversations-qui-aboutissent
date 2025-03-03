@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701524972645,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701524900264,
+      "content": "Nous sommes Ã  agbalepedo groupe C\n\nPrendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le corner Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701523724751,
+      "content": "Gnanza Bresso FÃ©lix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701523720450,
+      "content": "FÃ©lix a nommÃ© le groupe FÃ© Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701523720450,
+      "content": "FÃ©lix a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701523720450,
+      "content": "Cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

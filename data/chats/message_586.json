@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417629604,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417571712,
+      "content": "Câest aprÃ¨s que jâai vue que vous avez mis quâil yâa noir et blanc. Moi jâÃ©tais intÃ©ressÃ© par lâorange et le bleu. Lorsque vous lâaurez reÃ§u"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417286705,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415563218,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415557722,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415557121,
+      "content": "Hanouvi Zada"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415554467,
+      "content": "Hanouvi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415553970,
+      "content": "Hanouvi a nommÃ© le groupe Hanouvi Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

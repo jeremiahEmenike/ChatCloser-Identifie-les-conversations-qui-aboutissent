@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707818983075,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707818978222,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707818856060,
+      "content": "Adresse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707818853057,
+      "content": "Le prix ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816412182,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816011506,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816006337,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816006152,
+      "content": "Jean AkouÃ©te Amenyaglo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816003967,
+      "content": "Jean AkouÃ©te a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816003300,
+      "content": "Jean AkouÃ©te a nommÃ© le groupe Jean AkouÃ©te Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707473008107,
+      "content": "Un instant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707473002932,
+      "content": "OuÃ¯ ouÃ¯"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707454829235,
+      "content": "Bonjour, oui c'est disponible, vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437685452,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437685296,
+      "content": "Kodjo Hodikou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437683226,
+      "content": "Kodjo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437682938,
+      "content": "Kodjo a nommÃ© le groupe Kodjo Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

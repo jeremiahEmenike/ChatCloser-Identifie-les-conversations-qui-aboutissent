@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702767864779,
+      "content": "Oui c'est disponible, vous Ãªtes toujours intÃ©ressÃ©??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702760984929,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702760984607,
+      "content": "Alimi Zeus"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702760982583,
+      "content": "Alimi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702760981653,
+      "content": "Alimi a nommÃ© le groupe Alimi Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

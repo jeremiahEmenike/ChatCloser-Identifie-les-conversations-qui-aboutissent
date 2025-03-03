@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330759818,
+      "content": "Mais actuellement je suis au campus je reviens Ã  17h"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330740624,
+      "content": "Prendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le corner Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701328872923,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701303097727,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701302873675,
+      "content": "Et c'est oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701302868911,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701302370737,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701302027056,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701302021570,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701302021267,
+      "content": "Laurent Bloukou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701302018796,
+      "content": "Laurent a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701302018351,
+      "content": "Laurent a nommÃ© le groupe Laurent Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

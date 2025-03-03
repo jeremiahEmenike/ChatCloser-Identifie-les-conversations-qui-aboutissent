@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708166448838,
+      "content": "6000 mais je vous laisse Ã§a Ã  5000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708164386895,
+      "content": "2 combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648124090,
+      "content": "Bonjour sa majestÃ©.\nC'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707602636364,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707602636170,
+      "content": "Koffas Novi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707602634541,
+      "content": "Koffas a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707602634254,
+      "content": "Koffas a nommÃ© le groupe Koffas Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697444946469,
+      "content": "Humm oki"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697443923025,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697443298046,
+      "content": "Tu es oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697443292244,
+      "content": "Svp j'ai 6000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697443178474,
+      "content": "C'est Ã  8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697443166968,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697441468662,
+      "content": "Charles Botcho"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697441466265,
+      "content": "Charles a nommÃ© le groupe Charles Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697441466265,
+      "content": "Charles a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697441466265,
+      "content": "Prix"
+    }
+  ]
+}

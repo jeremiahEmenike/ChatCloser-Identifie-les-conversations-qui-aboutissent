@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701271763999,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701265259614,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701264533918,
+      "content": "Oui je veux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701249901251,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701249686933,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701249680427,
+      "content": "Bonjour c'est disponible ?\nJe suis intÃ©ressÃ© et j'aimerais discuter\ncordialement"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701249680079,
+      "content": "Don Dada"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701249677402,
+      "content": "Dada a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701249676977,
+      "content": "Dada a nommÃ© le groupe Dada Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712753577098,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712753575953,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712753495564,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712753491078,
+      "content": "D'accord sans soucis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712753473346,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712753336664,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712753307565,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712753307007,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712753303623,
+      "content": "Un contact a nommÃ© le groupe Kpambina Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712753303623,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    }
+  ]
+}

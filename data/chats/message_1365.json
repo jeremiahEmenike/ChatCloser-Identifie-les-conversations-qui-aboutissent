@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1718858591361,
+      "content": "Annonces similaires Ã  Â«Â Rice cookÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1718728983418,
+      "content": "Bonjour, c'est Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1718728979821,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1718728979440,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Rice cook."
+    }
+  ]
+}

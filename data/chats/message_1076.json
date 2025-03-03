@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713258247572,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713219092525,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713219088764,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713219088287,
+      "content": "Olivier Adedje"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713219085719,
+      "content": "Olivier a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713219085191,
+      "content": "Olivier a nommÃ© le groupe Olivier Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

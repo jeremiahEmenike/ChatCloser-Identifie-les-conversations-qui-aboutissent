@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713130915580,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713130503994,
+      "content": "Ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713120115874,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713120110479,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118997138,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118996968,
+      "content": "Prosper Edoh"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118995285,
+      "content": "Prosper a nommÃ© le groupe Prosper Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118995285,
+      "content": "Prosper a modifiÃ© la photo du groupe."
+    }
+  ]
+}

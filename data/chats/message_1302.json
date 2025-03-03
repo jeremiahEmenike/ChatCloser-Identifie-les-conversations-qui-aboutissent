@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701636138875,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701635480878,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701635476442,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701635475802,
+      "content": "Teslim Ramanou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701635473402,
+      "content": "Teslim a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701635472775,
+      "content": "Teslim a nommÃ© le groupe Teslim Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

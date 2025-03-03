@@ -1,0 +1,110 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697236590938,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697235080346,
+      "content": "le mercredi Ã  15h ou 14h 30"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697235035575,
+      "content": "Demain a quelle heure ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234993453,
+      "content": "1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234653767,
+      "content": "SegbÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234394239,
+      "content": "Vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234387143,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234310739,
+      "content": "Et Ã§a se connecte Ã  n'importe quel appareil"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234294290,
+      "content": "Ok c'est Ã  combien la livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234227748,
+      "content": "Je vous laisse Ã§a Ã  8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234207190,
+      "content": "Agbalepedo non loin de groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234156801,
+      "content": "Vous Ãªtes vers oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234151785,
+      "content": "Ok et le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234040159,
+      "content": "9000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697231264915,
+      "content": "Le prix s'il vous plait"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697225810483,
+      "content": "Oui c'est disponible, vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697212515495,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697212511750,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697212511234,
+      "content": "Dechou Sanogo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697212509423,
+      "content": "Dechou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697212508994,
+      "content": "Dechou a nommÃ© le groupe Dechou Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

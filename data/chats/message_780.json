@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601394383,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701593610927,
+      "content": "Nous sommes Ã  agbalepedo groupe C\n\nPrendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le corner Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701593608965,
+      "content": "Bonjour, c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701574548285,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701574547946,
+      "content": "Jean Gabin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701574545244,
+      "content": "Gabin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701574544799,
+      "content": "Gabin a nommÃ© le groupe Kevin Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

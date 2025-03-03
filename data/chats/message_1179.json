@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707436483959,
+      "content": "Bonjour, oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707430659201,
+      "content": "salut"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707430637032,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707430636733,
+      "content": "Robert Agosou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707430633713,
+      "content": "Robert a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707430632989,
+      "content": "Robert a nommÃ© le groupe Robert Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

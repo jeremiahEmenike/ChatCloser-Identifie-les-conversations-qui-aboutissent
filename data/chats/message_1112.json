@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721384673419,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721029151937,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721025065127,
+      "content": "On peut se voir ou pour l'achat"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720999267435,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720997376082,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720997375604,
+      "content": "Philippe Rodrigue Houessou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720997372968,
+      "content": "Philippe Rodrigue a nommÃ© le groupe Philippe Rodrigue Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720997372968,
+      "content": "Philippe Rodrigue a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183148107,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713134344298,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713134343868,
+      "content": "Samuel Ekoma"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713134341653,
+      "content": "Samuel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713134341371,
+      "content": "Samuel a nommÃ© le groupe Samuel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740986611,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740854640,
+      "content": "Jâai 2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712687957239,
+      "content": "Bonsoir, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712687951801,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712678588146,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712678584114,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712678583699,
+      "content": "Coco Xi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712678580926,
+      "content": "Coco a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712678580620,
+      "content": "Coco a nommÃ© le groupe Coco Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

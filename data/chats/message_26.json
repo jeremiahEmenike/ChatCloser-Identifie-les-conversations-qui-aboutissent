@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707890290248,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707865972840,
+      "content": "Oui c'est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707865459691,
+      "content": "Bonjour c'est disponible. \nNous avons le blanc et le noir\nVous voulez laquelle??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707864922521,
+      "content": "Salut"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707864922242,
+      "content": "Adama Christine"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707864919103,
+      "content": "Adama a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707864918101,
+      "content": "Adama a nommÃ© le groupe Adama Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

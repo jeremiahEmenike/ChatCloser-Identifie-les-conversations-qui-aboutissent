@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183159453,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183156229,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713133268033,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713133261477,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713133261133,
+      "content": "Atilassi Le GarÃ§on"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713133258215,
+      "content": "Atilassi Le a nommÃ© le groupe Atilassi Le Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713133258215,
+      "content": "Atilassi Le a modifiÃ© la photo du groupe."
+    }
+  ]
+}

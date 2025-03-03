@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721385137376,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721334558549,
+      "content": "A combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721320946330,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721320871482,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721320864766,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721320864226,
+      "content": "Magloire Kossi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721320861784,
+      "content": "Magloire a nommÃ© le groupe Magloire Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721320861784,
+      "content": "Magloire a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713363921629,
+      "content": "99.74.64.32"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712944097985,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712944093153,
+      "content": "1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712922674405,
+      "content": "Je suis Ã  OpÃ©ra totsi ka livraison fÃ©ra combien !"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712920491095,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712917125882,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712917118144,
+      "content": "Juste un seul usage personnel"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874196184,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874189167,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712861930543,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712861926302,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712861926140,
+      "content": "Litaaba Corneille"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712861923577,
+      "content": "Corneille a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712861923244,
+      "content": "Corneille a nommÃ© le groupe Corneille Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

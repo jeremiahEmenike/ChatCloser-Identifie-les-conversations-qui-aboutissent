@@ -1,0 +1,75 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708016879097,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010812525,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010763748,
+      "content": "Envoyer moi votre localisation sur le 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010728428,
+      "content": "C'est Ã§a le problÃ¨me, adeticope"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010696296,
+      "content": "Ok vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010602386,
+      "content": "Blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010569163,
+      "content": "Nous avons le noir et le blanc vous voulez laquelle"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708005212140,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708001886203,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707991607298,
+      "content": "Fredison Karo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707991607275,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707991597019,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707991595490,
+      "content": "Fredison a nommÃ© le groupe Fredison Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707991595490,
+      "content": "Fredison a modifiÃ© la photo du groupe."
+    }
+  ]
+}

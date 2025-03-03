@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713091118041,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713091107605,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713048470415,
+      "content": "Donc Ã§a fait 3500 ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713013901209,
+      "content": "Je peux envoyer le livreur??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713013874181,
+      "content": "La livraison depuis legbassito va vous coÃ»ter 1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713013839912,
+      "content": "Okay ss Ã  baguida"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713013618125,
+      "content": "Mais on peut venir vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713013611415,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713013433595,
+      "content": "Lieu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713013428174,
+      "content": "2500?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713013191862,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012986564,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012981349,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012981002,
+      "content": "Kossi Dominique Jaizy"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012977078,
+      "content": "Kossi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012976796,
+      "content": "Kossi a nommÃ© le groupe Kossi Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701974645373,
+      "content": "Bonsoir c'est en rupture pour le moment"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701885609886,
+      "content": "En fait je suis commercent et de viens de dÃ©buter, donc je le veux en gros."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701885493904,
+      "content": "Bonsoir et ta journÃ©e, ok je voudrai savoir comment est-ce que Ã§a se fait ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701527218598,
+      "content": "On va te livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701527077029,
+      "content": "Je suis Ã  bafilo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701526950350,
+      "content": "Nous sommes Ã  agbalepedo groupe C\n\nPrendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le corner Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701526314167,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701526313994,
+      "content": "Azizou Ali"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701526311627,
+      "content": "Azizou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701526311057,
+      "content": "Azizou a nommÃ© le groupe Azizou Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699798465132,
+      "content": "Non non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699798419047,
+      "content": "Vous allez passer aujourd'hui ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699798341221,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699798253500,
+      "content": "Prendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le coin Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres avant conteneur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699798248450,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699798228181,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699798004070,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699797982859,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699797982554,
+      "content": "SÃ©bastien Bakpa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699797980420,
+      "content": "SÃ©bastien a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699797980042,
+      "content": "SÃ©bastien a nommÃ© le groupe SÃ©bastien Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721385241792,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721385224769,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721344658290,
+      "content": "Je peux avoir la photo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721344647842,
+      "content": "C'est a combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721282370405,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721262495538,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721262495053,
+      "content": "Socrate Danger"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721262489581,
+      "content": "Socrate a nommÃ© le groupe Socrate Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721262489581,
+      "content": "Socrate a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712764080174,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712764076341,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712764075892,
+      "content": "Diane Akakpo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712764072722,
+      "content": "Diane a nommÃ© le groupe Diane Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712764072722,
+      "content": "Diane a modifiÃ© la photo du groupe."
+    }
+  ]
+}

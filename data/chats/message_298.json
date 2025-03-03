@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719408201424,
+      "content": "Okk"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719347596847,
+      "content": "Bonjour c'est fini pour le moment"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719334928530,
+      "content": "C'est comment ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297162191,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714425147237,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714425147044,
+      "content": "Dann Ellha"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714425145564,
+      "content": "Dann a nommÃ© le groupe Dann Â· Coffret Montre connectÃ©e et Ã©couteur sans fil Bluetooth W26."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714425145564,
+      "content": "Dann a modifiÃ© la photo du groupe."
+    }
+  ]
+}

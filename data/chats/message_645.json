@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868170261,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720867415561,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720867409628,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720867409417,
+      "content": "Iris PÃ©tronille Dekpo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720867406655,
+      "content": "Iris PÃ©tronille a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720867406232,
+      "content": "Iris PÃ©tronille a nommÃ© le groupe Iris PÃ©tronille Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

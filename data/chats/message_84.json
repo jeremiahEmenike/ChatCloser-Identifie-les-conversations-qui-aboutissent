@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720909427309,
+      "content": "Yes"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720909401092,
+      "content": "Is this still available? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720909400595,
+      "content": "Amad SoumaÃ¯la"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720909398286,
+      "content": "Amad a nommÃ© le groupe Amad Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720909398286,
+      "content": "Amad a modifiÃ© la photo du groupe."
+    }
+  ]
+}

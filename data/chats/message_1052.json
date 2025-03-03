@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720859959895,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720857608809,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720857601736,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720857601263,
+      "content": "Neutro Nac"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720857598861,
+      "content": "Neutro a nommÃ© le groupe Neutro Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720857598861,
+      "content": "Neutro a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713286523204,
+      "content": "Zopomafe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713281853684,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713281849201,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713279898716,
+      "content": "Ok tu fais livresoin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713276143968,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713272771846,
+      "content": "Tu es oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713272680721,
+      "content": "Tu es oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713272649546,
+      "content": "Tu es oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713272567665,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713272567202,
+      "content": "Paul Adovon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713272563775,
+      "content": "Paul a nommÃ© le groupe Paul Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713272563775,
+      "content": "Paul a modifiÃ© la photo du groupe."
+    }
+  ]
+}

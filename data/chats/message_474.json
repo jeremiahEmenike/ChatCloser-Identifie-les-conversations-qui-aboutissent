@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698439225957,
+      "content": "Merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698439204544,
+      "content": "Ok pas de problÃ¨me"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698439137028,
+      "content": "Super! Je suis Ã  Sotouboua ,surement la semaine sur-prochaine je vais envoyÃ© l'argent par TMONEY et tu m' envoie le truc par NAGODE TRANSPORT !"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698438736878,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698438736177,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698437440436,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698431175706,
+      "content": "Okay! Quel est le vrais prix ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698391794604,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698391790072,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698367747383,
+      "content": "Falin Junior"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698367744552,
+      "content": "Falin a nommÃ© le groupe Falin Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698367744552,
+      "content": "Falin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698367744552,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

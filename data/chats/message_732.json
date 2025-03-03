@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701356083019,
+      "content": "La journÃ©e"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701354681222,
+      "content": "Ok Autonomie combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701354641097,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701354457647,
+      "content": "Câest Ã  combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701354449975,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294779929,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701274453080,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701274448277,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701274447907,
+      "content": "Josias Adjete"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701274445654,
+      "content": "Josias a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701274445226,
+      "content": "Josias a nommÃ© le groupe Josias Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

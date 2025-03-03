@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713285494326,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713283876339,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713283875787,
+      "content": "David Djabare"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713283873643,
+      "content": "David a nommÃ© le groupe David Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713283873643,
+      "content": "David a modifiÃ© la photo du groupe."
+    }
+  ]
+}

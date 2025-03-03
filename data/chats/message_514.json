@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708498721044,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708467103481,
+      "content": "Non loin du bar petit Ã  petit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708467089604,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708467080537,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708465314289,
+      "content": "Vous ne pensez pas que legbassito est vague quand qqn doit venir vers vous?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708460740187,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708460063639,
+      "content": "?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708459963725,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708459963484,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708459095787,
+      "content": "Vous vous situez oÃ¹ exactement ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708459077856,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708459077453,
+      "content": "Franck Lior"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708459075255,
+      "content": "Franck a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708459074680,
+      "content": "Franck a nommÃ© le groupe Franck Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

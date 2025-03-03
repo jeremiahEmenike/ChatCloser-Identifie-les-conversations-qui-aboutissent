@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721114570896,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721114339442,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721114338995,
+      "content": "JoÃ«lla Mkl"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721114335770,
+      "content": "JoÃ«lla a nommÃ© le groupe JoÃ«lla Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721114335770,
+      "content": "JoÃ«lla a modifiÃ© la photo du groupe."
+    }
+  ]
+}

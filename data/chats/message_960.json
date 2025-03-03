@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700123674796,
+      "content": "Vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700123669636,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700085871561,
+      "content": "Livraison possible !?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700081285239,
+      "content": "Non c'est le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700081276043,
+      "content": "Il yâa plus de rÃ©duction ?!"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700081269787,
+      "content": "AdidogomÃ© madiba"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700078961461,
+      "content": "Vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700078956191,
+      "content": "C'est Ã  8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700078461166,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700078209631,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700077909397,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700077905152,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700077904572,
+      "content": "Martial Jhondo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700077902593,
+      "content": "Martial a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700077902113,
+      "content": "Martial a nommÃ© le groupe Martial Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699216950925,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699209887791,
+      "content": "Ban Zoldick"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699209884888,
+      "content": "Ban a nommÃ© le groupe Ban Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699209884888,
+      "content": "Ban a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699209884888,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    }
+  ]
+}

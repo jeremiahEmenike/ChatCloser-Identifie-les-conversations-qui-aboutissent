@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720971921804,
+      "content": "Nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720971908066,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720971704901,
+      "content": "ou es que on peut trouvÃ¨ Ã§a?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720971628595,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720971619403,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720971618903,
+      "content": "Sam Adjrakou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720971615904,
+      "content": "Sam a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720971615487,
+      "content": "Sam a nommÃ© le groupe Sam Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

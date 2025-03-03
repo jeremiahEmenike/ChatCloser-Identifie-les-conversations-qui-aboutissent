@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090456791,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713084313591,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712897964990,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712895891278,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712895887555,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712895887372,
+      "content": "Walker Derick"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712895884405,
+      "content": "Walker a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712895884054,
+      "content": "Walker a nommÃ© le groupe Walker Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

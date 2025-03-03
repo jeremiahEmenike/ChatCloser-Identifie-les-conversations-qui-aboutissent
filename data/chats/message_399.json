@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709300739266,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709300739194,
+      "content": "Si vous Ãªtes disponible on peut venir vous livrer aujourd'hui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709300739116,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709227024107,
+      "content": "Pharmacie HedjranawoÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709227010269,
+      "content": "Je suis Ã  HedjranawoÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709160878474,
+      "content": "D'accord vous Ãªtes situÃ© oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709157833788,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709147835023,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709112558962,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709112552227,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709112552040,
+      "content": "Elvira Gbedemah"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709112549585,
+      "content": "Elvira a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709112548913,
+      "content": "Elvira a nommÃ© le groupe Elvira Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

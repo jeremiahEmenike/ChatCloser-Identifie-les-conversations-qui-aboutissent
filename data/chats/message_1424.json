@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721315483773,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721314313178,
+      "content": "ok d'ici demain je passerai"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721314075673,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721314067247,
+      "content": "vous etes a quel niveau"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721314053184,
+      "content": "ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721314012278,
+      "content": "C'est Ã  3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721313377759,
+      "content": "oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721261288142,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721258046232,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721258040222,
+      "content": "Cet article mâintÃ©resse."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721258039788,
+      "content": "Yasser Damtare"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721258036600,
+      "content": "Yasser a nommÃ© le groupe Yasser Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721258036600,
+      "content": "Yasser a modifiÃ© la photo du groupe."
+    }
+  ]
+}

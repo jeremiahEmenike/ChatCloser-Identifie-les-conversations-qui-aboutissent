@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713130899361,
+      "content": "Vous voulez Ã§a pour quand quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713130895572,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713130348277,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713130342824,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713130342615,
+      "content": "Ninon Agbassou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713130339587,
+      "content": "Ninon a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713130339257,
+      "content": "Ninon a nommÃ© le groupe Ninon Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

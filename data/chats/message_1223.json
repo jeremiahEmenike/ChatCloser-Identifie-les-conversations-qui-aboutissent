@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702153380095,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702153365289,
+      "content": "D'accord, dÃ¨s que vous Ãªtes prÃªt faites moi signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702153315877,
+      "content": "Je ne veut plus acheter"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702153269086,
+      "content": "D'accord, le dernier prix que je peux vous faire c'est 10000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702153183067,
+      "content": "Je ne peut pas"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702153152783,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702153146536,
+      "content": "Il ne reste que celui ci et c'est Ã  10500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702153129776,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702153124917,
+      "content": "Celui ci est fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702152444590,
+      "content": "8000 est le derniere prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699097694767,
+      "content": "Bonjour, c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699091379991,
+      "content": "Sam Koumaple"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699091379890,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699091374939,
+      "content": "Sam a nommÃ© le groupe Sam Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699091374939,
+      "content": "Sam a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699091374939,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    }
+  ]
+}

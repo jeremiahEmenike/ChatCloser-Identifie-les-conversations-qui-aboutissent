@@ -1,0 +1,95 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713053122607,
+      "content": "93267375"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052086474,
+      "content": "Donnez votre numÃ©ro tÃ©lÃ©phone"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713043690760,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712994430138,
+      "content": "Voulez vous Ãªtre livrÃ© aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712994420046,
+      "content": "Bien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712994343551,
+      "content": "Bien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712992911281,
+      "content": "Bonjour, comment allez vous??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712760456923,
+      "content": "La livraison va vous coÃ»ter 1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712760446173,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712759157884,
+      "content": "Moi je suis Ã  agoÃ© Carrefour bleu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752460833,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752455854,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712750212246,
+      "content": "Je veux un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735782976,
+      "content": "Bonjour c'est disponible,\nL'unitÃ© est Ã  2500,\nvous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735197874,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735197434,
+      "content": "Edoh Komi Poussesse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735194369,
+      "content": "Edoh Komi a nommÃ© le groupe Edoh Komi Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735194369,
+      "content": "Edoh Komi a modifiÃ© la photo du groupe."
+    }
+  ]
+}

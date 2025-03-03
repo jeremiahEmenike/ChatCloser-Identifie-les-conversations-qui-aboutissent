@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712605673860,
+      "content": "Vous voulez combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712605668100,
+      "content": "Bonjour, oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712605042527,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712605042035,
+      "content": "Agossi Agossi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712605039717,
+      "content": "Agossi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712605039392,
+      "content": "Agossi a nommÃ© le groupe Agossi Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

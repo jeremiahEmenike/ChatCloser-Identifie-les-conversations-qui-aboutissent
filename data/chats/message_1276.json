@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708710410661,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708700743533,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708669018556,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708669018168,
+      "content": "Stone Lamarque"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708669015352,
+      "content": "Stone a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708669014769,
+      "content": "Stone a nommÃ© le groupe Stone Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

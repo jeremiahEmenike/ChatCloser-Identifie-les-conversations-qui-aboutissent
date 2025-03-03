@@ -1,0 +1,65 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713074550988,
+      "content": "97135798"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052168771,
+      "content": "Donnez moi votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713043103393,
+      "content": "Je suis au niveau de Togo-2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713043068474,
+      "content": "Ok moi je au niveau de Togo-2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713008131812,
+      "content": "C'est Ã§a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713008091560,
+      "content": "Oui mais c'est un que je veut pour empreinte"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713007101392,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713006577249,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713006573236,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713006572812,
+      "content": "FrÃ©dÃ©ric DombÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713006570522,
+      "content": "FrÃ©dÃ©ric a nommÃ© le groupe FrÃ©dÃ©ric Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713006570522,
+      "content": "FrÃ©dÃ©ric a modifiÃ© la photo du groupe."
+    }
+  ]
+}

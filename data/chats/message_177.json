@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713276165869,
+      "content": "Bonjour c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713273104785,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713273104509,
+      "content": "Ben Stick"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713273101713,
+      "content": "Ben a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713273101249,
+      "content": "Ben a nommÃ© le groupe Ben Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

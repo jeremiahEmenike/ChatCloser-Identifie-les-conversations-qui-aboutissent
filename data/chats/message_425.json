@@ -1,0 +1,100 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712519989182,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712519985315,
+      "content": "Pour la livraison Ã§a dÃ©pend de la distance"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712519971132,
+      "content": "C'est le prix du produit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712519954687,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712519868619,
+      "content": "Combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712518334233,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712516946327,
+      "content": "La livraison c'est payant ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513588636,
+      "content": "On viendra vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513581330,
+      "content": "Envoyer votre localisation au 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513565915,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712512942758,
+      "content": "Adidogome"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712512918154,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712485481075,
+      "content": "Je veux 1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712484864748,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712484656602,
+      "content": "C'est combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712484542120,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712484541945,
+      "content": "Eric EM"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712484539729,
+      "content": "Eric a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712484539596,
+      "content": "Eric a nommÃ© le groupe Eric Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

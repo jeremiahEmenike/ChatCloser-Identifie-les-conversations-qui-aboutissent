@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698239614,
+      "content": "Non il ne reste que le blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698216604,
+      "content": "coleur bleu dispo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698199255,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698022635,
+      "content": "oui cmb"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698012847,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701697769389,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701697769307,
+      "content": "Edemos L'international"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701697765241,
+      "content": "Edemos a nommÃ© le groupe Edemos Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701697765241,
+      "content": "Edemos a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701697765241,
+      "content": "Cet article est-il toujours disponible ?"
+    }
+  ]
+}

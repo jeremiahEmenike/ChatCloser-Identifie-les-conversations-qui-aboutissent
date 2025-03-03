@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712605719507,
+      "content": "2h si c'est non stop"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712603994574,
+      "content": "J'ai parlÃ© de la durÃ©e de la batterie"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712603866909,
+      "content": "Tout fait 3500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712603853712,
+      "content": "Vous allez payer les deux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712603825834,
+      "content": "OK je veux Ã§a le mercredi et le dÃ©placement"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712603707793,
+      "content": "On peut envoyer par poste"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712603672425,
+      "content": "La durÃ©e de patteri"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712603592519,
+      "content": "Moi je suis Ã  sotouboua es vous pouvez m'envoyer Ã§a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712603318480,
+      "content": "D'accord vous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712603300584,
+      "content": "Oui je suis intÃ©ressÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712530451978,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712530191224,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712530186435,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712530186261,
+      "content": "David Kogoro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712530183342,
+      "content": "David a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712530182924,
+      "content": "David a nommÃ© le groupe David Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

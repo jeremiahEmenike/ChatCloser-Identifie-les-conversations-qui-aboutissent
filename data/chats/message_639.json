@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696840840459,
+      "content": "+22870481346"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696840792510,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696840691499,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696840644034,
+      "content": "C'est la montre+l'Ã©couteur et les bracelets qui sont Ã  8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696840609354,
+      "content": "DÃ©solÃ© c'est 8000 le dernier prix."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696839603320,
+      "content": "Parce que 8000 pour la package câest un peu lourd."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696839581557,
+      "content": "Et câest quoi le dernier prix ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696839574373,
+      "content": "Envoyez moi la localisation."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696839447432,
+      "content": "D'accord vous allez venir prendre ou vous voulez qu'on vous livre ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696839434263,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696839382869,
+      "content": "Vous Ãªtes situez oÃ¹ ? Je voulais en prendre 1â¦"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696839348298,
+      "content": "Bonjour, c'est disponible,  vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696799036277,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696799031041,
+      "content": "Cet article mâintÃ©resse."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696799030563,
+      "content": "Utilisateur Facebook a envoyÃ© une piÃ¨ce jointe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696799028540,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696799028259,
+      "content": "Un contact a nommÃ© le groupe Indjele Antchoue Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

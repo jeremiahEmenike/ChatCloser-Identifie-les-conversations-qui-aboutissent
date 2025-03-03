@@ -1,0 +1,35 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700682863881,
+      "content": "Faites moi signe sur WhatsApp 93137936"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700682277144,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700678633690,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700678633157,
+      "content": "Sina Traore"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700678631082,
+      "content": "Sina a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700678630577,
+      "content": "Sina a nommÃ© le groupe Sina Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720755106882,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720743516781,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720743516237,
+      "content": "Debiv Dewildo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720743513972,
+      "content": "Debiv a nommÃ© le groupe Debiv Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720743513972,
+      "content": "Debiv a modifiÃ© la photo du groupe."
+    }
+  ]
+}

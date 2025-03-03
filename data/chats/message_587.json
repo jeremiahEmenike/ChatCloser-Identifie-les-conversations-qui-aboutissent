@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213196240,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213191772,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713210306939,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713210306443,
+      "content": "HAristo N'tsouglo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713210303780,
+      "content": "HAristo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713210303307,
+      "content": "HAristo a nommÃ© le groupe HAristo Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

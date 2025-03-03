@@ -1,0 +1,110 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701538379360,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701538342972,
+      "content": "NN, c'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701538314425,
+      "content": "Je peux l'avoir oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701538304696,
+      "content": "J'ai 2k Ã§a marche"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701538294624,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701451266259,
+      "content": "Non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701446247847,
+      "content": "Vous n'avez op les pro 5s"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701446237134,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445994114,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445969428,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445798293,
+      "content": "L'autonomie est bonne ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445789176,
+      "content": "Tof stp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445784172,
+      "content": "ð¥º"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445770972,
+      "content": "Il ne reste que le blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445552318,
+      "content": "Du noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445539617,
+      "content": "Tof"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444548755,
+      "content": "Bonjour c'est disponible, vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701436108685,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701436108245,
+      "content": "Sensy Rod Coqteintclair Ank"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701436103973,
+      "content": "Sensy Rod a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701436103544,
+      "content": "Sensy Rod a nommÃ© le groupe Sensy Rod Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

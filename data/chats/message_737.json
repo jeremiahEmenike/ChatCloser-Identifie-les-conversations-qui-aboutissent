@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705868487552,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705696706012,
+      "content": "C'est Ã  9000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705696696860,
+      "content": "C'est ce qui reste"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705696689982,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705696360669,
+      "content": "Le prix est quelques photos"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705682652372,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705682580813,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705682580322,
+      "content": "JosuÃ© Selom"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705682578284,
+      "content": "JosuÃ© a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705682577730,
+      "content": "JosuÃ© a nommÃ© le groupe JosuÃ© Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700935399101,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700935329619,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700932690132,
+      "content": "Ok cmt il fonctionne"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700932622846,
+      "content": "Nn"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700932609102,
+      "content": "?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700932606434,
+      "content": "C'est ce que Ã§a fait des tÃ©lÃ©chargements sans un tÃ©lÃ©phone connectÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700932509595,
+      "content": "8500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700932406548,
+      "content": "?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700932404269,
+      "content": "C'est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700932326051,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700931652400,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700931651905,
+      "content": "Malik Adamou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700931648979,
+      "content": "Malik a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700931648402,
+      "content": "Malik a nommÃ© le groupe Malik Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

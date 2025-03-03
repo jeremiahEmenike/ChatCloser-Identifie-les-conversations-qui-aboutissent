@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701620037942,
+      "content": "Vous allez venir quand"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701620001268,
+      "content": "Ok merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701619953370,
+      "content": "Nous sommes Ã  agbalepedo groupe C\n\nPrendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le corner Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701619604170,
+      "content": "Câest vers oÃ¹ Ã§a ?!"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701619056474,
+      "content": "Nous sommes Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701618608729,
+      "content": "1 blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701618318099,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701618303761,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701617749478,
+      "content": "Jean-Luc Kessouagni"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701617746133,
+      "content": "Jean-Luc a nommÃ© le groupe Jean-Luc Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701617746133,
+      "content": "Jean-Luc a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701617746133,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

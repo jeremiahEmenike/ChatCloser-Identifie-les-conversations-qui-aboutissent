@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693256206589,
+      "content": "Pour le moment c'est en rupture"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693255725273,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693255724877,
+      "content": "Donne Gantin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693255722508,
+      "content": "Donne a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693255721955,
+      "content": "Donne a nommÃ© le groupe Donne Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

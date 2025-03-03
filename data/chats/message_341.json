@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721129209554,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721118370924,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721118353586,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721118347814,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721118347211,
+      "content": "Dieu DonnÃ©e Ahlonss OU"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721118345239,
+      "content": "Dieu DonnÃ©e a nommÃ© le groupe Dieu DonnÃ©e Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721118345239,
+      "content": "Dieu DonnÃ©e a modifiÃ© la photo du groupe."
+    }
+  ]
+}

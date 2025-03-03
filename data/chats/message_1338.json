@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719983250958,
+      "content": "Annonces similaires Ã  Â«Â CanapÃ©, table centrale, table Ã  manger tout disponible Ã  un prix abordableÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719870426143,
+      "content": "combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719869893002,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719853644239,
+      "content": "Bonjour Haque,la television est Ã  combien  ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719853641133,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719853640725,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· CanapÃ©, table centrale, table Ã  manger tout disponible Ã  un prix abordable."
+    }
+  ]
+}

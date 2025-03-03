@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700492537269,
+      "content": "C'est 8000, le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700492528378,
+      "content": "Non c'est pas possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700490866309,
+      "content": "Jâai 6 mille. Ãa peux aller?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700483938111,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700483902155,
+      "content": "8 mille?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700483604785,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700482984991,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700482980830,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700482980358,
+      "content": "Vicky Shuga"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700482977618,
+      "content": "Vicky a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700482977074,
+      "content": "Vicky a nommÃ© le groupe Vicky Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738529621,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720737243401,
+      "content": "Okay well"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720737108754,
+      "content": "C'est vraiment 3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736687634,
+      "content": "Ok lâas"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736626397,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720731382527,
+      "content": "Le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720722024651,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720721955540,
+      "content": "Salut"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720721942452,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720721936913,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720721936538,
+      "content": "Assiobo Macro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720721933779,
+      "content": "Assiobo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720721933353,
+      "content": "Assiobo a nommÃ© le groupe Assiobo Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697131064021,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697131061213,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697032681220,
+      "content": "LomÃ© mais on peut venir te livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697028422685,
+      "content": "Et toi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697028416910,
+      "content": "Moi je suis Ã  notse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697015980848,
+      "content": "D'accord vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697015953278,
+      "content": "6"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697014204929,
+      "content": "Bonjour oui c'est dispo vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697013533827,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697013533449,
+      "content": "Dermane Bonfoh"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697013531734,
+      "content": "Dermane a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697013531401,
+      "content": "Dermane a nommÃ© le groupe Dermane Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

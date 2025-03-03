@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712915451815,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712913195248,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712910565279,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712910560314,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712906748253,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712906747787,
+      "content": "Makye Dieu-donnÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712906745448,
+      "content": "Dieu-donnÃ© a nommÃ© le groupe Dieu-donnÃ© Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712906745448,
+      "content": "Dieu-donnÃ© a modifiÃ© la photo du groupe."
+    }
+  ]
+}

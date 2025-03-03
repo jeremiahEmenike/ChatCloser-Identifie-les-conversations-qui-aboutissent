@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712577548743,
+      "content": "Bonjour\nC'est disponible\nVous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712569231774,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712569231344,
+      "content": "Fata Evo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712569229326,
+      "content": "Fata a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712569229008,
+      "content": "Fata a nommÃ© le groupe Fata Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713302420710,
+      "content": "Bonjour c'est disponible, vous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713296795024,
+      "content": "Salut ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713296701922,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713296701354,
+      "content": "Kpadayii Narcisse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713296698819,
+      "content": "Kpadayii a nommÃ© le groupe Kpadayii Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713296698819,
+      "content": "Kpadayii a modifiÃ© la photo du groupe."
+    }
+  ]
+}

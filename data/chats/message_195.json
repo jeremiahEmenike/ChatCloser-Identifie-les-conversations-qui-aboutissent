@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701398063425,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701398063042,
+      "content": "Bertrand Rinaldo Akpawu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701398060296,
+      "content": "Bertrand Rinaldo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701398059860,
+      "content": "Bertrand Rinaldo a nommÃ© le groupe Bertrand Rinaldo Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713338685370,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713338685199,
+      "content": "Kossi AmÃ©tÃ©pÃ© Gogoe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713338681417,
+      "content": "Kossi AmÃ©tÃ©pÃ© a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713338681211,
+      "content": "Kossi AmÃ©tÃ©pÃ© a nommÃ© le groupe Kossi AmÃ©tÃ©pÃ© Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

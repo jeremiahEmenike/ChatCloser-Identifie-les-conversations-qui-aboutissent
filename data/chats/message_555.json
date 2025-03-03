@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874720590,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712850671508,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712843438424,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712843433881,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712801447646,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712801443226,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712801442742,
+      "content": "Gerrard Adjavoin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712801439416,
+      "content": "Gerrard a nommÃ© le groupe Gerrard Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712801439416,
+      "content": "Gerrard a modifiÃ© la photo du groupe."
+    }
+  ]
+}

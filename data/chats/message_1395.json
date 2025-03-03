@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680529081,
+      "content": "Il ne reste que celui ci Ã  10500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680517191,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680497010,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702668354389,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702668353881,
+      "content": "Vif Aziaka"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702668351670,
+      "content": "Vif a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702668351183,
+      "content": "Vif a nommÃ© le groupe Vif Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701259156195,
+      "content": "C'est trÃ¨s insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701248233001,
+      "content": "1500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247677643,
+      "content": "Oui c'est disponible. Est-ce quâil vous intÃ©resse toujours ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247319050,
+      "content": "Ikbale Mohamed"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247316275,
+      "content": "Ikbale a nommÃ© le groupe Ikbale Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247316275,
+      "content": "Ikbale a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247316275,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

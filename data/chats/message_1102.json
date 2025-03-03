@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712879870846,
+      "content": "Mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712879838316,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712878965554,
+      "content": "Un seul"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712878960327,
+      "content": "Tu es oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712878788602,
+      "content": "Bonjour c'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712878368259,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712878367868,
+      "content": "AnÃ¸Å«mÅÃ¼ PÃ£ulÄ©n"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712878365422,
+      "content": "PÃ£ulÄ©n a nommÃ© le groupe PÃ£ulÄ©n Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712878365422,
+      "content": "PÃ£ulÄ©n a modifiÃ© la photo du groupe."
+    }
+  ]
+}

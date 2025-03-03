@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721051750294,
+      "content": "Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721050789998,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721050760528,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721049980689,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721049970693,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721049970084,
+      "content": "JosÃ©phine Joyce Awlime"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721049966465,
+      "content": "JosÃ©phine a nommÃ© le groupe JosÃ©phine Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721049966465,
+      "content": "JosÃ©phine a modifiÃ© la photo du groupe."
+    }
+  ]
+}

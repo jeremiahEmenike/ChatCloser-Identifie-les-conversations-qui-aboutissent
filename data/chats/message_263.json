@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713349627142,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713349626855,
+      "content": "Claude Sena"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713349624359,
+      "content": "Claude a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713349623843,
+      "content": "Claude a nommÃ© le groupe Claude Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

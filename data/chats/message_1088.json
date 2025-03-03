@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707824397073,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707824276196,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707823682273,
+      "content": "D'accord. Donnez moi votre contact svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707805762117,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707804713212,
+      "content": "Bonjour. D'accord\nLe prix c'est 2500f?\nVous faites les livraisons ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798053366,
+      "content": "Bonjour c'est disponible,\nVous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707777527280,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707777527065,
+      "content": "Pamela Mawupemon Soko"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707777524320,
+      "content": "Pamela Mawupemon a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707777523542,
+      "content": "Pamela Mawupemon a nommÃ© le groupe Pamela Mawupemon Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

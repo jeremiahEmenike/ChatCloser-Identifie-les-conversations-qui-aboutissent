@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714310748746,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714310691408,
+      "content": "C'est fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714294346510,
+      "content": "Je veux un. Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712944152890,
+      "content": "Bonjour\nC'est disponible Ã  2500 vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712931831427,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712931830798,
+      "content": "RaphaÃ«l Kanfitine"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712931827474,
+      "content": "RaphaÃ«l a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712931827473,
+      "content": "RaphaÃ«l a nommÃ© le groupe RaphaÃ«l Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

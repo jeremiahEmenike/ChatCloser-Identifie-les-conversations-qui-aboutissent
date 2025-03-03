@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713366747032,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713366746606,
+      "content": "Charli Charlo Sehoue"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713366744211,
+      "content": "Charli Charlo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713366744210,
+      "content": "Charli Charlo a nommÃ© le groupe Charli Charlo Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

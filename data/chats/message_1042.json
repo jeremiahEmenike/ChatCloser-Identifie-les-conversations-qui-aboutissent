@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712518358544,
+      "content": "Nous sommes Ã  legbassito quartier avinato mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712518340815,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712516686641,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712442480374,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712441310984,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712441306623,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712441306114,
+      "content": "Nadia Agbere"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712441303300,
+      "content": "Nadia a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712441302987,
+      "content": "Nadia a nommÃ© le groupe Nadia Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

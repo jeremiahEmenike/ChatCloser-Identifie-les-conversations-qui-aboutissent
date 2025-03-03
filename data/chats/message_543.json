@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704904613639,
+      "content": "Vous voulez prendre??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704901650081,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704901649970,
+      "content": "Il ne reste que Ã§a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704901552937,
+      "content": "oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704900793159,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704868835949,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704868829845,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704868829460,
+      "content": "Gentleman's Sam"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704868826634,
+      "content": "Gentleman's a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704868825911,
+      "content": "Gentleman's a nommÃ© le groupe Gentleman's Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

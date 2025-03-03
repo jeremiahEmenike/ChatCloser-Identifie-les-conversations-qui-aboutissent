@@ -1,0 +1,65 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438297436,
+      "content": "OK merci bien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415247332,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701392808594,
+      "content": "Oui oui i.q"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701359501038,
+      "content": "Vous allez passer??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701359260147,
+      "content": "OK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701358458358,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701356632808,
+      "content": "Ok tu et oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701356221598,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701356193006,
+      "content": "Hassane Issaka Moustapha Hassane"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701356189382,
+      "content": "Hassane Issaka Moustapha a nommÃ© le groupe Hassane Issaka Moustapha Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701356189382,
+      "content": "Hassane Issaka Moustapha a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701356189382,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

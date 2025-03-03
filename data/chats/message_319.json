@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034381380,
+      "content": "2h"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034231000,
+      "content": "Oui .son autonomie svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034214073,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034179726,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034174760,
+      "content": "Quelle est son autonomie svp?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034174558,
+      "content": "D'dier Bright Labare"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034172589,
+      "content": "D'dier a nommÃ© le groupe D'dier Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034172589,
+      "content": "D'dier a modifiÃ© la photo du groupe."
+    }
+  ]
+}

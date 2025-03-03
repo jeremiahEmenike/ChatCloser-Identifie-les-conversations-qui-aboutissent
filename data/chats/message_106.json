@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721152501967,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721150400608,
+      "content": "Je peux voir les photos"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721149021086,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721147894610,
+      "content": "Vous Ãªtes vers oÃ¹ svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721147693487,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721146289600,
+      "content": "Prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721142726817,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721136896712,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721136896059,
+      "content": "AndrÃ© AndrÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721136892936,
+      "content": "AndrÃ© a nommÃ© le groupe AndrÃ© Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721136892936,
+      "content": "AndrÃ© a modifiÃ© la photo du groupe."
+    }
+  ]
+}

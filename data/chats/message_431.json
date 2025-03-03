@@ -1,0 +1,160 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701000669930,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701000627856,
+      "content": "Câest ensemble avec les airs pod ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701000613970,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700999576964,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700993985297,
+      "content": "LâunitÃ© ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700993433530,
+      "content": "7500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700993251806,
+      "content": "Vous allez me laisser Ã§a Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700993241348,
+      "content": "Je veux deux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700993190727,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700991867351,
+      "content": "Je veux deux laissÃ© moi votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700991844659,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700991765654,
+      "content": "Je veux deux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700991692617,
+      "content": "Cc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700860584467,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700806375991,
+      "content": "Jâai 7mil"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700780259165,
+      "content": "7500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700778379208,
+      "content": "Le dernier prix câest combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700778360711,
+      "content": "TrÃ¨s insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700778339378,
+      "content": "Jâai 6000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700778279732,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700778265815,
+      "content": "Dernier prix combien !"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700778191020,
+      "content": "8500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700778181050,
+      "content": "Combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700778092057,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700778026187,
+      "content": "CaractÃ©ristiques"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700777941671,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700777643610,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700777639932,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700777639396,
+      "content": "Erik Ericalan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700777637137,
+      "content": "Erik a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700777636602,
+      "content": "Erik a nommÃ© le groupe Erik Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

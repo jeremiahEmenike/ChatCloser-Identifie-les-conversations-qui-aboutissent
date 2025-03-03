@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707647714653,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707645849435,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707645844512,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707645843912,
+      "content": "Rima Akpavi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707645840122,
+      "content": "Rima a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707645839404,
+      "content": "Rima a nommÃ© le groupe Rima Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

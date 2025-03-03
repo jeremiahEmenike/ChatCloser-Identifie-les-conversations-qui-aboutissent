@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701296279384,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294344906,
+      "content": "DÃ©solÃ©, C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294311806,
+      "content": "Oui j'ai 2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294289992,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294260784,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294253242,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294252606,
+      "content": "Catherin Kpassira"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294248496,
+      "content": "Catherin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294247705,
+      "content": "Catherin a nommÃ© le groupe Catherin Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698588449810,
+      "content": "Bonsoir c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698581476210,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698581475838,
+      "content": "Eloitic Eloi Dizewe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698581472288,
+      "content": "Eloitic Eloi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698581471484,
+      "content": "Eloitic Eloi a nommÃ© le groupe Eloitic Eloi Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

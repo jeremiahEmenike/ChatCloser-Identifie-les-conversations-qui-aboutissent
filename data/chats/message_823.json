@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701428512909,
+      "content": "DerniÃ¨re prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701428421171,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701428417034,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701428064836,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701428064383,
+      "content": "Kokou Martial"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701428062400,
+      "content": "Kokou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701428062022,
+      "content": "Kokou a nommÃ© le groupe Kokou Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

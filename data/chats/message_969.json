@@ -1,0 +1,45 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701358445572,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701357786927,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700492541129,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700490350360,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700490345638,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700490344922,
+      "content": "Mathias Agbadji"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700490342219,
+      "content": "Mathias a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700490341886,
+      "content": "Mathias a nommÃ© le groupe Mathias Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680485504,
+      "content": "Give me your number"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680474407,
+      "content": "Send me your localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680462122,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701672169219,
+      "content": "I stays at boader T oil"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701672147403,
+      "content": "How much does the delivery cost?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701513507998,
+      "content": "We are in \"agbalepedo groupe C\", you can pick up or we can come and deliver to you but you will pay for the delivery"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701475911100,
+      "content": "How can someone get a piece?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466974294,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466818981,
+      "content": "How much for one?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701378115306,
+      "content": "Yes"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701378058892,
+      "content": "Please do you speak English?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701375401309,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701372787176,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701372783304,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701372782966,
+      "content": "Favourite Choice"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701372780889,
+      "content": "Favourite a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701372780505,
+      "content": "Favourite a nommÃ© le groupe Favourite Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

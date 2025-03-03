@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701295010523,
+      "content": "Faite moi signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701295002998,
+      "content": "ArrivÃ© au niveau de pharmacie groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294983576,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701168233950,
+      "content": "Vous vous situez oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701168227265,
+      "content": "Oui mon grand"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701167633123,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701166970530,
+      "content": "KÃ¯lleur Dov"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701166970492,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701166967422,
+      "content": "KÃ¯lleur a nommÃ© le groupe KÃ¯lleur Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701166967422,
+      "content": "KÃ¯lleur a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701166967422,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719155095010,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719155081952,
+      "content": "La nouvelle arrivage est un peu chÃ¨re"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719154614594,
+      "content": "2500 j'ai vu la fois derniÃ¨re"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719154597353,
+      "content": "Actuellement c'est Ã  3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719154583336,
+      "content": "ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719154580144,
+      "content": "Le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719154568932,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719148570429,
+      "content": "L'Ã©couteur est disponible ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719148564702,
+      "content": "Cc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712428717229,
+      "content": "Voulez-vous Ãªtre livrÃ©??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712428703481,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712428228661,
+      "content": "Hi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010911997,
+      "content": "Ok ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010885008,
+      "content": "Hummmm, je peux vous laisser Ã§a Ã  4500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010820392,
+      "content": "Si je veux prendre 2 ? Le prix va diminuer ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010796406,
+      "content": "La soirÃ©e vous saurez"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010779449,
+      "content": "Parce que je ne suis pas Ã  la maison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010777103,
+      "content": "D'accord vous voulez Ã§a quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010765046,
+      "content": "Mais je ne prends pas Ã§a aujourd'hui."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010726695,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010717415,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010680982,
+      "content": "Zopomahe c'est aprÃ¨s zossimÃ© non??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010658988,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010642967,
+      "content": "ð±"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010642377,
+      "content": "Envoyez-moi votre localisation sur ce numÃ©ro 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010620163,
+      "content": "OK, 1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010606187,
+      "content": "Ãcole victorieux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010593579,
+      "content": "Zopomahe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010581892,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010554721,
+      "content": "La livraison est a combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010519853,
+      "content": "J'attends votre dÃ©cision"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010513072,
+      "content": "Ãa va"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708008600630,
+      "content": "C'est comment"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708008593698,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708001860812,
+      "content": "Bonjour vous voulez qu'on vous livre??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707996996007,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707951826592,
+      "content": "Nous sommes Ã  legbassito mais on livre aussi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707951805035,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707925569066,
+      "content": "2500???"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707925563692,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707920091872,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707913579703,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707913575705,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707913575256,
+      "content": "John Ricky"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707913573225,
+      "content": "John a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707913572147,
+      "content": "John a nommÃ© le groupe John Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

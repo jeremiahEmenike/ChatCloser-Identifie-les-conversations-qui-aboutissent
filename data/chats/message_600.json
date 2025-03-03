@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707564099744,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707564085449,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707563174279,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707563167766,
+      "content": "C'est toujours disponible ?\n\nA combien votre Last chef ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707563167498,
+      "content": "Hidre Tchassona"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707563164306,
+      "content": "Hidre a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707563163465,
+      "content": "Hidre a nommÃ© le groupe Hidre Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707907125029,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707906969406,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707906968995,
+      "content": "Maliki Bawa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707906966905,
+      "content": "Maliki a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707906966462,
+      "content": "Maliki a nommÃ© le groupe Maliki Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

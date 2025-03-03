@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701630255387,
+      "content": "bonsoir mon frÃ¨re comment tu vas et la famille je suis intÃ©ressÃ© demain Ã  10h30 il faut m'Ã©crire sur 91 93 93 11 je vais t'indiquer la droite tu m'emmÃ¨nes un mais le blanc dans le carton tout"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701630254849,
+      "content": "Senam Kossi Agbo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701630252929,
+      "content": "Senam Kossi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701630252388,
+      "content": "Senam Kossi a nommÃ© le groupe Senam Kossi Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

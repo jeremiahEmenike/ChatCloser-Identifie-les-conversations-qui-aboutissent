@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701465178110,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463640514,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463634242,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463633888,
+      "content": "Mouiz Oupkedjo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463631479,
+      "content": "Mouiz a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463630959,
+      "content": "Mouiz a nommÃ© le groupe Mouiz Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

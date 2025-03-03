@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712577570157,
+      "content": "Bonjour\nC'est disponible\nVous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712565273759,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712565273343,
+      "content": "Godson Godson"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712565271345,
+      "content": "Godson a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712565270924,
+      "content": "Godson a nommÃ© le groupe Godson Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697046312085,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697046289814,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697046270193,
+      "content": "Votre num"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696950706847,
+      "content": "C'est Ã  8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696947391785,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696947370177,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696947369871,
+      "content": "DSteve Couronne"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696947368449,
+      "content": "DSteve a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696947368283,
+      "content": "DSteve a nommÃ© le groupe DSteve Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

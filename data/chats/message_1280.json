@@ -1,0 +1,90 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993163677,
+      "content": "Bonjour, comment allez vous?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712738391896,
+      "content": "agoe jume vous fais signe demain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712738250900,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712738177076,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712738176904,
+      "content": "d accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712738171160,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712738167164,
+      "content": "Mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712738146926,
+      "content": "laisse moi ton numÃ©ro stp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712738136680,
+      "content": "ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712738118996,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712736331152,
+      "content": "vous Ãªtes"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712736327603,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735797952,
+      "content": "Bonjour c'est disponible,\nL'unitÃ© est Ã  2500,\nvous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712733480133,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712733479714,
+      "content": "Syl Mas"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712733477701,
+      "content": "Syl a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712733477700,
+      "content": "Syl a nommÃ© le groupe Syl Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

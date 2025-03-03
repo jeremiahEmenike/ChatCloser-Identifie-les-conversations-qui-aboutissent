@@ -1,0 +1,80 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712659029468,
+      "content": "98304218"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712659008149,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658809449,
+      "content": "je vous donne 500 pour livraison svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658279111,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658273756,
+      "content": "Livraison 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658150452,
+      "content": "adakpame"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658065126,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658047416,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658021894,
+      "content": "vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658017952,
+      "content": "un seul"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712657925662,
+      "content": "Bonjour c'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712651108315,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712651108081,
+      "content": "Olloph Freeson Hognaglo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712651105200,
+      "content": "Olloph a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712651104679,
+      "content": "Olloph a nommÃ© le groupe Olloph Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

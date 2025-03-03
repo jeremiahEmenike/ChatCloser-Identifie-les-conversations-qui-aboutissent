@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713005454952,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713005196712,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713005196194,
+      "content": "Yaovi Gavi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713005193443,
+      "content": "Yaovi a nommÃ© le groupe Yaovi Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713005193443,
+      "content": "Yaovi a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700553666202,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujours ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699943481148,
+      "content": "Joel Sognon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699943478499,
+      "content": "Joel a nommÃ© le groupe Joel Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699943478499,
+      "content": "Joel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699943478499,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

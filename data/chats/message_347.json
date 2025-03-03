@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708002093109,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707982602596,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707982597215,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707982596748,
+      "content": "Djochoi Adjidji"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707982593971,
+      "content": "Djochoi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707982593255,
+      "content": "Djochoi a nommÃ© le groupe Djochoi Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

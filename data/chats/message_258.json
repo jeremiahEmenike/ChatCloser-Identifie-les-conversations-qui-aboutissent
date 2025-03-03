@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714059523941,
+      "content": "C'est plus possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714058473267,
+      "content": "NN c'est a vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714058420352,
+      "content": "J'espÃ¨re que la livraison est gratuite"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714057870309,
+      "content": "D'accord on va vous livrer demain soir."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714057008692,
+      "content": "Je suis dans le bon de la banque bsic en venant d'attikoumÃ© mais je veux Ãªtre livre la nuit a partir de 21h c'est l'heure a  la quelle je suis libre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714056677654,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714055550625,
+      "content": "Je serai livrÃ© ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714055478407,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714055005514,
+      "content": "Le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714055000630,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714054001734,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714053389162,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714053383175,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714053382720,
+      "content": "Christ Roi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714053380025,
+      "content": "Christ a nommÃ© le groupe Christ Â· Ãcouteurs sans fil Pro 6 New. VENTE EN GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714053380025,
+      "content": "Christ a modifiÃ© la photo du groupe."
+    }
+  ]
+}

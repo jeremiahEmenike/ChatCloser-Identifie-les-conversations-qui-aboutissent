@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700904293390,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700860570372,
+      "content": "Bonjour, il reste que celui ci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700860557967,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700835182640,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700835182208,
+      "content": "Blaise Akpaki"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700835179230,
+      "content": "Blaise a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700835178632,
+      "content": "Blaise a nommÃ© le groupe Blaise Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

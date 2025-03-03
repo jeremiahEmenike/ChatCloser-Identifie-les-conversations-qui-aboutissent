@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874300549,
+      "content": "La livraison va vous coÃ»ter 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874290305,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712869922565,
+      "content": "je suis Ã  atiÃ©gou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707677183129,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707671267673,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648197584,
+      "content": "Bonjour sa majestÃ©.\nC'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707622028193,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707622027858,
+      "content": "Germain Kayina"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707622024623,
+      "content": "Germain a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707622023776,
+      "content": "Germain a nommÃ© le groupe Germain Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

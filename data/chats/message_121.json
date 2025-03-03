@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720939807780,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720939800743,
+      "content": "Bonjour oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720914470965,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720914470752,
+      "content": "Apollinaire Yendoukoa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720914468109,
+      "content": "Apollinaire a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720914467635,
+      "content": "Apollinaire a nommÃ© le groupe Apollinaire Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658244441,
+      "content": "La livraison est Ã  1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712640678851,
+      "content": "Je suis vers le campus nord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562546255,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712555973322,
+      "content": "Je veux 1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712526528198,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712526228882,
+      "content": "Xe combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712526219744,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712525372670,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712525368732,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712525365411,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712524127535,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712524127047,
+      "content": "Obed Buaben"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712524124988,
+      "content": "Obed a nommÃ© le groupe Obed Â· Ãcouteurs sans fil Pro 6 New. VENTE EN GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712524124988,
+      "content": "Obed a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707647036291,
+      "content": "where do you live"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707647036046,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707600175108,
+      "content": "I need one tomorrow"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707572954389,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707571141172,
+      "content": "How much"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707570048908,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707569746057,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707569745621,
+      "content": "Ä¨kechÅ© Kwu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707569742091,
+      "content": "Ä¨kechÅ© a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707569741505,
+      "content": "Ä¨kechÅ© a nommÃ© le groupe Ä¨kechÅ© Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

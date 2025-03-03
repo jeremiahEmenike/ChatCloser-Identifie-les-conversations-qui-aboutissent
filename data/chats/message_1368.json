@@ -1,0 +1,60 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697711464919,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697711460821,
+      "content": "Envoyer moi votre localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697711454194,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697435787195,
+      "content": "Voir des annonces similaires"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697317006421,
+      "content": "Vous pouvez passer rÃ©cupÃ©rer soit on vous livre. C'est une boutique en ligne. Merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697316990323,
+      "content": "CAP telessou non loin de LÃ©o 2000."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697316960955,
+      "content": "Vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697314448675,
+      "content": "Bonjour j'espÃ¨re que vous allez bien.\n\nTaille grande : 178/87cm.8milles l'unitÃ©.\nTaille moyenne : 138/69 cm 5milles l'unitÃ© \n Taille petite : 90/50cm 3 milles l'unitÃ©."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697306184906,
+      "content": "Bonjour, vous etes ou svp ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697306182511,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697306181934,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Serviette de bain de super qualitÃ©."
+    }
+  ]
+}

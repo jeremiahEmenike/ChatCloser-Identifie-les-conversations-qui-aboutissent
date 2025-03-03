@@ -1,0 +1,45 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721296258371,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295429003,
+      "content": "NumÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295411034,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721294297117,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721294292329,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721294291834,
+      "content": "Messanh Azamati"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721294289698,
+      "content": "Messanh a nommÃ© le groupe Messanh Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721294289698,
+      "content": "Messanh a modifiÃ© la photo du groupe."
+    }
+  ]
+}

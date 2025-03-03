@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721332394579,
+      "content": "Annonces similaires Ã  Â«Â Chemises manches longuesÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721325806070,
+      "content": "Akim a vendu Chemises manches longues."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721235139116,
+      "content": "Vous pouvez maintenant Ã©valuer ce vendeur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721235138032,
+      "content": "Oups"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721211675736,
+      "content": "Je suis Ã  aneho"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721211671095,
+      "content": "Je ne suis pas Ã  LomÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721209663999,
+      "content": "Actuellement je suis entrain de livrer quelq'un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721209643541,
+      "content": "A la boutique c'est en gros on vend heinn?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721209223738,
+      "content": "Envoyez moi la localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721209214917,
+      "content": "Je vais passer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721208610706,
+      "content": "Vous passerez ou vous voulez Ãªtre livrÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721204576953,
+      "content": "XL"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721204421329,
+      "content": "Oui vous voulez quel size?\nEt combien d'unitÃ©s ?\n\nJe suis au Grand marchÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721202789825,
+      "content": "Bonjour Akim, vous Ãªtes oÃ¹  ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721202786695,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Chemises manches longues."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721202786695,
+      "content": "Vous avez changÃ© la photo du groupe."
+    }
+  ]
+}

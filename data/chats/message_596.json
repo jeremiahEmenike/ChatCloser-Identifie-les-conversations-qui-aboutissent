@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701785379562,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701778929784,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701778929162,
+      "content": "Hermann Divin Abotsi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701778926471,
+      "content": "Hermann Divin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701778925981,
+      "content": "Hermann Divin a nommÃ© le groupe Hermann Divin Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

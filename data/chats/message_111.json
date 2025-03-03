@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719296826531,
+      "content": "Bonjour les Ã©couteurs sont disponibles"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714332196802,
+      "content": "2500 mais c'est fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714332151816,
+      "content": "Oui c'est Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713953571433,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713872318531,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713872311413,
+      "content": "Bonjour cet article est disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713872311193,
+      "content": "Anni Edg"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713872308268,
+      "content": "Anni a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713872307789,
+      "content": "Anni a nommÃ© le groupe Anni Â· Ãcouteurs sans fil Pro 6 New EN GROS ET EN DETAIL."
+    }
+  ]
+}

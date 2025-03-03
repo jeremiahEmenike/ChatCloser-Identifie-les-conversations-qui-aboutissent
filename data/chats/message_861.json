@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707852197022,
+      "content": "92800148"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707852101707,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707852096870,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707849459205,
+      "content": "Je vais demander est-ce que je peux avoir votre numÃ©ro va mieux causer sur WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707841385290,
+      "content": "Bonjour c'est disponible. \nNous avons le blanc et le noir\nVous voulez laquelle??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707829620476,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707829614826,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707829614196,
+      "content": "Lasky Lasky"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707829611400,
+      "content": "Lasky a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707829610613,
+      "content": "Lasky a nommÃ© le groupe Lasky Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

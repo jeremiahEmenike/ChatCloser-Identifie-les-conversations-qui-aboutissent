@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721200659738,
+      "content": "Nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721200656539,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721180063817,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721180063329,
+      "content": "Julien Kemetcho"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721180059706,
+      "content": "Julien a nommÃ© le groupe Julien Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721180059706,
+      "content": "Julien a modifiÃ© la photo du groupe."
+    }
+  ]
+}

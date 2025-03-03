@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696702814551,
+      "content": "OK OK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696700199655,
+      "content": "Ãa ne prend pas de sim"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696700187935,
+      "content": "Nn"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696700039412,
+      "content": "c'est deux sim"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696700018105,
+      "content": "prix svp vous faites deal aussi?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696699965729,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696699655239,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696699650995,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696699650403,
+      "content": "Enfant Benie Julien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696699648949,
+      "content": "Enfant Benie a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696699648448,
+      "content": "Enfant Benie a nommÃ© le groupe Enfant Benie Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

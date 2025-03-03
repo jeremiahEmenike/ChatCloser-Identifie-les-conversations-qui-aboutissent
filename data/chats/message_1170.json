@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707462942149,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707462726586,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707462722439,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707462721924,
+      "content": "RhÃ©ma David"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707462718920,
+      "content": "RhÃ©ma a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707462717880,
+      "content": "RhÃ©ma a nommÃ© le groupe RhÃ©ma Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

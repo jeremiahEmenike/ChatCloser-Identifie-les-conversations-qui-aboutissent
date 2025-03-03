@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702842739341,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702838791279,
+      "content": "DÃ©solÃ©, il nâest pas disponible."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701807680144,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701807673858,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701807673620,
+      "content": "Augustin Augustin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701807671201,
+      "content": "Augustin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701807670619,
+      "content": "Augustin a nommÃ© le groupe Ivan Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

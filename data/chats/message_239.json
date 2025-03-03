@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710441615289,
+      "content": "Bonsoir c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710440507123,
+      "content": "Bonsoir, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710440506692,
+      "content": "Chacha Chacha"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710440504307,
+      "content": "Chacha a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710440503750,
+      "content": "Chacha a nommÃ© le groupe Chacha Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    }
+  ]
+}

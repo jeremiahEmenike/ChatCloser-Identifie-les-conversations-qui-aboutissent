@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720869081787,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868444524,
+      "content": "Et les caractÃ©ristiques du produit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868426001,
+      "content": "C'est quoi le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868332529,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868217998,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868152104,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868029275,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868023740,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868023327,
+      "content": "Ithiel Gb"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868020758,
+      "content": "Ithiel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720868020416,
+      "content": "Ithiel a nommÃ© le groupe Ithiel Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

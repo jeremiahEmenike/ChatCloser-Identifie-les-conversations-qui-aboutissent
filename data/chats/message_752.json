@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720793468128,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720790666663,
+      "content": "Svp je veut un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720790666407,
+      "content": "Junior Kounde"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720790662979,
+      "content": "Junior a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720790662559,
+      "content": "Junior a nommÃ© le groupe Junior Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

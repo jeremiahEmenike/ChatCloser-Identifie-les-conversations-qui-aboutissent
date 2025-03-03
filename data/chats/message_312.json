@@ -1,0 +1,80 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713099776261,
+      "content": "90506747"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713099631423,
+      "content": "Donne-moi ton numÃ©ro."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713099618052,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713099498375,
+      "content": "Je suis Ã  kpessi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713099423748,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713099417746,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713099145651,
+      "content": "Ãi c'est possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713091248633,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713091245880,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713057956778,
+      "content": "David vous a proposÃ© 2Â 500Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713057930792,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713057925260,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713057924623,
+      "content": "David Bortanme"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713057921561,
+      "content": "David a nommÃ© le groupe David Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713057921561,
+      "content": "David a modifiÃ© la photo du groupe."
+    }
+  ]
+}

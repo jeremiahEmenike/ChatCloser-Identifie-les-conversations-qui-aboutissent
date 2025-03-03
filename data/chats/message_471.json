@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713335973577,
+      "content": "Fadila TourÃ© vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713335967031,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713335966496,
+      "content": "Fadila TourÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713335964115,
+      "content": "Fadila a nommÃ© le groupe Fadila Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713335964115,
+      "content": "Fadila a modifiÃ© la photo du groupe."
+    }
+  ]
+}

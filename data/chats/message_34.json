@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707454802570,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707454665348,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707438332476,
+      "content": "Je peux voir les photos ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707438306093,
+      "content": "Combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707436458167,
+      "content": "Bonjour, oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707433711845,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707433711667,
+      "content": "Adnane Tchatagba"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707433709364,
+      "content": "Adnane a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707433708829,
+      "content": "Adnane a nommÃ© le groupe Adnane Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108070345,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108069910,
+      "content": "Boni Lem"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108066986,
+      "content": "Boni a nommÃ© le groupe Boni Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108066986,
+      "content": "Boni a modifiÃ© la photo du groupe."
+    }
+  ]
+}

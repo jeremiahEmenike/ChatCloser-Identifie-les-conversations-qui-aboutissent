@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713365791706,
+      "content": "Je voudrais savoir le prix et ou vous Ãªtes"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713365708739,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713365708339,
+      "content": "Ignace Edi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713365705394,
+      "content": "Ignace a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713365705045,
+      "content": "Ignace a nommÃ© le groupe Ignace Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

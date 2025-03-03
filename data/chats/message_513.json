@@ -1,0 +1,40 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680523466,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701645128712,
+      "content": "93482992"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701645117705,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701645111552,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701645111346,
+      "content": "Francis Jeep"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701645109232,
+      "content": "Francis a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701645108720,
+      "content": "Francis a nommÃ© le groupe Francis Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

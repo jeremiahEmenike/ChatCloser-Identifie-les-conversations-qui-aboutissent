@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707696589450,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707691712863,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707691712855,
+      "content": "ArsÃ¨ne Agbemahe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707691706480,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707691705572,
+      "content": "ArsÃ¨ne a nommÃ© le groupe ArsÃ¨ne Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707691705572,
+      "content": "ArsÃ¨ne a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720717269445,
+      "content": "Mais nous faisons aussi des livraisons"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720717253245,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720712313621,
+      "content": "Ok vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720711438761,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720710580676,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720710580230,
+      "content": "Jules Gbetey"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720710576972,
+      "content": "Jules a nommÃ© le groupe Jules Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720710576972,
+      "content": "Jules a modifiÃ© la photo du groupe."
+    }
+  ]
+}

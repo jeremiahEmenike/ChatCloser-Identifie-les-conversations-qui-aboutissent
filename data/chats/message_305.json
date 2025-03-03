@@ -1,0 +1,105 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700488121961,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700487198561,
+      "content": "Je te reviens chef compris"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700486867931,
+      "content": "Oui, on fait appel Ã  un service de livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700486791920,
+      "content": "Vous livrer ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700486777781,
+      "content": "Agbalepedo non loin de groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700486757597,
+      "content": "Vous Ãªtes situÃ© ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700486675842,
+      "content": "C'est 8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700486596487,
+      "content": "Last price"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700486573354,
+      "content": "D'accord sans soucis, Il peut utiliser"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700486537515,
+      "content": "Câest pour mon enfant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700486461992,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700486435185,
+      "content": "On peut utiliser sans tÃ©lÃ©phone ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700486372183,
+      "content": "Oui mais on ne met pas de SIM dedans"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700485909069,
+      "content": "On peut utiliser simplement sans tÃ©lÃ©phone ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700485868555,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700485630798,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700485626161,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700485625601,
+      "content": "DatÃ¨ Charles Lebon Teteh"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700485623577,
+      "content": "DatÃ¨ Charles Lebon a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700485622969,
+      "content": "DatÃ¨ Charles Lebon a nommÃ© le groupe DatÃ¨ Charles Lebon Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

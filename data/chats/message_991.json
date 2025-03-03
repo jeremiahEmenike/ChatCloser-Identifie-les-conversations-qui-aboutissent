@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711885876605,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711885183743,
+      "content": "Bonjour je veux le prix des montres bluetooth"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711885183406,
+      "content": "Mensavi Benjamin Abevi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711885180215,
+      "content": "Mensavi Benjamin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711885179929,
+      "content": "Mensavi Benjamin a nommÃ© le groupe Mensavi Benjamin Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

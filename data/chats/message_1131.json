@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1690056356909,
+      "content": "Non de rien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1690056332586,
+      "content": "merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1690056318163,
+      "content": "FÃ©licitations Ã  eux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1690056158764,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1690055363388,
+      "content": "Ils ont rÃ©ussi ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1690055354667,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1689945600482,
+      "content": "Ãa va loo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1689928506537,
+      "content": "Ãa va et toi ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1689928499235,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1689924263383,
+      "content": "?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1689924248775,
+      "content": "Bjr cmt"
+    }
+  ]
+}

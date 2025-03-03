@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702143707727,
+      "content": "Il ne reste que celui-ci Ã  10500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702143671564,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702143125417,
+      "content": "Ulriche La MÃ©daille"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702143122797,
+      "content": "Ulriche a nommÃ© le groupe Ulriche Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702143122797,
+      "content": "Ulriche a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702143122797,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

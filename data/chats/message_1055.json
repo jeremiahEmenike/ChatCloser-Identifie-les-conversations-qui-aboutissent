@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713472560105,
+      "content": "Et c'est Ã  combien s'Ã©lÃ¨ve le montant ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713472519294,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713472519160,
+      "content": "Nicolas Sacozy"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713472517166,
+      "content": "Nicolas a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713472516861,
+      "content": "Nicolas a nommÃ© le groupe Nicolas Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

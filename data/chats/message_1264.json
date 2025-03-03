@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697652182799,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697650827469,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697650823964,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697650823235,
+      "content": "Solange AmÃ©iza"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697650821355,
+      "content": "Solange a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697650820763,
+      "content": "Solange a nommÃ© le groupe Solange Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

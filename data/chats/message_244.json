@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701418083152,
+      "content": "Oki"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417225533,
+      "content": "SÃ©rieux Ã§a m'arrange pas"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415526993,
+      "content": "Svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701414858867,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701414047735,
+      "content": "Svp je peux avoir Ã  2000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701414047392,
+      "content": "Charles Botcho"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701414045298,
+      "content": "Charles a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701414044724,
+      "content": "Charles a nommÃ© le groupe Charles Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

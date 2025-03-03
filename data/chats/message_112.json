@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596107959,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720586096040,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720586087954,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720586087470,
+      "content": "Anono Luck"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720586084431,
+      "content": "Anono a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720586083946,
+      "content": "Anono a nommÃ© le groupe Anono Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

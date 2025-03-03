@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713202961320,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197746502,
+      "content": "Demain vers la soirÃ©e comme Ã§a et je vois si je peux vous arriver"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197736022,
+      "content": "Ok d'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197600686,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197474067,
+      "content": "Ok je veux Ã§a c'est oÃ¹ vous Ãªtes ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197173001,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713190324381,
+      "content": "Ok et c'est Ã  combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713182927657,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713182924595,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713169756273,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713169751806,
+      "content": "Bonjour com vous allez"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713169700842,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713169695698,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713169695316,
+      "content": "Ismail Tchagouni"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713169693219,
+      "content": "Ismail a nommÃ© le groupe Ismail Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713169693219,
+      "content": "Ismail a modifiÃ© la photo du groupe."
+    }
+  ]
+}

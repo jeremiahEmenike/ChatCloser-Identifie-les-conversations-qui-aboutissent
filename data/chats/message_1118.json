@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699119078396,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699118993028,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699118146255,
+      "content": "Le mien fait la journÃ©e"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699118138568,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699116990453,
+      "content": "Ãa une bonne autonomie ? Dernier prix bro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699107398832,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699107390309,
+      "content": "L'unitÃ© est Ã  8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699107364221,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699107363709,
+      "content": "Bonjour, comment vas tu ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699105620545,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699105620228,
+      "content": "Dhe Dynamique Pierre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699105618064,
+      "content": "Pierre a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699105617844,
+      "content": "Pierre a nommÃ© le groupe Pierre Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

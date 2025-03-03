@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713130125691,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713129230085,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713129224016,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713129223520,
+      "content": "Pieni Gnanlene"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713129221432,
+      "content": "Pieni a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713129220999,
+      "content": "Pieni a nommÃ© le groupe Pieni Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

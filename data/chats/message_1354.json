@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697924506126,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697921125300,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697921046611,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697921038532,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697919166934,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697919163670,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697919163014,
+      "content": "Ulrich Bete"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697919160840,
+      "content": "Ulrich a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697919160559,
+      "content": "Ulrich a nommÃ© le groupe Ulrich Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

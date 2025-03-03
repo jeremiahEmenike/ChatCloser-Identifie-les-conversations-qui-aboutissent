@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294419656,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294388554,
+      "content": "Arrivez Ã  pharmacie groupe C, faite moi signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294294256,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294285789,
+      "content": "Vous allez passer??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294273829,
+      "content": "Nous sommes Ã  agbalepedo groupe C??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701293027793,
+      "content": "Oui juste un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701259135279,
+      "content": "Bonjour\nOui c'est disponible. Est-ce quâil vous intÃ©resse toujours ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701250150000,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701250149683,
+      "content": "HervÃ¨ Adjesson"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701250147284,
+      "content": "HervÃ¨ a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701250146933,
+      "content": "HervÃ¨ a nommÃ© le groupe HervÃ¨ Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

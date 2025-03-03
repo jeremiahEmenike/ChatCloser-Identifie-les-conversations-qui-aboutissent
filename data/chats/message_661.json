@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707575616113,
+      "content": "Agbalepedo groupe C ou legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707575178118,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707575049539,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707573772568,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707573765313,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707573765015,
+      "content": "Jacques Atchade"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707573762509,
+      "content": "Jacques a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707573761553,
+      "content": "Jacques a nommÃ© le groupe Jacques Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

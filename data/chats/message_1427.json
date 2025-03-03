@@ -1,0 +1,15 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717171414377,
+      "content": "Bonjour Ulrich ! Dites-nous comment nous pouvons vous aider."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717171412762,
+      "content": "Vous avez ouvert cette conversation via une publicitÃ©. Lorsque vous rÃ©pondrez, Ydom Business pourra voir vos informations publiques et sur quelle publicitÃ© vous avez cliquÃ©."
+    }
+  ]
+}

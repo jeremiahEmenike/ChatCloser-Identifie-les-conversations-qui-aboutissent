@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523940543,
+      "content": "Vous voulez combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523935666,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523932033,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523831946,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523831760,
+      "content": "Mathias Baredja"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523829867,
+      "content": "Mathias a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523829683,
+      "content": "Mathias a nommÃ© le groupe Mathias Â· Ãcouteurs sans fil Pro 6 New. VENTE EN GROS ET EN DETAIL."
+    }
+  ]
+}

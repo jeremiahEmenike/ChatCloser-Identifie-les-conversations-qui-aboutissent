@@ -1,0 +1,130 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701700988246,
+      "content": "D'accord je vois"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701700805492,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701699070228,
+      "content": "C'est ce bleu lÃ  que vous voulez??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701699047704,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701699018301,
+      "content": "D'accord je vois, c'est le blanc qui reste"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698852101,
+      "content": "Nn jâais dÃ©jÃ  un blanc Ã§a se salit vite"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698827986,
+      "content": "Il ne reste que le blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698813272,
+      "content": "Je peu trouvÃ© le bleu ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698810022,
+      "content": "Si vous pouvez prendre aujourd'hui Ã§a serait cool. Demain je serai indisponible dans la journÃ©e"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698781240,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698757257,
+      "content": "Votre numÃ©ro je veu le blanc pour demain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680500704,
+      "content": "Vous avez acceptÃ© lâoffre de Roma"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701650805332,
+      "content": "Roma vous a proposÃ© 2Â 250Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701102231655,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701102230159,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701102128028,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701101675993,
+      "content": "Le mercredi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701085575592,
+      "content": "Vous pensez venir quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701085559434,
+      "content": "Ok nous sommes Ã  agbalepedo groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701081867866,
+      "content": "Juste 1 le noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701072604114,
+      "content": "Oui c'est disponible. Est-ce quâil vous intÃ©resse toujoursÂ ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701019087065,
+      "content": "Roma Junior"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701019084316,
+      "content": "Roma a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701019084316,
+      "content": "Roma a nommÃ© le groupe Roma Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701019084316,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    }
+  ]
+}

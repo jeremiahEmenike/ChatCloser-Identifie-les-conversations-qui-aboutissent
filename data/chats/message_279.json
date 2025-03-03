@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713122532953,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713122525057,
+      "content": "Bonsoir c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713122477626,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713122477183,
+      "content": "Cyprien Boko"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713122474976,
+      "content": "Cyprien a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713122474560,
+      "content": "Cyprien a nommÃ© le groupe Cyprien Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

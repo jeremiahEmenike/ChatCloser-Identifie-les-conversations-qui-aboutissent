@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993230963,
+      "content": "NN vous devez payer avec la livraison et on va donner a la poste ou nagodÃ© ou lk"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712736431023,
+      "content": "Payement Ã  la livraison Ã  Kara, c'est possible."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712736430880,
+      "content": "Ton Ton Bonheur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712736428614,
+      "content": "Ton Ton a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712736428385,
+      "content": "Ton Ton a nommÃ© le groupe Ton Ton Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

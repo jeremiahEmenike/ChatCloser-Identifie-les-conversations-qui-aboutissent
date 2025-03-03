@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710002612900,
+      "content": "9000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709999571497,
+      "content": "Ok combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709622773214,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709622557482,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709622550355,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709622550142,
+      "content": "Ulrich Bete"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709622546415,
+      "content": "Ulrich a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709622545660,
+      "content": "Ulrich a nommÃ© le groupe Ulrich Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    }
+  ]
+}

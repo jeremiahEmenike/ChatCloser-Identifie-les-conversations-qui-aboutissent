@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707649238978,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707649126968,
+      "content": "Je peux avoir les photos reel ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707649111810,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648116908,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707599618625,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707599613502,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707599613051,
+      "content": "Nafissath Assani"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707599611238,
+      "content": "Nafissath a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707599610547,
+      "content": "Nafissath a nommÃ© le groupe Nafissath Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

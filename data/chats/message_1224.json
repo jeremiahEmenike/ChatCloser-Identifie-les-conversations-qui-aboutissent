@@ -1,0 +1,50 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713094827665,
+      "content": "97191654"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713094375227,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713094065497,
+      "content": "Ok svp vs fait WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090841124,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090828902,
+      "content": "Je suis intÃ©ressÃ© SVP Contact ? Le mien c'est 90 21 74 00"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713072267722,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713072267523,
+      "content": "Sammuel Assiki"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713072264303,
+      "content": "Sammuel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713072264081,
+      "content": "Sammuel a nommÃ© le groupe Sammuel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

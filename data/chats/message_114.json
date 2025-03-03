@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720629895900,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720607148908,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720607141790,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720607141231,
+      "content": "Anthony Daprince"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720607138189,
+      "content": "Anthony a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720607137770,
+      "content": "Anthony a nommÃ© le groupe Anthony Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

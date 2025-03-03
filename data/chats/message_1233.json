@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562608118,
+      "content": "Bonjour, oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712560805524,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712560805341,
+      "content": "Sare AzerbaÃ¯djan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712560803098,
+      "content": "Sare a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712560802696,
+      "content": "Sare a nommÃ© le groupe Sare Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

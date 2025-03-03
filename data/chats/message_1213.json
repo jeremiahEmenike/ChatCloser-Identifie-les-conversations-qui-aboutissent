@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721058116019,
+      "content": "3000, oui Ã§a peut aller"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721056260347,
+      "content": "Oui c combien stp\nXa peu aller avc pixel 5a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720978038125,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720977611292,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720977599348,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720977598775,
+      "content": "Safira Waleed"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720977596168,
+      "content": "Safira a nommÃ© le groupe Safira Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720977596168,
+      "content": "Safira a modifiÃ© la photo du groupe."
+    }
+  ]
+}

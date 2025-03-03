@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697396847748,
+      "content": "Ok pas de soucis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697396834252,
+      "content": "Je veux acheter le 23 octobre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697396816742,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697396807044,
+      "content": "et Ã©crire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697396797006,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697396777142,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697396775042,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697396751727,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697395704806,
+      "content": "Vous allez passer chercher ou qu'on vous livre ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697395683722,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697394389910,
+      "content": "le prix est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697394381339,
+      "content": "Je veux acheter un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697394369527,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697394364136,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697394363714,
+      "content": "Odile Lay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697394360826,
+      "content": "Odile a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697394360478,
+      "content": "Odile a nommÃ© le groupe Odile Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

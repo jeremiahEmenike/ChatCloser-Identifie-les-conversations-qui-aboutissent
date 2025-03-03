@@ -1,0 +1,75 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720798257116,
+      "content": "92056646"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720795175390,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720795169686,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720794690371,
+      "content": "Agoe cacaveli"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720787613001,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720787378076,
+      "content": "Je veux 2 noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720787358750,
+      "content": "Le noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720787354661,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720778364935,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720774921863,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720774915023,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720774914502,
+      "content": "Romaric Akouete"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720774911851,
+      "content": "Romaric a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720774911850,
+      "content": "Romaric a nommÃ© le groupe Romaric Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

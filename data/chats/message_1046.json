@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697654841590,
+      "content": "C'est Ã  8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697654402151,
+      "content": "Vous avez acceptÃ© lâoffre de Nassirou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697654374970,
+      "content": "Oui lÃ  câest combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697654334960,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697653491945,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697653487686,
+      "content": "Nassirou vous a proposÃ© 8Â 000Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697653486742,
+      "content": "Bonsoir, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697653486421,
+      "content": "Nassirou Ali"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697653484215,
+      "content": "Nassirou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697653483978,
+      "content": "Nassirou a nommÃ© le groupe Nassirou Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708333779284,
+      "content": "NagodÃ© c'est 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708327457766,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707841385273,
+      "content": "Ãa va vous faire 3500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707824676977,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707824346614,
+      "content": "On peut donner Ã  nagodÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707823065297,
+      "content": "Je suis a kara"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816434324,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707809669111,
+      "content": "C'est loin hein"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707809467606,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707806020663,
+      "content": "Vous Ã©tÃ©s ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707806016299,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707805750774,
+      "content": "Prix d'ami"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707805726269,
+      "content": "Je vous laisse Ã§a Ã  2500 dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707804446993,
+      "content": "2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798349058,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707722429921,
+      "content": "C'est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707718330092,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707718321519,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707718317596,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707697425325,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707697425148,
+      "content": "Zakariaou Atanda"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707697423147,
+      "content": "Zakariaou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707697422306,
+      "content": "Zakariaou a nommÃ© le groupe Zakariaou Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

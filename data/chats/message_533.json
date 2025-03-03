@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707512590831,
+      "content": "Bonjour c'est disponible. \nVous vouliez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707508079005,
+      "content": "Fumey Combeley"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707508074364,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707508072607,
+      "content": "Fumey a nommÃ© le groupe Fumey Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707508072607,
+      "content": "Fumey a modifiÃ© la photo du groupe."
+    }
+  ]
+}

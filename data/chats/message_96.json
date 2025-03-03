@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707797979502,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707789974667,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707789968687,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707789968445,
+      "content": "Ittheug Americain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707789966115,
+      "content": "Americain a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707789965418,
+      "content": "Americain a nommÃ© le groupe Americain Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

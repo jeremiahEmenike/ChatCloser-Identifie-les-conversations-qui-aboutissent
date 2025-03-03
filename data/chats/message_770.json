@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699990845752,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699990371411,
+      "content": "Cc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696849752290,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696848648957,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696848624346,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696848542994,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696848542777,
+      "content": "Keblack Koutor"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696848540461,
+      "content": "Keblack a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696848540020,
+      "content": "Keblack a nommÃ© le groupe Keblack Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

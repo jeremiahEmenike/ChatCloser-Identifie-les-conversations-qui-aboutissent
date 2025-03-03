@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707683613697,
+      "content": "Non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707676921167,
+      "content": "Vous voulez passer aujourd'hui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707676912207,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707675340224,
+      "content": "S'il vous plaÃ®t, vous Ãªtes situÃ©s oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707675314554,
+      "content": "Bonsoir, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707675314151,
+      "content": "Marius Eli Hounmenou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707675311774,
+      "content": "Marius a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707675311291,
+      "content": "Marius a nommÃ© le groupe Marius Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

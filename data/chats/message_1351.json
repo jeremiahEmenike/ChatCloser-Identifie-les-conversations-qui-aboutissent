@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707550841320,
+      "content": "Annonces similaires Ã  Â«Â Kit de nettoyageÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707430591233,
+      "content": "ð Kit de nettoyage vous intÃ©resse toujoursÂ ? Abdou a rÃ©pondu Ã  votre message. DÃ©couvrez vite sa rÃ©ponse."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707422064626,
+      "content": "2500 f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707421237194,
+      "content": "Bonjour, cet article est Ã  combien???"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707421236177,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Kit de nettoyage."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707421236177,
+      "content": "Vous avez changÃ© la photo du groupe."
+    }
+  ]
+}

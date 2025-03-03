@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713304632294,
+      "content": "Les prix sont nÃ©gociable"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713302396800,
+      "content": "Bonjour c'est disponible, vous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713293253346,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713293253086,
+      "content": "ÃlÃ£Ã®n Dg"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713293251384,
+      "content": "ÃlÃ£Ã®n a nommÃ© le groupe ÃlÃ£Ã®n Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713293251384,
+      "content": "ÃlÃ£Ã®n a modifiÃ© la photo du groupe."
+    }
+  ]
+}

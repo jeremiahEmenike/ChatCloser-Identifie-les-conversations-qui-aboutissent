@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721434708518,
+      "content": "C'est 3k le dernier prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721433287959,
+      "content": "Oki et2,5"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721433220127,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721432054994,
+      "content": "2k on gÃ¨re"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721416846745,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721415820561,
+      "content": "Cmb1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721385189807,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721345778827,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721345773458,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721345772993,
+      "content": "Laureinzo Arimgo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721345769731,
+      "content": "Laureinzo a nommÃ© le groupe Laureinzo Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721345769731,
+      "content": "Laureinzo a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708359483851,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708358492853,
+      "content": "Vous Ãªtes oÃ¹ svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708354675620,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708346471843,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708346471437,
+      "content": "ArsÃ¨ne Agudze"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708346469273,
+      "content": "ArsÃ¨ne a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708346468492,
+      "content": "ArsÃ¨ne a nommÃ© le groupe ArsÃ¨ne Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

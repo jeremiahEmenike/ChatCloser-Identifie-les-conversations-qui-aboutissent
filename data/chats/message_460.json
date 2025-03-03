@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701431753655,
+      "content": "Ok merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417274472,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415701543,
+      "content": "C est Ã  cmb1 prdn"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415666298,
+      "content": "Ok merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701362667804,
+      "content": "Bonsoir c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701362415908,
+      "content": "Ezechiel Hugo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701362412472,
+      "content": "Ezechiel a nommÃ© le groupe Ezechiel Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701362412472,
+      "content": "Ezechiel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701362412472,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    }
+  ]
+}

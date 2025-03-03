@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720629870100,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720628349461,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720628349025,
+      "content": "Joel Assagbe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720628345807,
+      "content": "Joel a nommÃ© le groupe Joel Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720628345807,
+      "content": "Joel a modifiÃ© la photo du groupe."
+    }
+  ]
+}

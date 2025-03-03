@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693507166663,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693505044994,
+      "content": "C'est en rupture pour le moment"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693503038431,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693503038203,
+      "content": "Mathus Le Terifik"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693503037054,
+      "content": "Mathus a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693503036743,
+      "content": "Mathus a nommÃ© le groupe Mathus Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

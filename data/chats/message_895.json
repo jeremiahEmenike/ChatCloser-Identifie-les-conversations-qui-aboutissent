@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701207157449,
+      "content": "OK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701206747617,
+      "content": "C'est insuffisant, c'est 2500 last"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701206707906,
+      "content": "2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701206638689,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701206455483,
+      "content": "Le prix le prix dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701206313711,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701206026367,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701206026023,
+      "content": "Liti Aziza"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701206023098,
+      "content": "Liti a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701206022721,
+      "content": "Liti a nommÃ© le groupe Liti Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

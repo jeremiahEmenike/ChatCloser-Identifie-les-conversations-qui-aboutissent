@@ -1,0 +1,60 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701431029544,
+      "content": "93119809"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701431018641,
+      "content": "Ecrit moi sur whatsapp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701430990456,
+      "content": "On ce voir a dekon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701271748519,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701265707322,
+      "content": "Last prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701259122331,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701250264736,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701250258836,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701250258489,
+      "content": "Marcel Assogba"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701250256311,
+      "content": "Marcel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701250255945,
+      "content": "Marcel a nommÃ© le groupe Marcel Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

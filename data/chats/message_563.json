@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712843349788,
+      "content": "Je vous ai Ã©crit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712820322651,
+      "content": "96040005"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712688047522,
+      "content": "D'accord votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712672757366,
+      "content": "Un seul"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658326861,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658321196,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712636814124,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712636813733,
+      "content": "Gnamien Franck Kraidi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712636810725,
+      "content": "Gnamien Franck a nommÃ© le groupe Gnamien Franck Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712636810725,
+      "content": "Gnamien Franck a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721039552868,
+      "content": "Je peux envoyer par la poste Ã§a va vous coÃ»ter 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721038549249,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720971259473,
+      "content": "Vous voulez qu'on vous livre la bas"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720971237404,
+      "content": "C'est loin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720966336839,
+      "content": "Ã tsÃ©vie"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720966277209,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720966110037,
+      "content": "J'ai besoin de Ã§a urgent"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720966037190,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720966036974,
+      "content": "Badoo Cket"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720966034349,
+      "content": "Badoo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720966033835,
+      "content": "Badoo a nommÃ© le groupe Badoo Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

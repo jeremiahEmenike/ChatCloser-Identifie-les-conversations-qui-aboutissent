@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713219624469,
+      "content": "DÃ©solÃ© du retard jâavais pas vite vu le message"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713219600750,
+      "content": "Entre demain et mercredi je passerai le rÃ©cupÃ©rer m"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713219466066,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712836562151,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712836555223,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712788766599,
+      "content": "Câest bien Ã  2500f nâest-ce pas ???"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712788752751,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712788520785,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712788058567,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712788053793,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712788053560,
+      "content": "Benjamin Elie"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712788050966,
+      "content": "Benjamin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712788050620,
+      "content": "Benjamin a nommÃ© le groupe Benjamin Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721384846881,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720958190581,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720957750764,
+      "content": "Produits : 3000\nLivraison : 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720957723553,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720954192645,
+      "content": "Kpogan azitigomÃ© dernier prix câest combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720954130115,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720952311830,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720908451841,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720906166924,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720906160863,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720906160598,
+      "content": "CrÃ©do Yovo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720906158312,
+      "content": "CrÃ©do a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720906157996,
+      "content": "CrÃ©do a nommÃ© le groupe CrÃ©do Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

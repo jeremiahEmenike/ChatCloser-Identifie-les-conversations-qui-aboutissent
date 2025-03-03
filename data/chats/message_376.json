@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721058790152,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721058785827,
+      "content": "D'accord vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721057308946,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596088382,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720572945866,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720572937109,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720572936922,
+      "content": "Edwige PÃ©nÃ©lope"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720572934384,
+      "content": "Edwige a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720572934123,
+      "content": "Edwige a nommÃ© le groupe Edwige Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

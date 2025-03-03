@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719995522040,
+      "content": "Vous pouvez maintenant Ã©valuer ce vendeur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719995519627,
+      "content": "3.5 litres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719995466443,
+      "content": "quelle volume svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719995455304,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719994546774,
+      "content": "AdidogomÃ© \nContact Wasap 97 00 61 90 \nLivraison possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719994506726,
+      "content": "Vous etes ou ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719994481986,
+      "content": "6500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719994451991,
+      "content": "c'est Ã  combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719994435422,
+      "content": "Disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719993994859,
+      "content": "Bonjour Bibl, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719993992668,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719993992291,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Cook rice."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720852042751,
+      "content": "https://Wa.me/+22897010820"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720852028695,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738697924,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738680311,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738675797,
+      "content": "Bonsoir, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738675376,
+      "content": "Dinggo Nnoui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738673306,
+      "content": "Dinggo a nommÃ© le groupe Dinggo Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738673306,
+      "content": "Dinggo a modifiÃ© la photo du groupe."
+    }
+  ]
+}

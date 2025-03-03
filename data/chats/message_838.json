@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721385214369,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721345088571,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721345082552,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721345082038,
+      "content": "Komlavi Pooure"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721345078900,
+      "content": "Komlavi a nommÃ© le groupe Komlavi Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721345078900,
+      "content": "Komlavi a modifiÃ© la photo du groupe."
+    }
+  ]
+}

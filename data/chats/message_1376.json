@@ -1,0 +1,50 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714715043110,
+      "content": "Voir des annonces similaires"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714589578206,
+      "content": "Le 2m es a 7500 et le 3m es 9500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714585867307,
+      "content": "70731586"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714585730219,
+      "content": "C'est Ã  combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714585716638,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714585655797,
+      "content": "Au grand marchÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714585441447,
+      "content": "Bonjour, vous Ãªtes situÃ© oÃ¹???"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714585438641,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714585438311,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Tige rideau 2m et 3m ajustable."
+    }
+  ]
+}

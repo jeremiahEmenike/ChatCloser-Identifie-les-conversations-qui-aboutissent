@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721306744357,
+      "content": "Il y a que blanc et noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721298514875,
+      "content": "Je veux la couleur bleu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295419401,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295379528,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295210187,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295203425,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295202894,
+      "content": "Tommy-rudi Boris"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295199750,
+      "content": "Boris a nommÃ© le groupe Boris Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295199750,
+      "content": "Boris a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701363769722,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701363762554,
+      "content": "Envoyez moi votre localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701363754177,
+      "content": "Ãa va dÃ©pendre de la distance"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701363162820,
+      "content": "Combien la livraison?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701362716086,
+      "content": "On peut vous livrez mais Ã  vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701334132299,
+      "content": "A hÃ©dranawouÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701333398536,
+      "content": "Vous mm vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701333390342,
+      "content": "Perso je ne suis pas sÃ»re que la semaine prochaine on Ã§a va rester"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701332755948,
+      "content": "Si oui la semaine prochai nou on a cour je peut passÃ© la prendre dn la semaine pro!"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701332721813,
+      "content": "Vs ete eleve au campus?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330713636,
+      "content": "Actuellement je suis au campus"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330691144,
+      "content": "Prendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le corner Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330216814,
+      "content": "Je conai agbalÃ©pÃ©do mais c es ou le groupe c?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701301144447,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701300943273,
+      "content": "Vs habitÃ© ou??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701300930427,
+      "content": "Oui tjr interessÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294947162,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286139514,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286131922,
+      "content": "Bonsoir, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286131586,
+      "content": "Abelino Djagnikpo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286128812,
+      "content": "Abelino a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286128430,
+      "content": "Abelino a nommÃ© le groupe Abelino Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

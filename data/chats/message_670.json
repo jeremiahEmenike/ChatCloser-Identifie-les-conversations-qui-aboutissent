@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720787971615,
+      "content": "Vous voulez laquelle??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720755127285,
+      "content": "Il y a que le blanc et le noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720743238392,
+      "content": "Je veux orange blanc vert"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720743211353,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720743210934,
+      "content": "Jb Pro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720743208304,
+      "content": "Jb a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720743207865,
+      "content": "Jb a nommÃ© le groupe Jb Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

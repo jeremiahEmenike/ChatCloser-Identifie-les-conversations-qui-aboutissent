@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713531830346,
+      "content": "Amor Lonlon vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713531824451,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713531824053,
+      "content": "Amor Lonlon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713531821377,
+      "content": "Amor a nommÃ© le groupe Amor Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713531821377,
+      "content": "Amor a modifiÃ© la photo du groupe."
+    }
+  ]
+}

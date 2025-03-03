@@ -1,0 +1,100 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720429103762,
+      "content": "Si oui jattends les baumes"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720429087807,
+      "content": "Vous Ãªtes de retour Ã  LomÃ©?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720429059230,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719943100721,
+      "content": "Jattends votre signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719943088332,
+      "content": "+228 70659233"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719943054346,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719669042981,
+      "content": "70659233"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719665889844,
+      "content": "Votre WhatsApp pour la localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719665884941,
+      "content": "350"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719664965533,
+      "content": "C'est Ã  combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719663423581,
+      "content": "D'accord on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719168864919,
+      "content": "2"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719167225570,
+      "content": "D'accord vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719166901267,
+      "content": "ASSIGOME"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719166596741,
+      "content": "Oui, vous Ãªtes oÃ¹?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719164035752,
+      "content": "Proposez-vous la livraison ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719164035132,
+      "content": "Crepin Alladoum"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719164031566,
+      "content": "Crepin a nommÃ© le groupe Crepin Â· LÃ¨vres roses ou Baume Ã  lÃ¨vres disponible en gros et en dÃ©tail."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719164031566,
+      "content": "Crepin a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713401310643,
+      "content": "Bro tu me livre quand"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712771791521,
+      "content": "Je suis a agoÃ¨ au niveau de l'ecole RM en allant vers 2 lions"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712771772268,
+      "content": "Non je veux 1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712771727278,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712770833287,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712770833060,
+      "content": "Ezekiel Siloam"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712770831142,
+      "content": "Ezekiel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712770830905,
+      "content": "Ezekiel a nommÃ© le groupe Ezekiel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

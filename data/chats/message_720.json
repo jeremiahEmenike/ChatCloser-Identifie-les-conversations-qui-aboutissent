@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712263427562,
+      "content": "8500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712262189129,
+      "content": "c'est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712261969666,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712261941524,
+      "content": "c'est Ã  combien vous la vendez"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712261930271,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712261929805,
+      "content": "JosÃ©e Ayassou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712261927293,
+      "content": "JosÃ©e a nommÃ© le groupe JosÃ©e Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712261927293,
+      "content": "JosÃ©e a modifiÃ© la photo du groupe."
+    }
+  ]
+}

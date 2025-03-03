@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707659100580,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707655411169,
+      "content": "Combien last"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648089067,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707589671154,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707589665166,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707589664698,
+      "content": "El Bechir Amidou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707589662184,
+      "content": "El Bechir a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707589661543,
+      "content": "El Bechir a nommÃ© le groupe El Bechir Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

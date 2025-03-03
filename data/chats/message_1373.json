@@ -1,0 +1,100 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712742982554,
+      "content": "Vous pouvez maintenant Ã©valuer ce vendeur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712742980201,
+      "content": "96297945"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712742911515,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712742902046,
+      "content": "Je vais bien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712742878900,
+      "content": "Bonjour comment vous allez ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712600780120,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711211558313,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711210684164,
+      "content": "Envoyer Moi votre localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711210672792,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711109579320,
+      "content": "Je suis un peu loin donc je pense venir plutÃ´t demain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711109104428,
+      "content": "J'ESPÃRE vous voir aujourd'hui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711089176082,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711060076342,
+      "content": "Ãa vous intÃ©resse toujoursÂ ? RÃ©pondez Ã Â : Nous sommes situÃ©s Ã  Totsi juste Ã  cÃ´tÃ© de Wing's and Shakes"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711051288468,
+      "content": "Nous sommes situÃ©s Ã  Totsi juste Ã  cÃ´tÃ© de Wing's and Shakes"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711051266203,
+      "content": "Pas de problÃ¨me Mr"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710967852409,
+      "content": "Bonjour je voudrais acheter une unitÃ© de ce article"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710967401084,
+      "content": "Bonjour Xpedit, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710967397810,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710967397407,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Support pour la moto."
+    }
+  ]
+}

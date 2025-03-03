@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864811809,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864701860,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864088110,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863994241,
+      "content": "Prix et position"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863468880,
+      "content": "Bonjour, c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863379676,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863379294,
+      "content": "Bernard Mikey"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863375204,
+      "content": "Bernard a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863374805,
+      "content": "Bernard a nommÃ© le groupe Bernard Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

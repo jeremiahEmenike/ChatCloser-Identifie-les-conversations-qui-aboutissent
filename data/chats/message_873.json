@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713035680554,
+      "content": "SegbÃ© mais actuellement je suis au service Ã  AgoÃ¨"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713035541243,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713035523747,
+      "content": "Ok d'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713035419401,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713035368952,
+      "content": "C'est la photo rÃ©elle cÃ  ou juste pour illustration"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713035304287,
+      "content": "SÃ©gbÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713035272181,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713035267443,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713035256805,
+      "content": "Le prix ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713035133210,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713035124291,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713034989285,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713034989089,
+      "content": "Lazare Amedoame"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713034986812,
+      "content": "Lazare a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713034986307,
+      "content": "Lazare a nommÃ© le groupe Lazare Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

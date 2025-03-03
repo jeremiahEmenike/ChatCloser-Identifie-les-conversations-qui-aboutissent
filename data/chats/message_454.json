@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698157034536,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698156007211,
+      "content": "Votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698154684838,
+      "content": "Il y a pour 8000 et 12000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698132796004,
+      "content": "Câest Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698132789153,
+      "content": "Un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698127647964,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698127638525,
+      "content": "Bonjour, c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698095944374,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698095940442,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698095939835,
+      "content": "EugÃ©nie Tome"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698095937959,
+      "content": "EugÃ©nie a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698095937479,
+      "content": "EugÃ©nie a nommÃ© le groupe EugÃ©nie Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

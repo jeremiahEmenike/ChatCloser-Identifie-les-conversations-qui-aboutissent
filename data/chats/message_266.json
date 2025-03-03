@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701429532463,
+      "content": "Non, merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415345762,
+      "content": "Ãa vous intÃ©resse??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415336335,
+      "content": "Bonjour, il ne reste que le blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701384775973,
+      "content": "Le bleu ciel m'intÃ©resse bien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701384756621,
+      "content": "Claudio-pÃ©pÃ© Dossa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701384752670,
+      "content": "Claudio-pÃ©pÃ© a nommÃ© le groupe Claudio-pÃ©pÃ© Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701384752670,
+      "content": "Claudio-pÃ©pÃ© a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701384752670,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

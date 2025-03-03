@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108031860,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713002369322,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713002362975,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713000167843,
+      "content": "A AdgÃ©lÃ©pÃ©do"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712873999075,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712831185611,
+      "content": "Un seul"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658489353,
+      "content": "Bonjour c'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712617995280,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712617994912,
+      "content": "Irahim SIrdji"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712617992883,
+      "content": "Irahim a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712617992575,
+      "content": "Irahim a nommÃ© le groupe Irahim Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

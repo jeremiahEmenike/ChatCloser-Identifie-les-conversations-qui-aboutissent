@@ -1,0 +1,45 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714163442407,
+      "content": "Bonsoir grand frÃ¨re cmt allez vous j'espÃ¨re ok vous pouvez contacter avec moi 96435937"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712956995561,
+      "content": "L'article est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712956987004,
+      "content": "Ãa va"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712956122948,
+      "content": "Bonsoir grand frÃ¨re cmt allez vous j'espÃ¨re"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712956097481,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712956097010,
+      "content": "Evrad Koutema"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712956094191,
+      "content": "Evrad a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712956094190,
+      "content": "Evrad a nommÃ© le groupe Evrad Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

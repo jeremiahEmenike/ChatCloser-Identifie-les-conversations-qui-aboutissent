@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696700310740,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696700211533,
+      "content": "Le prix c'est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696700176352,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696700086954,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696700086435,
+      "content": "Amv Stat"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696700084519,
+      "content": "Amv a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696700083907,
+      "content": "Amv a nommÃ© le groupe Amv Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

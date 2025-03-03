@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693415993603,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693393937645,
+      "content": "C'est fini pour le moment"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693347526602,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693347526426,
+      "content": "Mendoza HÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693347524714,
+      "content": "Mendoza a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693347524446,
+      "content": "Mendoza a nommÃ© le groupe Mendoza Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

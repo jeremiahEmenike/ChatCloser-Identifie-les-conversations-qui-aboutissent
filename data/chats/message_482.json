@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736604022,
+      "content": "Vous voulez combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736598888,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720734059280,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720636568484,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720631858389,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720631847262,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720631846591,
+      "content": "Fatouma Towowa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720631843829,
+      "content": "Fatouma a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720631843132,
+      "content": "Fatouma a nommÃ© le groupe Fatouma Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

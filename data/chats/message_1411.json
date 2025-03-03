@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700941443124,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700941414360,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700941413949,
+      "content": "Wiz Odino"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700941411201,
+      "content": "Wiz a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700941410956,
+      "content": "Wiz a nommÃ© le groupe Wiz Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

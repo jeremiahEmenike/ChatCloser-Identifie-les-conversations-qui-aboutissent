@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708088359756,
+      "content": "ð hello"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708032240250,
+      "content": "NN Ã  vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708032176226,
+      "content": "La livraison est gratuite"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708032162209,
+      "content": "Ok vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708032118476,
+      "content": "Je veux un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708032070499,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708032015543,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708032015257,
+      "content": "Chaba Maloudz"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708032012224,
+      "content": "Chaba a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708032011461,
+      "content": "Chaba a nommÃ© le groupe Chaba Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

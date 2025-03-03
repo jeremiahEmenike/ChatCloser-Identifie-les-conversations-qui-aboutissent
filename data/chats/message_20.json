@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700943866735,
+      "content": "Agbalepedo groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700942013607,
+      "content": "Vous Ãªtes dans quel quartier ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700939840225,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700939786313,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700939785881,
+      "content": "Aboudou Rachid Agoro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700939783648,
+      "content": "Aboudou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700939783292,
+      "content": "Aboudou a nommÃ© le groupe Aboudou Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

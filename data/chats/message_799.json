@@ -1,0 +1,115 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703843276776,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703841758765,
+      "content": "Oui bonjour chef"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703841740876,
+      "content": "Ceci ne me plaÃ®t bien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703841723529,
+      "content": "Je vais attendre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703838516750,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703838515072,
+      "content": "Vers fin janvier"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703838500398,
+      "content": "Le mois prochain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703795105760,
+      "content": "Les autres modÃ¨les vont venir dans la semaine"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703795045857,
+      "content": "8500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703794950929,
+      "content": "Dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703789108393,
+      "content": "9000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703789101787,
+      "content": "Non Ã§a prend pas sim"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703788531282,
+      "content": "Ãa prend sim"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703788488887,
+      "content": "C'est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703788465571,
+      "content": "Il reste celui ci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703788460231,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703788451824,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703788421996,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703787758316,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703787757756,
+      "content": "Kobo Lamboni"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703787755398,
+      "content": "Kobo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703787754865,
+      "content": "Kobo a nommÃ© le groupe Kobo Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

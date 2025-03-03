@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701674129966,
+      "content": "Diminue moi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701621966107,
+      "content": "2500 mais il ne reste que 3"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701605935395,
+      "content": "Dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701605925324,
+      "content": "5 piÃ¨ce"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601380577,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601372811,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601316803,
+      "content": "Mohamed TourÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601316785,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601312480,
+      "content": "Mohamed a nommÃ© le groupe Mohamed Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601312480,
+      "content": "Mohamed a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601312480,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    }
+  ]
+}

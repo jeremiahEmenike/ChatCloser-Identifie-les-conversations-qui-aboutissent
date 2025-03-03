@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1718553776429,
+      "content": "Elom Simtema a quittÃ© le groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197245583,
+      "content": "Non c'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713186588271,
+      "content": "Oui mais j'ai 2000 Ã§a peut aller ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713186404637,
+      "content": "Bonjour c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185974628,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185974104,
+      "content": "Elom Simtema"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185971028,
+      "content": "Elom a nommÃ© le groupe Elom Â· Ãcouteurs sans fil Pro 6 New EN GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185971028,
+      "content": "Elom a modifiÃ© la photo du groupe."
+    }
+  ]
+}

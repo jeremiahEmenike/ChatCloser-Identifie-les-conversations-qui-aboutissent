@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707979126067,
+      "content": "Bonjour, c'est disponible. Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707960372632,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707960372274,
+      "content": "Toine"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707960370497,
+      "content": "Toine a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707960369993,
+      "content": "Toine a nommÃ© le groupe Toine Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706896865780,
+      "content": "91453187"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706896829015,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706896821697,
+      "content": "Je connais pas envoyÃ© moi votre localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706896785898,
+      "content": "Oui adidogome wonyome Ã©cole newton"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706896756358,
+      "content": "Vous avez l'huile aussi??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706896744594,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706896694646,
+      "content": "Disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706896661463,
+      "content": "Bonjour Lena, je voudrais 1 sachet ? Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706896659924,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Poudre de fenugrec."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706896659924,
+      "content": "Vous avez changÃ© la photo du groupe."
+    }
+  ]
+}

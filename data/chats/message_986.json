@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721255615574,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721251292344,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721251283501,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721251283110,
+      "content": "Medede Ouro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721251280039,
+      "content": "Medede a nommÃ© le groupe Medede Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721251280039,
+      "content": "Medede a modifiÃ© la photo du groupe."
+    }
+  ]
+}

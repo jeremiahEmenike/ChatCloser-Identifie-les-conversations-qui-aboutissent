@@ -1,0 +1,65 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700555497683,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700555128357,
+      "content": "Si vous voulez Ãªtre livrÃ© envoyez-moi votre localisation sur le 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700555103210,
+      "content": "Vous voulez qu'on vous livre ou vous allez passer prendre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700554835233,
+      "content": "Sanguera"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700553401783,
+      "content": "D'accord vous Ãªtes oÃ¹ ?'"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700553324129,
+      "content": "3"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700519953353,
+      "content": "Vous voulez combien ?'"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700519920404,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700517003175,
+      "content": "Chou Bless"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700517000131,
+      "content": "Chou a nommÃ© le groupe Chou Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700517000131,
+      "content": "Chou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700517000131,
+      "content": "Cet article est-il toujours disponible ?"
+    }
+  ]
+}

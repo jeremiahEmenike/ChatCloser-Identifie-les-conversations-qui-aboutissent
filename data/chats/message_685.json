@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720988229714,
+      "content": "Vous allez passer prendre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987802985,
+      "content": "Laissez moi Ã§a Ã  2500pardon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987542077,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987207106,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987185631,
+      "content": "2lion"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987176702,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987160645,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987159426,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987133535,
+      "content": "Je veut un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720962524152,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720962518784,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720961304413,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720961304024,
+      "content": "Jean Pi Agbotame"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720961301189,
+      "content": "Jean Pi a nommÃ© le groupe Jean Pi Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720961301189,
+      "content": "Jean Pi a modifiÃ© la photo du groupe."
+    }
+  ]
+}

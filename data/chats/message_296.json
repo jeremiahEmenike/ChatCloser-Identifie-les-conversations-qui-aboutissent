@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701195655086,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701195310008,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701189105545,
+      "content": "Tokoin doumassese"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701156660088,
+      "content": "Pour la livraison, vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701156582441,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701154707870,
+      "content": "OK combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701103258419,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701102842788,
+      "content": "Vous faites livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701097862738,
+      "content": "Vous allez venir quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701096342120,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701085633517,
+      "content": "Ok nous sommes Ã  agbalepedo groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701077057921,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701072572219,
+      "content": "Oui c'est disponible. Est-ce quâil vous intÃ©resse toujoursÂ ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701030130564,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701030130134,
+      "content": "Daniella Karawa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701030127181,
+      "content": "Daniella a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701030126638,
+      "content": "Daniella a nommÃ© le groupe Daniella Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

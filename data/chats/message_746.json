@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707550145350,
+      "content": "Vous pensez venir quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707550134987,
+      "content": "D'accord sans soucis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707521897545,
+      "content": "Agbalepedo est mieux pour moi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707519653069,
+      "content": "On peut venir vous livrer Ã  vos frais ou vous pouvez venir Ã  agbalepedo groupe C ou Ã  legbassito rÃ©cupÃ©rer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707519608073,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707519602121,
+      "content": "D'accord sans soucis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707515971723,
+      "content": "Noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707472097645,
+      "content": "Vous voulez laquelle??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707469723209,
+      "content": "Blanc et noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707465707618,
+      "content": "Il ya quel couleur ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707465695884,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707436450710,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707433793275,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707433793270,
+      "content": "Julia Dunya"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707433788475,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707433787164,
+      "content": "Julia a nommÃ© le groupe Julia Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707433787164,
+      "content": "Julia a modifiÃ© la photo du groupe."
+    }
+  ]
+}

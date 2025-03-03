@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701974663557,
+      "content": "Bonsoir c'est en rupture pour le moment"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701877135694,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701877129239,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701877128732,
+      "content": "Vanne Vacame"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701877125450,
+      "content": "Vanne a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701877124931,
+      "content": "Vanne a nommÃ© le groupe Vanne Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

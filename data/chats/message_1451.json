@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709924800450,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709923393731,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709923385585,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709923385194,
+      "content": "Pheno Zik"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709923382225,
+      "content": "Zik a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709923381310,
+      "content": "Zik a nommÃ© le groupe Zik Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    }
+  ]
+}

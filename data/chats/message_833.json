@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713353024276,
+      "content": "Celui ci est disponible au mm prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713353023874,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713353022683,
+      "content": "Bonjour c'est en rupture"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713345627260,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713345620789,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713345620233,
+      "content": "Kev Has Komla"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713345617553,
+      "content": "Komla a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713345617220,
+      "content": "Komla a nommÃ© le groupe Komla Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713398113033,
+      "content": "Bonjour, cet article est-il disponible ?2000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713398112731,
+      "content": "Koffi ThÃ©ophile Eklu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713398109871,
+      "content": "Koffi ThÃ©ophile a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713398109427,
+      "content": "Koffi ThÃ©ophile a nommÃ© le groupe Koffi ThÃ©ophile Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

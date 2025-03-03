@@ -1,0 +1,45 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697677209929,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697658576713,
+      "content": "NumÃ©ros wathsap"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697658557687,
+      "content": "Cc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697658554908,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697658550991,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697658550472,
+      "content": "Martial Adake"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697658548573,
+      "content": "Martial a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697658548177,
+      "content": "Martial a nommÃ© le groupe Martial Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721254640003,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721253456287,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721253455765,
+      "content": "Severin Egbessa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721253452732,
+      "content": "Severin a nommÃ© le groupe Severin Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721253452732,
+      "content": "Severin a modifiÃ© la photo du groupe."
+    }
+  ]
+}

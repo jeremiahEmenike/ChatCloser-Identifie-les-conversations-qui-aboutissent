@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721114183873,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721086094701,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721086094227,
+      "content": "Rapha Dieu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721086091334,
+      "content": "Rapha a nommÃ© le groupe Rapha Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721086091334,
+      "content": "Rapha a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721130560626,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721129302141,
+      "content": "combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721129277123,
+      "content": "Nous sommes Ã  Legbassito carrefour avinato mais nous livrons aussi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721129274911,
+      "content": "je eux un je suis a adidogome"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721129246183,
+      "content": "oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721129191844,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721124854612,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721124845776,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721124845168,
+      "content": "Jj Gwapoh"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721124841556,
+      "content": "Jj a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721124841555,
+      "content": "Jj a nommÃ© le groupe Jj Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720869447897,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720866428863,
+      "content": "Si vous Ãªtes d'accord vous envoyer l'argent et je fais l'opÃ©ration"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720865848004,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720865032193,
+      "content": "Et le transport"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864898241,
+      "content": "4000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864877221,
+      "content": "Donc je vais combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864862205,
+      "content": "Ãa va coÃ»ter 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864834783,
+      "content": "On peut vous livrer par la poste"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864300008,
+      "content": "AtakpamÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864074897,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864069725,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864058437,
+      "content": "En publiant ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863973806,
+      "content": "Vous avez des clients"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863946327,
+      "content": "Comment Ã§a va se passer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863836359,
+      "content": "Pas de soucie"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863816884,
+      "content": "Puis je faire des business avec vous"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863775525,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863774987,
+      "content": "Bonjour monsieur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863768329,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863747934,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863747471,
+      "content": "FrÃ©dÃ©ric Mayor"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863744805,
+      "content": "FrÃ©dÃ©ric a nommÃ© le groupe FrÃ©dÃ©ric Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863744805,
+      "content": "FrÃ©dÃ©ric a modifiÃ© la photo du groupe."
+    }
+  ]
+}

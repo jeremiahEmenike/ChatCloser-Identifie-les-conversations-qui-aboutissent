@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417283742,
+      "content": "La journÃ©e"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417260871,
+      "content": "L'autonomie"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417256681,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417210369,
+      "content": "Je vais rentrer Ã  16h"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417198452,
+      "content": "Mais pour le moment je suis sur le campus"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417188339,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415540287,
+      "content": "L'autonomie svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415524061,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415519468,
+      "content": "Le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415235074,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701410091909,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701410091544,
+      "content": "Daniel Dany"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701410089372,
+      "content": "Daniel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701410089161,
+      "content": "Daniel a nommÃ© le groupe Daniel Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

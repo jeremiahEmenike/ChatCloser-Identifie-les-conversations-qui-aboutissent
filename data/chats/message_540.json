@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713099407262,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713099352984,
+      "content": "Ok je vous ferai signe demain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090606604,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090603948,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713083640543,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713083637319,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713083637131,
+      "content": "Gbadzudzo Kokou Messah"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713083634818,
+      "content": "Gbadzudzo a nommÃ© le groupe Gbadzudzo Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713083634818,
+      "content": "Gbadzudzo a modifiÃ© la photo du groupe."
+    }
+  ]
+}

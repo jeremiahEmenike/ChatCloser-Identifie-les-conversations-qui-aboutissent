@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701351239298,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701351112194,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701350452408,
+      "content": "C'est a combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701349531481,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701347292333,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701347281970,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701347281563,
+      "content": "Zak Son"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701347278443,
+      "content": "Zak a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701347277409,
+      "content": "Zak a nommÃ© le groupe Zak Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

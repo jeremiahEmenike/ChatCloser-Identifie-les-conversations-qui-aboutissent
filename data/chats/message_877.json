@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762177489,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712744810002,
+      "content": "1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712741272741,
+      "content": "Livraison c'est a combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712741260196,
+      "content": "Moi je suis a adakpame"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740722214,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740717412,
+      "content": "On est Ã  legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740708150,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740351854,
+      "content": "Faites vous des livraisons ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740341999,
+      "content": "Vous Ãªtes situÃ©s ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740338083,
+      "content": "Un seul"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735812928,
+      "content": "Bonjour c'est disponible,\nL'unitÃ© est Ã  2500,\nvous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712731701625,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712731701293,
+      "content": "Lebrok Batosay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712731698660,
+      "content": "Lebrok a nommÃ© le groupe Lebrok Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712731698660,
+      "content": "Lebrok a modifiÃ© la photo du groupe."
+    }
+  ]
+}

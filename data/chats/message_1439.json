@@ -1,0 +1,105 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717077307578,
+      "content": "97 75 99 48"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716970079901,
+      "content": "Votre numero  de telephone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716931010666,
+      "content": "Baguida"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716885420585,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716885398445,
+      "content": "Et Vendredi soir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716885376051,
+      "content": "Pour la livraison c'est les weekends"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716883158578,
+      "content": "Vous pouvez me livrer quand?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716742054404,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716742032859,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716741931789,
+      "content": "La livraison est Ã  1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716741474969,
+      "content": "Baguida"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716644243063,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716593930040,
+      "content": "5mill j'ai"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716479803324,
+      "content": "5500 dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716386741983,
+      "content": "J'ai 5mill"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716382657098,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716376045222,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716376044991,
+      "content": "Yves Messan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716376043258,
+      "content": "Yves a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716376043093,
+      "content": "Yves a nommÃ© le groupe Yves Â· Coffret Montre connectÃ©e et Ã©couteur sans fil Bluetooth W26."
+    }
+  ]
+}

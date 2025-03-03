@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712779394332,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712779170746,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712779165578,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712779165067,
+      "content": "Patrice Bakali"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712779162985,
+      "content": "Patrice a nommÃ© le groupe Patrice Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712779162985,
+      "content": "Patrice a modifiÃ© la photo du groupe."
+    }
+  ]
+}

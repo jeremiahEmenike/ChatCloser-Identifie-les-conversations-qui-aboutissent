@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798196092,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707769466702,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707769460032,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707769459817,
+      "content": "Cadnel Adjibaho"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707769457189,
+      "content": "Cadnel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707769456270,
+      "content": "Cadnel a nommÃ© le groupe Cadnel Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

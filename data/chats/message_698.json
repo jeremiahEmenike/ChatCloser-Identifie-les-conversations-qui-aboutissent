@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701684949410,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680667905,
+      "content": "Tof"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680615994,
+      "content": "Je ne sais pas aussi."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680584593,
+      "content": "ImpermÃ©able ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680578040,
+      "content": "Personnellement je ne sais pas, j'ai pas vÃ©rifiÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680535620,
+      "content": "Câest Ã©tanche ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680457810,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680440491,
+      "content": "Agbalepedo groupe C, avant de venir faite moi signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680412571,
+      "content": "Vous Ãªtes vers oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680385108,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680365838,
+      "content": "Câest Ã  2500f ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680333110,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680314346,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680309594,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680309055,
+      "content": "JoÃ« Boyd"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680307010,
+      "content": "JoÃ« a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680306490,
+      "content": "JoÃ« a nommÃ© le groupe JoÃ« Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

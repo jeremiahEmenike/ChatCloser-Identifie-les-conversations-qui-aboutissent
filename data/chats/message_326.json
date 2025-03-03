@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720699823457,
+      "content": "Moi mm j'utilise"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720699818284,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720699690354,
+      "content": "Sur appler"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720699688056,
+      "content": "Est est ce ca trvailler bien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720699678926,
+      "content": "Dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720699674526,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720629902725,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720609374931,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720609369129,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720609368889,
+      "content": "Deepak Lakhani"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720609365699,
+      "content": "Deepak a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720609365191,
+      "content": "Deepak a nommÃ© le groupe Deepak Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

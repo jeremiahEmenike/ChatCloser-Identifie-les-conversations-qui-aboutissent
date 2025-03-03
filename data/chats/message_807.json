@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708795756041,
+      "content": "On dit quoi ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791722392,
+      "content": "Oui loooo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791711083,
+      "content": "Abon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791688720,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791679004,
+      "content": "J Pai le livreson"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791641893,
+      "content": "Mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791631574,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791619659,
+      "content": "Et vs reste ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791557974,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791547267,
+      "content": "Le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791512214,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791495435,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791354002,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791315216,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791314824,
+      "content": "Utilisateur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791312514,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708791311967,
+      "content": "Un contact a nommÃ© le groupe Kodjo Kalid Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

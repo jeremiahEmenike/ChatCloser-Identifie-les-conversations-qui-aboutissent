@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118506878,
+      "content": "Bonjour c'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713117618705,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713117618259,
+      "content": "Ezekiel Sodjedo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713117614825,
+      "content": "Ezekiel a nommÃ© le groupe Ezekiel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713117614825,
+      "content": "Ezekiel a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711307705727,
+      "content": "Vous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711289581729,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711289410951,
+      "content": "2509"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711289210710,
+      "content": "Le prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711289188367,
+      "content": "Attiegou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711288642568,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711278024592,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707865504526,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707859232102,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707859228035,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707859227530,
+      "content": "Bernadette Barassou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707859225254,
+      "content": "Bernadette a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707859224409,
+      "content": "Bernadette a nommÃ© le groupe Bernadette Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

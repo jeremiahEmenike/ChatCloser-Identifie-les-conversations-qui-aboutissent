@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713626074608,
+      "content": "Kini Koamivi Giovanni vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713626069078,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713626068849,
+      "content": "Kini Koamivi Giovanni"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713626066850,
+      "content": "Giovanni a nommÃ© le groupe Giovanni Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713626066850,
+      "content": "Giovanni a modifiÃ© la photo du groupe."
+    }
+  ]
+}

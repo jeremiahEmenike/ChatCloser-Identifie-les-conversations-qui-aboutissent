@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712754951219,
+      "content": "Cool"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712754808853,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712754720189,
+      "content": "Je peux avoir qq tof"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712754622506,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712754466060,
+      "content": "La livraison est possible ?'"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712754456018,
+      "content": "La semaine prochaine peut Ãªtre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712748210285,
+      "content": "Vous voulez Ã§a pour aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712748202002,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712747737469,
+      "content": "C'est Ã  2500f nn"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712747729604,
+      "content": "Juste 1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712730672508,
+      "content": "Bonjour, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712714295762,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712714295471,
+      "content": "NÃ«lfÃ¼l Smart"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712714292644,
+      "content": "NÃ«lfÃ¼l a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712714292212,
+      "content": "NÃ«lfÃ¼l a nommÃ© le groupe NÃ«lfÃ¼l Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

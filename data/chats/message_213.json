@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707755382389,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707749148419,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707749147973,
+      "content": "Boris BeausÃ©jour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707749145627,
+      "content": "Boris a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707749144988,
+      "content": "Boris a nommÃ© le groupe Boris Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720678744844,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720678641979,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720678634049,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720678633507,
+      "content": "Armel Mahoulougou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720678631099,
+      "content": "Armel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720678630732,
+      "content": "Armel a nommÃ© le groupe Armel Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

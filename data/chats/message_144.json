@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720958822683,
+      "content": "D'accord nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720958692584,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720958325142,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720958316063,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720958314224,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720958308289,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720958301088,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720958300603,
+      "content": "Attaollah Issa Toure"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720958298083,
+      "content": "Attaollah a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720958297711,
+      "content": "Attaollah a nommÃ© le groupe Attaollah Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

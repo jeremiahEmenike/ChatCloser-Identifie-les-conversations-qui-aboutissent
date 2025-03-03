@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716969941546,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716966925956,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716966918869,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716966918300,
+      "content": "Ali Al"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716966915694,
+      "content": "Ali a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716966915343,
+      "content": "Ali a nommÃ© le groupe Ali Â· Montre et Ã©couteur connectÃ©s sans fil Bluetooth W26."
+    }
+  ]
+}

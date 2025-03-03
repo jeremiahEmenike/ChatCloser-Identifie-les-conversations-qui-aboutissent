@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720778360050,
+      "content": "Mais on peut aussi vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720778350769,
+      "content": "D'accord nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720777659786,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720699834975,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720699831113,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720696270649,
+      "content": "Cc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720696255361,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720696254976,
+      "content": "Iliassou Tchandame"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720696251572,
+      "content": "Iliassou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720696251217,
+      "content": "Iliassou a nommÃ© le groupe Iliassou Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

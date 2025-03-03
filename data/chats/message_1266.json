@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719121155872,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719117523009,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719117516472,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719117516224,
+      "content": "Sonya Edwarnie Mounsoumbansi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719117515639,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719117513083,
+      "content": "Sonya Edwarnie a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719117512638,
+      "content": "Sonya Edwarnie a nommÃ© le groupe Sonya Edwarnie Â· LÃ¨vres roses ou Baume Ã  lÃ¨vres disponible en gros et en dÃ©tail."
+    }
+  ]
+}

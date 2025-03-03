@@ -1,0 +1,75 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444583037,
+      "content": "Le mien c'est 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444573918,
+      "content": "Donne moi ton numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444568154,
+      "content": "C'est oÃ¹ Ã§a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438155833,
+      "content": "Agbavi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701431764521,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701431756266,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701429860228,
+      "content": "5"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701429827300,
+      "content": "Une"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701428437987,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701426684367,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701424450290,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701424450156,
+      "content": "Michel Zanotti"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701424448503,
+      "content": "Michel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701424448188,
+      "content": "Michel a nommÃ© le groupe Michel Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

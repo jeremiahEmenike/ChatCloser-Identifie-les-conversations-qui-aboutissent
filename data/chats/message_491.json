@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705362516695,
+      "content": "C'est celui ci qui est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705362504309,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705362493214,
+      "content": "Bonsoir c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705357753904,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705357753483,
+      "content": "Felix Fero"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705357751090,
+      "content": "Felix a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705357750623,
+      "content": "Felix a nommÃ© le groupe Felix Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

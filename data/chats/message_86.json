@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699786009197,
+      "content": "Vous allez passer aujourd'hui ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699785930628,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699785902735,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699785883376,
+      "content": "Vous vous situez oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699785856291,
+      "content": "D'accord vous voulez qu'on vous livre ?!"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699785834853,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699785727078,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699785722782,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699778722418,
+      "content": "Ami Visionnaire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699778719675,
+      "content": "Ami a nommÃ© le groupe Amadou Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699778719675,
+      "content": "Ami a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699778719675,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716214689929,
+      "content": "Je te trouve trÃ¨s belle"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716214682670,
+      "content": "J'aimerais qu'on fasse connaissance"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716214671456,
+      "content": "J'ai vu ton profil et tu me plais beaucoup"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716214661488,
+      "content": "Bonjour Fawziya"
+    }
+  ]
+}

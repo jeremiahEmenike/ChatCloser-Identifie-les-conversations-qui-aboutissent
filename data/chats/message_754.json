@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701618347810,
+      "content": "Vous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701618327648,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701617533275,
+      "content": "!?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701617530637,
+      "content": "Tout est Ã  2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701518966572,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701508099770,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701508099474,
+      "content": "Junior Kpayou Ali"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701508096660,
+      "content": "Junior a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701508096094,
+      "content": "Junior a nommÃ© le groupe Junior Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707841385273,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707831551219,
+      "content": "Tu es oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798246049,
+      "content": "3 Ã  6500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707756968982,
+      "content": "Prix d en gros c'est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707519697918,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707514956286,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707514951396,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707514950906,
+      "content": "Kuevi Gilles"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707514948532,
+      "content": "Gilles a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707514947755,
+      "content": "Gilles a nommÃ© le groupe Gilles Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

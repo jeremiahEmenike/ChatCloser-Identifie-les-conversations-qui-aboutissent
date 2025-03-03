@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714059717917,
+      "content": "Samira Abdoulaye vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714059712250,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714059711961,
+      "content": "Samira Abdoulaye"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714059709237,
+      "content": "Samira a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714059708767,
+      "content": "Samira a nommÃ© le groupe Samira Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

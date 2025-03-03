@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713359164476,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713359164122,
+      "content": "Ramdan Ramdane"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713359161591,
+      "content": "Ramdan a nommÃ© le groupe Ramdan Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713359161591,
+      "content": "Ramdan a modifiÃ© la photo du groupe."
+    }
+  ]
+}

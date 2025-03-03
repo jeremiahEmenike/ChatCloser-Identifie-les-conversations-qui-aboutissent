@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701718366959,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701716541980,
+      "content": "Paul Adote"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701716538948,
+      "content": "Paul a nommÃ© le groupe Paul Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701716538948,
+      "content": "Paul a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701716538948,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721310715280,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721310007714,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721309998505,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721309997894,
+      "content": "Jidenna Junod Anele"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721309994328,
+      "content": "Jidenna a nommÃ© le groupe Jidenna Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721309994328,
+      "content": "Jidenna a modifiÃ© la photo du groupe."
+    }
+  ]
+}

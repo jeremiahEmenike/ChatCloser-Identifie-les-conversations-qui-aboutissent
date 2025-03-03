@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707718293323,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707705558568,
+      "content": "Rody la Legende"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707705558544,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707705550091,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707705548542,
+      "content": "Rody a nommÃ© le groupe Rody Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707705548542,
+      "content": "Rody a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712577337424,
+      "content": "Bonjour\nC'est disponible\nVous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712577334239,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712563719653,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712563716247,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712563715736,
+      "content": "Claude Fiokouna"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712563713585,
+      "content": "Claude a nommÃ© le groupe Claude Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712563713585,
+      "content": "Claude a modifiÃ© la photo du groupe."
+    }
+  ]
+}

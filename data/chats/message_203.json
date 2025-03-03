@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713525417590,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713525417033,
+      "content": "Bilyaminou Ibrahim"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713525414100,
+      "content": "Bilyaminou a nommÃ© le groupe Bilyaminou Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713525414100,
+      "content": "Bilyaminou a modifiÃ© la photo du groupe."
+    }
+  ]
+}

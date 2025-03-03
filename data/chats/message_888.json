@@ -1,0 +1,75 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721462996664,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721433269426,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721433242951,
+      "content": "Votre numÃ©ro WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721433201452,
+      "content": "D'accord, livraison 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721432111405,
+      "content": "Je suis Ã  adewui EAMAU"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721384978066,
+      "content": "Mais nous pouvons aussi vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721384969603,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721349723679,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721142536270,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721138020537,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721138014048,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721138013385,
+      "content": "Levieux Kobri"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721138009823,
+      "content": "Levieux a nommÃ© le groupe Levieux Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721138009823,
+      "content": "Levieux a modifiÃ© la photo du groupe."
+    }
+  ]
+}

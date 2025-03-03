@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740995491,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740846483,
+      "content": "Mais je veux 1 aprÃ¨s je vais te faire signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740814212,
+      "content": "Non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740767733,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740756268,
+      "content": "Mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740749148,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712738960271,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735793042,
+      "content": "Bonjour c'est disponible,\nL'unitÃ© est Ã  2500,\nvous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735009312,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735009118,
+      "content": "Medina Fiadzigbe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735006176,
+      "content": "Medina a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735005744,
+      "content": "Medina a nommÃ© le groupe Medina Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

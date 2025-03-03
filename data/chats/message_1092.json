@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703875006554,
+      "content": "Il ne reste que celui-ci Ã  9500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703874992376,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703867682503,
+      "content": "?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703867678071,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703838486553,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703834952785,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703834952424,
+      "content": "Parfait Mojaveli"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703834949660,
+      "content": "Parfait a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703834948954,
+      "content": "Parfait a nommÃ© le groupe Parfait Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

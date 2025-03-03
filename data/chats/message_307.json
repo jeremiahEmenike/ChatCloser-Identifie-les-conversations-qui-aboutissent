@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712945636247,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712945632483,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712944868092,
+      "content": "Juste 1\nVous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712944143828,
+      "content": "Bonjour\nC'est disponible Ã  2500 vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712930461072,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712930460588,
+      "content": "Dav Santos"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712930457290,
+      "content": "Dav a nommÃ© le groupe Dav Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712930457290,
+      "content": "Dav a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721217652137,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721216921579,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721216921124,
+      "content": "Tchalevi Simple"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721216918542,
+      "content": "Tchalevi a nommÃ© le groupe Tchalevi Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721216918542,
+      "content": "Tchalevi a modifiÃ© la photo du groupe."
+    }
+  ]
+}

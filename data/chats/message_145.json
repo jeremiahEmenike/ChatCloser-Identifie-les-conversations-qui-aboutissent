@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721166115184,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721164641281,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721164633008,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721164632661,
+      "content": "Attikpo Bruno"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721164629831,
+      "content": "Attikpo a nommÃ© le groupe Attikpo Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721164629831,
+      "content": "Attikpo a modifiÃ© la photo du groupe."
+    }
+  ]
+}

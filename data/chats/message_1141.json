@@ -1,0 +1,75 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713008857050,
+      "content": "Kara"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713007745276,
+      "content": "93031484"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713004840885,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713004836894,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713004832141,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713004244969,
+      "content": "Je veux Ã§a ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713003507773,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713001300520,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713000361637,
+      "content": "C'est a combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712996979138,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712996897521,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712996897178,
+      "content": "Rafat Pitingueli"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712996894602,
+      "content": "Rafat a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712996894206,
+      "content": "Rafat a nommÃ© le groupe Rafat Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696930340940,
+      "content": "Vous nâavez pas rÃ©pondu Ã Â : Fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696923419615,
+      "content": "Fini"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957118793,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957066037,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957059960,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957059456,
+      "content": "Koffa Agbessi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957056843,
+      "content": "Koffa a nommÃ© le groupe Koffa Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957056843,
+      "content": "Koffa a modifiÃ© la photo du groupe."
+    }
+  ]
+}

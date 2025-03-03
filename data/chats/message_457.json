@@ -1,0 +1,60 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712952894187,
+      "content": "Ok 99756090"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712951900001,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712945791301,
+      "content": "Ok merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712945627701,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712945491927,
+      "content": "je peux avoir votre numÃ©ro ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712944182484,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712934613997,
+      "content": "Bonsoir svp vous Ãªtes ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712934123911,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712934123228,
+      "content": "Eyeram Azonglassi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712934119979,
+      "content": "Eyeram a nommÃ© le groupe Eyeram Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712934119979,
+      "content": "Eyeram a modifiÃ© la photo du groupe."
+    }
+  ]
+}

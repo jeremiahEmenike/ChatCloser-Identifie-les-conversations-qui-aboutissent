@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701195194305,
+      "content": "Agbalepedo groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701194756157,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701179635056,
+      "content": "Non, la livraison est a vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701175381017,
+      "content": "Livraison y compris ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701158924194,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701158191190,
+      "content": "Oui . Vous dites que c'est a combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701157779876,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701157771124,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701157765030,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701157764690,
+      "content": "JosuÃ© Late"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701157761665,
+      "content": "JosuÃ© a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701157761237,
+      "content": "JosuÃ© a nommÃ© le groupe JosuÃ© Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

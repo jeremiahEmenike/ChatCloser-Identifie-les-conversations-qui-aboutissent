@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713791561179,
+      "content": "Salut c'est tjrs disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713276298554,
+      "content": "Bonjour c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713261623774,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713261623468,
+      "content": "Monika Agnikra"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713261620447,
+      "content": "Monika a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713261619999,
+      "content": "Monika a nommÃ© le groupe Monika Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715412842828,
+      "content": "Oui c'est le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715399201000,
+      "content": "Ton prix que tâa Ã©crit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715255589663,
+      "content": "D'accord vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715255291952,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715248082319,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715246773452,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715246766428,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715246766198,
+      "content": "Tolegba Gandja"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715246763452,
+      "content": "Tolegba a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715246763000,
+      "content": "Tolegba a nommÃ© le groupe Tolegba Â· LÃ¨vres roses ou Baume Ã  lÃ¨vres disponible en gros et en dÃ©tail."
+    }
+  ]
+}

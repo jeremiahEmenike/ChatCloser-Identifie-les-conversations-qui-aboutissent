@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712749618677,
+      "content": "Vous nâavez pas luÂ : Oui dispo cher"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712742867576,
+      "content": "Oui dispo cher"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712689053788,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712689051191,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712689050811,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Scelleuse Mini."
+    }
+  ]
+}

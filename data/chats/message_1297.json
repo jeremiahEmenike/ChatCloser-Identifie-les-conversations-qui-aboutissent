@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721282179242,
+      "content": "Oki cool"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721251019639,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721250960462,
+      "content": "Tu es vers oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721250953998,
+      "content": "Anh bon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243064807,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721241550619,
+      "content": "Oui loo câest Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721115214112,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721114710828,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721114704445,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721114703782,
+      "content": "Tcpe El Sacsore"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721114701601,
+      "content": "Tcpe a nommÃ© le groupe Tcpe Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721114701601,
+      "content": "Tcpe a modifiÃ© la photo du groupe."
+    }
+  ]
+}

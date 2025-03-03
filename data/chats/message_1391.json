@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721400309128,
+      "content": "Il y a un bureau de la poste lÃ -bas??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721400021774,
+      "content": "Mw chuis Ã  aniÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721385176720,
+      "content": "D'accord nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721338242234,
+      "content": "Juste 1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721058769121,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721058760591,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721055992343,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721055992068,
+      "content": "Victor Kpanan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721055988765,
+      "content": "Victor a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721055988320,
+      "content": "Victor a nommÃ© le groupe Victor Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

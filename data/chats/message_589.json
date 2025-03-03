@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707676932468,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707672919975,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707659223880,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707651844950,
+      "content": "1 prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648111397,
+      "content": "Bonjour sa majestÃ©.\nC'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707599366972,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707599366797,
+      "content": "Smith Fabrice"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707599364794,
+      "content": "Smith a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707599364023,
+      "content": "Smith a nommÃ© le groupe Harry Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

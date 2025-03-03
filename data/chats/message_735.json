@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713480960348,
+      "content": "JosuÃ© Kombate vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713480955590,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713480955181,
+      "content": "JosuÃ© Kombate"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713480952295,
+      "content": "JosuÃ© a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713480951944,
+      "content": "JosuÃ© a nommÃ© le groupe JosuÃ© Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

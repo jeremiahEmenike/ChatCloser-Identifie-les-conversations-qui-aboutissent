@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698559167,
+      "content": "OK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698452756,
+      "content": "J'ai jamais utilisÃ© Ã§a Ã  fond"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698441707,
+      "content": "Une journÃ©e peut Ãªtre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698378478,
+      "content": "Temps d'Ã©coute ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685653106,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685448961,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685444316,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685443781,
+      "content": "EzÃ©chiel Alessi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685441792,
+      "content": "EzÃ©chiel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685441330,
+      "content": "EzÃ©chiel a nommÃ© le groupe EzÃ©chiel Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

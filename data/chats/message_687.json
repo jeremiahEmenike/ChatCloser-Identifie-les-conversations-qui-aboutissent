@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714236442416,
+      "content": "Cets disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714236357979,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714236357566,
+      "content": "Jean Ricardo Kpognon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714236355265,
+      "content": "Jean Ricardo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714236354615,
+      "content": "Jean Ricardo a nommÃ© le groupe Jean Ricardo Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

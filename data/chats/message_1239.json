@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720647719016,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720646484462,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720646476125,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720646475605,
+      "content": "Semanu Sroukpe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720646473002,
+      "content": "Semanu a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720646472451,
+      "content": "Semanu a nommÃ© le groupe Semanu Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

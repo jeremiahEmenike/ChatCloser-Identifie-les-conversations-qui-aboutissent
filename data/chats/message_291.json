@@ -1,0 +1,60 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993273085,
+      "content": "Bonjour comment allez vous??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712730577105,
+      "content": "Livraison 1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712730533605,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712705548264,
+      "content": "J'habite Ã  agoÃ©-bÃ¢tir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658576665,
+      "content": "Envoyez moi votre localisation au 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658560972,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712612164637,
+      "content": "Je veux bien avec livraison combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712612132517,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712612131959,
+      "content": "Daniel Sama"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712612129832,
+      "content": "Daniel a nommÃ© le groupe Daniel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712612129832,
+      "content": "Daniel a modifiÃ© la photo du groupe."
+    }
+  ]
+}

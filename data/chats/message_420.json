@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213902591,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213502075,
+      "content": "Je vais voir et te revenir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213498620,
+      "content": "Okb"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213272155,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213233837,
+      "content": "C'est pas possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713209411486,
+      "content": "Si sa arrive a la poste je vais donner l'argent lÃ -bas et je prends c'est mieux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713209380568,
+      "content": "Je ne peux pas venir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197150370,
+      "content": "On peut utiliser la poste mais vous allez devoir payer d'avance"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197078773,
+      "content": "Vous allez venir Ã  LomÃ©??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713195491711,
+      "content": "Mais je suis a kpalimÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713195483969,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713182896480,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713176727266,
+      "content": "Bonjour j'ai besoin de Ã§a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713176698133,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713176697849,
+      "content": "Ãphrem Chine"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713176694164,
+      "content": "Ãphrem a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713176693394,
+      "content": "Ãphrem a nommÃ© le groupe Ãphrem Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

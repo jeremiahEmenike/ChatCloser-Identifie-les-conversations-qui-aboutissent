@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768624889,
+      "content": "Non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768551961,
+      "content": "D'accord vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768535831,
+      "content": "Un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768492028,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768257734,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768257356,
+      "content": "Adewodu El Haliq"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768255147,
+      "content": "Adewodu a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768254863,
+      "content": "Adewodu a nommÃ© le groupe Adewodu Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

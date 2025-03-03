@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701635078082,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701634310914,
+      "content": "C'est Ã  2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701631443198,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701628053061,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701628045608,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701628045295,
+      "content": "Cherifa AdjibÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701628042112,
+      "content": "Cherifa a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701628041624,
+      "content": "Cherifa a nommÃ© le groupe Cherifa Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

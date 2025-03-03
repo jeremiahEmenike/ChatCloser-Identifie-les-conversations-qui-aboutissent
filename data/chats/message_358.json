@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696717316237,
+      "content": "ook"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696717308956,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696717284449,
+      "content": "Votre numÃ©ro svp?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696717272080,
+      "content": "Yes"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696717258079,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696716120716,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696716116205,
+      "content": "Is this available?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696716115880,
+      "content": "Baron White"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696716113619,
+      "content": "Baron a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696716113366,
+      "content": "Baron a nommÃ© le groupe Dougne Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

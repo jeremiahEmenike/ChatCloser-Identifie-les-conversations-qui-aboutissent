@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721249277208,
+      "content": "Togo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721248483037,
+      "content": "Oui vous Ãªtes dans kel pays?!"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721200633207,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721169945438,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721169937763,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721169937228,
+      "content": "Delia KouvahÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721169934775,
+      "content": "Delia a nommÃ© le groupe Delia Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721169934775,
+      "content": "Delia a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701760143074,
+      "content": "Votre numÃ©ro WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701757460046,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701751254864,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701751254352,
+      "content": "Kokou Nouvor"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701751251963,
+      "content": "Kokou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701751251360,
+      "content": "Kokou a nommÃ© le groupe Kokou Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

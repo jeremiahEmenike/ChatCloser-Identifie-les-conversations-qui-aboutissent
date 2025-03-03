@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720801076282,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720800136887,
+      "content": "Dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720800108363,
+      "content": "J'en veux 1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720799313814,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720799288499,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720799288126,
+      "content": "Zita Amuzu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720799285054,
+      "content": "Zita a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720799284483,
+      "content": "Zita a nommÃ© le groupe Zita Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

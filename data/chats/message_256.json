@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700604802197,
+      "content": "Vous voulez combien ?'"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700604801950,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700604801649,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700604049306,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700604048940,
+      "content": "Christal DÃ©esse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700604046915,
+      "content": "Christal a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700604046488,
+      "content": "Christal a nommÃ© le groupe Christal Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720859820397,
+      "content": "Bonjour c'est disponible vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720830010534,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720830010041,
+      "content": "Josee Apelete"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720830006887,
+      "content": "Josee a nommÃ© le groupe Josee Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720830006887,
+      "content": "Josee a modifiÃ© la photo du groupe."
+    }
+  ]
+}

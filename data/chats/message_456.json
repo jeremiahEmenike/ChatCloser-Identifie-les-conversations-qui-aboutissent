@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701272359258,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701272354859,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701269265976,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701269265410,
+      "content": "Exo Fraich"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701269263229,
+      "content": "Exo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701269262699,
+      "content": "Exo a nommÃ© le groupe Exo Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

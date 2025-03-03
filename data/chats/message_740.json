@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712426969183,
+      "content": "Agoe asiyeye"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712426959454,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712426772067,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710323934426,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710319534529,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710319528496,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710319528304,
+      "content": "Jsaoo Sinfo-SBass"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710319525751,
+      "content": "Jsaoo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710319524907,
+      "content": "Jsaoo a nommÃ© le groupe Jsaoo Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

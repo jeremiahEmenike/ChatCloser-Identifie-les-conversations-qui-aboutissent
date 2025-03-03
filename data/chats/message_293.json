@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713115093105,
+      "content": "Un contact a quittÃ© le groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713113546723,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713113510140,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713113494180,
+      "content": "Et c'est combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713096433104,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713096427695,
+      "content": "Il y a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713094798717,
+      "content": "Oui ou bien y'a pas ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090615838,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713085173568,
+      "content": "Salut"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713079783194,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713079782545,
+      "content": "Utilisateur Facebook a envoyÃ© une piÃ¨ce jointe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713079778526,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713079778525,
+      "content": "Un contact a nommÃ© le groupe Daniel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

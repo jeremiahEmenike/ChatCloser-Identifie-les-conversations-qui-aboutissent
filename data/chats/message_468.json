@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713696536027,
+      "content": "Mais pardon vous Ãªtes ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713696507768,
+      "content": "Bonjour Mr c'est bon je veux Ã§a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874343333,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712857000840,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712857000334,
+      "content": "Fabrisco Nouboudo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712856998012,
+      "content": "Fabrisco a nommÃ© le groupe Fabrisco Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712856998012,
+      "content": "Fabrisco a modifiÃ© la photo du groupe."
+    }
+  ]
+}

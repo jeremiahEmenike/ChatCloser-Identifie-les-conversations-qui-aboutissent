@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721200605289,
+      "content": "Nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721200596304,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721167488313,
+      "content": "Cet article mâintÃ©resse."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721167487888,
+      "content": "Zaba Ghislain Makdjene"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721167484984,
+      "content": "Zaba a nommÃ© le groupe Zaba Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721167484984,
+      "content": "Zaba a modifiÃ© la photo du groupe."
+    }
+  ]
+}

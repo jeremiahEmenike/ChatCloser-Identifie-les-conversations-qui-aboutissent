@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701594560274,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701594542054,
+      "content": "Prix svp ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701594524122,
+      "content": "Nous sommes Ã  agbalepedo groupe C\n\nPrendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le corner Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701594517976,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701594096711,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701594091300,
+      "content": "Tedd vous a proposÃ© 2Â 250Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701594090058,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701594089724,
+      "content": "Tedd GÃ©rard Mathieu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701594087508,
+      "content": "Tedd a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701594086901,
+      "content": "Tedd a nommÃ© le groupe Tedd Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

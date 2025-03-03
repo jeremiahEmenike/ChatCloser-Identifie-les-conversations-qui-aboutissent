@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693414680271,
+      "content": "Pour le moment c'est pas disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693398849904,
+      "content": "la livraison est gratuite"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693398782635,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693398778828,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693398778345,
+      "content": "Viviane Viviane Ali"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693398776851,
+      "content": "Viviane Viviane a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693398776431,
+      "content": "Viviane Viviane a nommÃ© le groupe Viviane Viviane Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

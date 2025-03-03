@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562655495,
+      "content": "Bonjour c'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712532947270,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712532947030,
+      "content": "HonorÃ© Pasteur Komassi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712532944994,
+      "content": "HonorÃ© Pasteur a nommÃ© le groupe HonorÃ© Pasteur Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712532944994,
+      "content": "HonorÃ© Pasteur a modifiÃ© la photo du groupe."
+    }
+  ]
+}

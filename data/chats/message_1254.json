@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712906540929,
+      "content": "Et vous??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712906535108,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712904136726,
+      "content": "Votre situation gÃ©ographique"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712904123252,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712903765231,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712900999755,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712900995492,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712900995161,
+      "content": "Simgnilou Tchottou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712900991933,
+      "content": "Simgnilou a nommÃ© le groupe Simgnilou Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712900991933,
+      "content": "Simgnilou a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713033730994,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713033553063,
+      "content": "Ok pas pour le moment Kan je serai prÃ¨s je vous ferai signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713033493810,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713033474991,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713033010611,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713032987805,
+      "content": "Bonsoir c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713032776008,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713032775800,
+      "content": "Mohamed Yechi Yombou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713032772609,
+      "content": "Mohamed Yechi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713032772149,
+      "content": "Mohamed Yechi a nommÃ© le groupe Mohamed Yechi Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

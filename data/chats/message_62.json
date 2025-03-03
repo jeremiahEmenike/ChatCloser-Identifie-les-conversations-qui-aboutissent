@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713558217594,
+      "content": "OÃ¹ pourrais-je vous rencontrer pour le prendre ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713258212610,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713252522210,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713252521846,
+      "content": "Alex Alade"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713252519925,
+      "content": "Alex a nommÃ© le groupe Alex Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713252519925,
+      "content": "Alex a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701331154483,
+      "content": "D'accord. J'ai jamais essayÃ© les venu mais celui lÃ  aussi Tone bien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330933278,
+      "content": "Je pense que venu tone bien que les nouveaux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330807337,
+      "content": "Non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701322006351,
+      "content": "C'est venu?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701321996045,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701259011942,
+      "content": "Bonjour\nOui c'est disponible. Est-ce quâil vous intÃ©resse toujours ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701257905586,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701257905229,
+      "content": "Wovi Komi Jean"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701257902524,
+      "content": "Wovi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701257902173,
+      "content": "Wovi a nommÃ© le groupe Wovi Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

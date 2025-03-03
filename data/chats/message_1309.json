@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713002445915,
+      "content": "Je suis lÃ "
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713002440348,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712998718688,
+      "content": "500 ses bon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712998699164,
+      "content": "Oooh non ses trÃ¨s chÃ¨re la livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712951773215,
+      "content": "D'accord la livraison va vous coÃ»ter 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712951748074,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712951087413,
+      "content": "PrÃ©cisÃ©ment avant le feu rouge"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712951041635,
+      "content": "En allant vers le contournement dans le von de oando"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712950982977,
+      "content": "Moi je suis Ã  mon loin d assiyeye"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712910536921,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712907434585,
+      "content": "Ses un seulement je veux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874181281,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712858258883,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712858258448,
+      "content": "Thierry Agbo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712858255708,
+      "content": "Thierry a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712858255267,
+      "content": "Thierry a nommÃ© le groupe Thierry Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

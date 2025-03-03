@@ -1,0 +1,70 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712612284091,
+      "content": "Je suis au carrefour commando"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712612252701,
+      "content": "90329464"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712600544165,
+      "content": "Votre contact svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712600543798,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712597048534,
+      "content": "Et toi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712596990924,
+      "content": "Agoe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562590302,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712539331161,
+      "content": "Un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513628503,
+      "content": "Bonjour, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712476201806,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712476201420,
+      "content": "Ghislain Nano"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712476199165,
+      "content": "Ghislain a nommÃ© le groupe Ghislain Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712476199165,
+      "content": "Ghislain a modifiÃ© la photo du groupe."
+    }
+  ]
+}

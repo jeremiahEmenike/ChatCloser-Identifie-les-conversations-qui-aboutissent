@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713250657806,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713249619441,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713249617071,
+      "content": "Bonjour, cet article est-il disponible ? Vous Ãªtes oÃ¹ il LomÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713249601030,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713249595236,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713249595016,
+      "content": "Ayaovi Bonsi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713249591698,
+      "content": "Ayaovi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713249591107,
+      "content": "Ayaovi a nommÃ© le groupe Ayaovi Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

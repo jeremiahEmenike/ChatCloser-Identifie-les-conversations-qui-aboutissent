@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701236486275,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701235086819,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701235086451,
+      "content": "Take Takobi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701235084478,
+      "content": "Take a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701235084137,
+      "content": "Take a nommÃ© le groupe Take Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

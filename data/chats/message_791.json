@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710283350798,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710270396839,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710270390808,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710270390395,
+      "content": "KingAdam Nassirou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710270387276,
+      "content": "KingAdam a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710270386332,
+      "content": "KingAdam a nommÃ© le groupe KingAdam Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444289347,
+      "content": "Hello je suis la"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701419873800,
+      "content": "J'habite Ã  agbalepedo groupe C\n\nMais actuellement je suis au campus je reviens Ã  16h"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701419191239,
+      "content": "1 seulement"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415362387,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415358453,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701385024870,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701385024532,
+      "content": "Elisa Sraku"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701385022378,
+      "content": "Elisa a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701385022076,
+      "content": "Elisa a nommÃ© le groupe Elisa Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

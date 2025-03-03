@@ -1,0 +1,100 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721142979122,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721142924450,
+      "content": "Ok, avec livraison 3500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721047790388,
+      "content": "Du coup tu diminue ton prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721047755683,
+      "content": "J'aimerais bien, mais c'est pas moi qui vais faire la livraison, donc le livreur doit Ãªtre payer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721047696850,
+      "content": "Diminue je paye"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721047650437,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721047638035,
+      "content": "Donc le tout fait 4mill"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721032561008,
+      "content": "D'accord la livraison va vous coÃ»ter 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721032292391,
+      "content": "Bref moi je suis Ã  kÃ©guÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721032257210,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721032200209,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721032171449,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721032114146,
+      "content": "Oui c'est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721032087482,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721031992650,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721031986674,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721031986139,
+      "content": "Roger Duvo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721031983842,
+      "content": "Roger a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721031983353,
+      "content": "Roger a nommÃ© le groupe Roger Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

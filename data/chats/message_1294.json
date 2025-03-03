@@ -1,0 +1,65 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700158026957,
+      "content": "Pdn fait moi signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700158014120,
+      "content": "70265756"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700158002610,
+      "content": "Okey"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700157540283,
+      "content": "Nous sommes Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700157532812,
+      "content": "Vous allez passer chercher ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700157524830,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700156841525,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700150962650,
+      "content": "Bonjour c'est disponible vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700150909286,
+      "content": "Tchangai Mazama"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700150906672,
+      "content": "Tchangai a nommÃ© le groupe Tchangai Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700150906672,
+      "content": "Tchangai a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700150906672,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

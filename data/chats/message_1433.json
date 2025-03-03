@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708157709966,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648159615,
+      "content": "C'est vraiment 2500 le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707608274561,
+      "content": "2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707608265820,
+      "content": "200"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707550015912,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707549999368,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707525236723,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707525236491,
+      "content": "Yori Teo Thomsone"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707525233519,
+      "content": "Yori a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707525233003,
+      "content": "Yori a nommÃ© le groupe Yori Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

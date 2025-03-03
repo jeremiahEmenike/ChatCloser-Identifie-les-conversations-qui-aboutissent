@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713206770476,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713206765254,
+      "content": "Mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713206682865,
+      "content": "Okay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713206662078,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713206649519,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713206634708,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713205875127,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713205870561,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713205870118,
+      "content": "Tawhidatou Kassim"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713205866888,
+      "content": "Tawhidatou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713205866478,
+      "content": "Tawhidatou a nommÃ© le groupe Tawhidatou Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

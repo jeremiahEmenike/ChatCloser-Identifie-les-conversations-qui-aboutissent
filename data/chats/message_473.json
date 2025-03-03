@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697497251656,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697451169301,
+      "content": "C'est 8000 le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697449953633,
+      "content": "Combien last ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697443193090,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697441496285,
+      "content": "Srv?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697441491341,
+      "content": "Oui mais jâai 6k"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697434676574,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697411957051,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697411952136,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697411951840,
+      "content": "Fad Le Roi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697411949998,
+      "content": "Fad a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697411949662,
+      "content": "Fad a nommÃ© le groupe Fad Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

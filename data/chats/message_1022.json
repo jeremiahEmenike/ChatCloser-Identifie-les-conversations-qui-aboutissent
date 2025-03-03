@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701350358741,
+      "content": "La journÃ©e"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701350080408,
+      "content": "Autonomie"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701350050532,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701350020650,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701349359394,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701349340823,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701349340553,
+      "content": "Mohammed Issa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701349338432,
+      "content": "Mohammed a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701349338163,
+      "content": "Mohammed a nommÃ© le groupe Mohammed Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

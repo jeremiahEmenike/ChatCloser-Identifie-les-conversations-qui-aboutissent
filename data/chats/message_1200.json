@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713103383796,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713103274522,
+      "content": "Vous Ãªtes oÃ¹ ???"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713103266674,
+      "content": "Et vous ???"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713103259811,
+      "content": "Je suis au NIVEAU DU LYCÃE TECHNIQUE D'ATTIÃGOU"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713098652629,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713098648547,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713098644326,
+      "content": "2400"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713097812219,
+      "content": "Le Prix est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713097800880,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713097776905,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713097770438,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713097293074,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713097287340,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713097286920,
+      "content": "Romuald Kokou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713097283551,
+      "content": "Romuald a nommÃ© le groupe Romuald Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713097283551,
+      "content": "Romuald a modifiÃ© la photo du groupe."
+    }
+  ]
+}

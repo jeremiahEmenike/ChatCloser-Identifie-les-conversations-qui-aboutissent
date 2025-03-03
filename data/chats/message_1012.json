@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713473516086,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713473515695,
+      "content": "Modestino Agbegnigan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713473513303,
+      "content": "Modestino a nommÃ© le groupe Modestino Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713473513303,
+      "content": "Modestino a modifiÃ© la photo du groupe."
+    }
+  ]
+}

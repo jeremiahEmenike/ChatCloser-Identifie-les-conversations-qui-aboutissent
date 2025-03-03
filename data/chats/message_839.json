@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701518966786,
+      "content": "On peut vous livrez"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701518966657,
+      "content": "Je suis Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701515652776,
+      "content": "Un mais oÃ¹ vous Ãªtes moi je suis Ã  sÃ©gbÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417248715,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701417236301,
+      "content": "Bonjour, oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701416981991,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701416981772,
+      "content": "Komlavi Egle"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701416979155,
+      "content": "Komlavi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701416978763,
+      "content": "Komlavi a nommÃ© le groupe Komlavi Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

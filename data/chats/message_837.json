@@ -1,0 +1,50 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713247282039,
+      "content": "96712014"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090642404,
+      "content": "D'accord votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713080291960,
+      "content": "Une"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713033024831,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713033020668,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713029930535,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713029930283,
+      "content": "Komlan PacÃ´me Amegavi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713029929015,
+      "content": "Komlan PacÃ´me a nommÃ© le groupe Komlan PacÃ´me Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713029929015,
+      "content": "Komlan PacÃ´me a modifiÃ© la photo du groupe."
+    }
+  ]
+}

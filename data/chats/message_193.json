@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720814760170,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720814490177,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720814482020,
+      "content": "Oui, câest disponibleâ¦?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720814481519,
+      "content": "Bernice Dassi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720814478535,
+      "content": "Bernice a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720814478144,
+      "content": "Bernice a nommÃ© le groupe Bernice Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

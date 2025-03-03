@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703709690866,
+      "content": "GrÃ¢ce Queen a quittÃ© le groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703674534894,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703674519965,
+      "content": "C'est apple watch que je voulais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703674489797,
+      "content": "Himm"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703674485898,
+      "content": "C'est un Smart watch"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703674459383,
+      "content": "Nn"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703674446736,
+      "content": "C'est apple watch"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703674391675,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703674368002,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703674362368,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703674362014,
+      "content": "GrÃ¢ce Queen"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703674359414,
+      "content": "GrÃ¢ce a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703674358737,
+      "content": "GrÃ¢ce a nommÃ© le groupe GrÃ¢ce Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

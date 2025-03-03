@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713535600625,
+      "content": "Farouk Maman Zougou vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713535592025,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713535591639,
+      "content": "Farouk Maman Zougou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713535588471,
+      "content": "Farouk a nommÃ© le groupe Farouk Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713535588471,
+      "content": "Farouk a modifiÃ© la photo du groupe."
+    }
+  ]
+}

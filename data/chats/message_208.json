@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713125888415,
+      "content": "98867278"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713125756188,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713125478981,
+      "content": "Kegue zogbedji"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713125457676,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713125391305,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713125349632,
+      "content": "Bonjour c'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713125217708,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713125217261,
+      "content": "Body Matazo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713125214477,
+      "content": "Body a nommÃ© le groupe Body Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713125214477,
+      "content": "Body a modifiÃ© la photo du groupe."
+    }
+  ]
+}

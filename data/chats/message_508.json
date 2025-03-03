@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696964554918,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696964542306,
+      "content": "Bonjour oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696963929163,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696963924142,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696963923917,
+      "content": "Forgive Bouaben"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696963922053,
+      "content": "Forgive a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696963921625,
+      "content": "Forgive a nommÃ© le groupe Forgive Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

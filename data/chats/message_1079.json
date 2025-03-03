@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713091200307,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713091197231,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090928430,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090923835,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090923524,
+      "content": "Oluwaseyi Agbaossi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090920306,
+      "content": "Oluwaseyi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090919879,
+      "content": "Oluwaseyi a nommÃ© le groupe Oluwaseyi Â· Ãcouteurs sans fil Pro 6 New. VENTE EN GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699966026114,
+      "content": "Hello, votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699947769486,
+      "content": "Vous pouvez passer au campus ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699947254685,
+      "content": "Ãa dÃ©pendra de la ou tu seras"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699946809403,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699946794790,
+      "content": "Vous allez passer prendre ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699946783158,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699946532456,
+      "content": "Je serai Ã  BIDC sur le boulevard fait moi signe dÃ¨s que tu finis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699946495166,
+      "content": "OK je vois"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699946413966,
+      "content": "PrÃ©sentement je suis sur le campus. Enfs Ã  cÃ´tÃ© d'issica"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699946373803,
+      "content": "Vs Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699946352821,
+      "content": "Oui, vous allez passer prendre ou qu'on vous livre ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699946328247,
+      "content": "Je peux l'avoir aujourd'hui ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699946275635,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699946262767,
+      "content": "C'est Ã  combien svp ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699945792512,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699945782430,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699943634578,
+      "content": "Joel Sognon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699943631780,
+      "content": "Joel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699943631780,
+      "content": "Joel a nommÃ© le groupe Joel Â· Montre et Ecouteur sans fil bluetooth."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699943631780,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

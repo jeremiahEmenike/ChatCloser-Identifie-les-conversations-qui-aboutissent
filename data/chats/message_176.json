@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707686594404,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707685037688,
+      "content": "C'est a combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707679093293,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707665637435,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707665633424,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707665632902,
+      "content": "Baudouin Gbeto"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707665629924,
+      "content": "Baudouin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707665629120,
+      "content": "Baudouin a nommÃ© le groupe Baudouin Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

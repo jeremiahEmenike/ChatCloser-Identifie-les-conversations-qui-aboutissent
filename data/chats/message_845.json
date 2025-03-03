@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713558041085,
+      "content": "Et c'est combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713553693729,
+      "content": "Il reste celui ci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713553686073,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713553644514,
+      "content": "Bonjour celui ci est fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713552778314,
+      "content": "C'est combien l'unitÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712577297397,
+      "content": "Bonjour\nC'est disponible\nVous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712574787856,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712574787458,
+      "content": "Kossi Agouya"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712574784330,
+      "content": "Kossi a nommÃ© le groupe Kossi Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712574784330,
+      "content": "Kossi a modifiÃ© la photo du groupe."
+    }
+  ]
+}

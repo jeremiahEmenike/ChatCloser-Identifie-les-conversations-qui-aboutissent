@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720290147600,
+      "content": "15000f prix dâen gros"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720288903021,
+      "content": "C'est a combien le produit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720288584161,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720288534284,
+      "content": "Il nây a de passoire dedans. Nous faisons aussi la livraison et câest Ã  1000f. Merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720288488952,
+      "content": "Je suis Ã  nanegbe non loin de ZossimÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720288030181,
+      "content": "Je voulais savoir s'il y a le passoire dedans??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720288004300,
+      "content": "Vous Ãªtes situÃ© oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720287763317,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720287748252,
+      "content": "Je vous ai envoyÃ© un message sur WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720287724987,
+      "content": "Bonsoir câest disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720287689375,
+      "content": "Bonjour Chantal, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720287686283,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720287685864,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· RICE COOKER 5l."
+    }
+  ]
+}

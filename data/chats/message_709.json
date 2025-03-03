@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707678112749,
+      "content": "Vous pouvez venir aujourd'hui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707677974334,
+      "content": "Ok je veux prendre Ã§a on fait comment"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707659214416,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707659207396,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654115318,
+      "content": "Je veux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654109438,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654104926,
+      "content": "John vous a proposÃ© 2Â 250Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654103266,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654103004,
+      "content": "John Johnny"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654100094,
+      "content": "John a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654099398,
+      "content": "John a nommÃ© le groupe John Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

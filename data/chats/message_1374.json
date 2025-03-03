@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711099827808,
+      "content": "Annonces similaires Ã  Â«Â SUPPORT TÃLÃPHONE POUR MOTO ET VÃLO UNIVERSELLEÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710979207816,
+      "content": "Bonne soirÃ©e"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710979187215,
+      "content": "OK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710978207068,
+      "content": "8.000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710975758143,
+      "content": "Le prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710971459760,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710970225309,
+      "content": "Bonjour Clara, cet article est-il toujours disponible, si oui c'est Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710970222628,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710970221981,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· SUPPORT TÃLÃPHONE POUR MOTO ET VÃLO UNIVERSELLE."
+    }
+  ]
+}

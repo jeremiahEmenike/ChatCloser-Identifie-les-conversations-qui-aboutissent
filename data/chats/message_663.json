@@ -1,0 +1,65 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869303382,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869111144,
+      "content": "Envoi moi ton numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869105242,
+      "content": "Okey"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868327360,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868322417,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701852697549,
+      "content": "Votre numÃ©ro et quartier quartier ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701852685290,
+      "content": "Je veux 1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701072595025,
+      "content": "Oui c'est disponible. Est-ce quâil vous intÃ©resse toujoursÂ ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701020101533,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701020101103,
+      "content": "Wyemla Mula Jahska"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701020098737,
+      "content": "Jahska a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701020098086,
+      "content": "Jahska a nommÃ© le groupe Jahska Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

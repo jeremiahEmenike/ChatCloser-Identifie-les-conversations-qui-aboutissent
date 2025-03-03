@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701472804243,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466997897,
+      "content": "Vous Ãªtes vers oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466991366,
+      "content": "C'est Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466985208,
+      "content": "1 seulement la couleur noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466953108,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466924067,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466749731,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466583458,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466578435,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466578019,
+      "content": "Lucry CrÃ©chou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466576137,
+      "content": "Lucry a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701466575782,
+      "content": "Lucry a nommÃ© le groupe Lucry Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

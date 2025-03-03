@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297081253,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297076618,
+      "content": "Mais c'est disponible maintenant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297068265,
+      "content": "DÃ©solÃ© pour le silence, les Ã©couteurs Ã©taient en rupture"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297047651,
+      "content": "Bonjour, j'espÃ¨re que vous allez bien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714072026969,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714072026642,
+      "content": "Lyl Reck"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714072024987,
+      "content": "Lyl a nommÃ© le groupe Lyl Â· Ãcouteurs sans fil Pro 6 New EN GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714072024987,
+      "content": "Lyl a modifiÃ© la photo du groupe."
+    }
+  ]
+}

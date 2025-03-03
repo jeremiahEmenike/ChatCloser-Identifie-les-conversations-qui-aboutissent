@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696959720694,
+      "content": "Bonjour c'est disponible Ã  8000, vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696955995922,
+      "content": "ZÃ¼ÃÃy vous a proposÃ© 8Â 000Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696955981955,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696955977537,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696955976852,
+      "content": "ZÃ¼ÃÃy Diamond"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696955975226,
+      "content": "ZÃ¼ÃÃy a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696955974810,
+      "content": "ZÃ¼ÃÃy a nommÃ© le groupe ZÃ¼ÃÃy Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

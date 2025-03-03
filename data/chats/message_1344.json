@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715164732083,
+      "content": "Lisbet a vendu DES BOUCHONS DE VALVE LUMINEUX."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714713637701,
+      "content": "Voir des annonces similaires"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714600748832,
+      "content": "Vous nâavez pas luÂ : Hedrzanawoe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714593333416,
+      "content": "Vous nâavez pas luÂ : 90073735"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714587586895,
+      "content": "90073735"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714587579428,
+      "content": "Hedrzanawoe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714584838131,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714584033123,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714584030316,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714584029944,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· DES BOUCHONS DE VALVE LUMINEUX."
+    }
+  ]
+}

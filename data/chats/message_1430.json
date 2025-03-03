@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712992891519,
+      "content": "Bonjour comment allez vous??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762159623,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762147452,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762132494,
+      "content": "D'accord vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762070759,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762055529,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762044661,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762044190,
+      "content": "Yhur Hynes"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762041430,
+      "content": "Yhur a nommÃ© le groupe Yhur Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762041430,
+      "content": "Yhur a modifiÃ© la photo du groupe."
+    }
+  ]
+}

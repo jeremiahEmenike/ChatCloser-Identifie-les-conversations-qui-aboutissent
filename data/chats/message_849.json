@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720859956102,
+      "content": "??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720859954153,
+      "content": "Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720859946783,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720858072854,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720858072412,
+      "content": "Kossiwa Marie Djadoo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720858070403,
+      "content": "Kossiwa Marie a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720858069954,
+      "content": "Kossiwa Marie a nommÃ© le groupe Kossiwa Marie Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

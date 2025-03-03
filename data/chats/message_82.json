@@ -1,0 +1,75 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716662436946,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715632017182,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715631225700,
+      "content": "NumÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713534903641,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713534150219,
+      "content": "Location"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713534147333,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713534145543,
+      "content": "Photo stp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713530105794,
+      "content": "6500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713509380341,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713508260198,
+      "content": "Bonjour c'est disponible vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713339612473,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713339612213,
+      "content": "Alphonse Habia"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713339609404,
+      "content": "Alphonse a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713339609092,
+      "content": "Alphonse a nommÃ© le groupe Alphonse Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special) EN GROS ET EN DETAIL."
+    }
+  ]
+}

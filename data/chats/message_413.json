@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183185003,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713131978035,
+      "content": "How much"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713130136308,
+      "content": "Yes"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713129739825,
+      "content": "Is this item still available?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713129739434,
+      "content": "Emmanuel Freeman Igara"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713129736261,
+      "content": "Emmanuel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713129735728,
+      "content": "Emmanuel a nommÃ© le groupe Emmanuel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

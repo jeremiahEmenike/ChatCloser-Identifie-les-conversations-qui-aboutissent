@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694076310059,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694076309681,
+      "content": "Romario Ouessouri Oulon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694076307631,
+      "content": "Romario a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694076307192,
+      "content": "Romario a nommÃ© le groupe Romario Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

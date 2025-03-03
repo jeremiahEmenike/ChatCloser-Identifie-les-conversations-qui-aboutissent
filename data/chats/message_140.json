@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712944258847,
+      "content": "Bonjour\nC'est disponible Ã  2500 vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712944256438,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712929411300,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712929406923,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712929406551,
+      "content": "Atef Magdy"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712929403414,
+      "content": "Atef a nommÃ© le groupe Atef Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712929403414,
+      "content": "Atef a modifiÃ© la photo du groupe."
+    }
+  ]
+}

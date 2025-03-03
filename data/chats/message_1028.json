@@ -1,0 +1,95 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012529236,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012494175,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012442854,
+      "content": "ArrivÃ© faite moi signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012433488,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713011550081,
+      "content": "ð¤"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712784576720,
+      "content": "NN carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712782877612,
+      "content": "Le marchÃ© mm"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712782872744,
+      "content": "Ã quel niveau de legbansito ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712771733502,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712770710980,
+      "content": "Son prix lass c est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712770406862,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712770399586,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712769906580,
+      "content": "Vs Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712769895557,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712769891116,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712769890689,
+      "content": "MÃµnkÃ¹cha Auqun Chien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712769888407,
+      "content": "MÃµnkÃ¹cha a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712769888056,
+      "content": "MÃµnkÃ¹cha a nommÃ© le groupe MÃµnkÃ¹cha Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

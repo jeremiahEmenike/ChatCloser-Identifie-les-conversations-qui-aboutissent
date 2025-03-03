@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704129799283,
+      "content": "Bonsoir, oui on vend en gros"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701795520590,
+      "content": "C'est combien vous vendez sur en gros"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701795511503,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794758183,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794015287,
+      "content": "Touglo Estherlove"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794015282,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794011843,
+      "content": "Touglo a nommÃ© le groupe Touglo Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794011843,
+      "content": "Touglo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794011843,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    }
+  ]
+}

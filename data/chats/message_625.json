@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697606775200,
+      "content": "12000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697606768956,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697606742220,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697606736507,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697579854652,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697575282665,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697572745956,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697572745723,
+      "content": "Agode IbrocitÃ© Ibrahim"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697572743617,
+      "content": "Ibrahim a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697572743380,
+      "content": "Ibrahim a nommÃ© le groupe Ibrahim Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

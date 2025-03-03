@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863073514,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862903644,
+      "content": "Combien le prix ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862370128,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862331810,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862324020,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862323766,
+      "content": "Yaovi Gadegbe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862320590,
+      "content": "Yaovi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862320107,
+      "content": "Yaovi a nommÃ© le groupe Yaovi Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712920472466,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712920468233,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712916391515,
+      "content": "En dÃ©tail c'est combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712916343767,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712916339393,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712916339178,
+      "content": "RomÃ©o Prince Agbodjan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712916336857,
+      "content": "RomÃ©o a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712916336421,
+      "content": "RomÃ©o a nommÃ© le groupe RomÃ©o Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

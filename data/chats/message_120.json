@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707550105683,
+      "content": "Nous sommes Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707550095122,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707545683599,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701451291200,
+      "content": "OK, vous pouvez passer chercher"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701446217444,
+      "content": "Je le veux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444625222,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438206176,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438201035,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438200599,
+      "content": "Apla Koffi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438198251,
+      "content": "Apla a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438197723,
+      "content": "Apla a nommÃ© le groupe Apla Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

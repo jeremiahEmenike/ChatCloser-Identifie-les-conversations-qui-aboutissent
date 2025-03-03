@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704628489181,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704628303931,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704627892241,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704627887224,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704627886601,
+      "content": "Sibabe Arafhino"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704627884312,
+      "content": "Sibabe a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704627883326,
+      "content": "Sibabe a nommÃ© le groupe Sibabe Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

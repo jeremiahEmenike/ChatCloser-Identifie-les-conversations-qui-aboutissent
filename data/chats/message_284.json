@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701179655658,
+      "content": "Livraison Ã  sanguera 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701173419088,
+      "content": "Livraison disponible pour Sanguera ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701173393708,
+      "content": "Damegale DjÃ©mongue"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701173391082,
+      "content": "Damegale a nommÃ© le groupe Damegale Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701173391082,
+      "content": "Damegale a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701173391082,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

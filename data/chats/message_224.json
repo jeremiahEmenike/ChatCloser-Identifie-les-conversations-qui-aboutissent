@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713357834033,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713357833601,
+      "content": "Bruno Palley"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713357830742,
+      "content": "Bruno a nommÃ© le groupe Bruno Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713357830742,
+      "content": "Bruno a modifiÃ© la photo du groupe."
+    }
+  ]
+}

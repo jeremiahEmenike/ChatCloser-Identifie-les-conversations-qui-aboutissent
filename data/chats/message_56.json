@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993370056,
+      "content": "Bonjour, comment allez vous??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712698670677,
+      "content": "OK c'est bon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658757892,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658750879,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712612294456,
+      "content": "Bonsoir, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712612293910,
+      "content": "Alassane Igodo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712612290646,
+      "content": "Alassane a nommÃ© le groupe Alassane Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712612290646,
+      "content": "Alassane a modifiÃ© la photo du groupe."
+    }
+  ]
+}

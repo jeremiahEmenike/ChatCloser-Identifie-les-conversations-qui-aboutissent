@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713004885066,
+      "content": "D'accord votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713004081998,
+      "content": "Je suis de lÃ  \nNous sommes sur la toute de mission tovÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713004044561,
+      "content": "Ok compris moi mÃªme dÃ¨s lundi je serai lÃ "
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712994477673,
+      "content": "Mais on peut vous livrer aussi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712994468110,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993844435,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993834196,
+      "content": "Oui je suis intÃ©ressÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993801333,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993693829,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993689323,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993688967,
+      "content": "Benjamin Voedzi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993686332,
+      "content": "Benjamin a nommÃ© le groupe Benjamin Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993686332,
+      "content": "Benjamin a modifiÃ© la photo du groupe."
+    }
+  ]
+}

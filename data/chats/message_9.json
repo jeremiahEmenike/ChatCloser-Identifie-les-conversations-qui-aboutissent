@@ -1,0 +1,20 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715117799772,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715022433587,
+      "content": "Abdoulaye Djibril a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715022433243,
+      "content": "Abdoulaye Djibril a nommÃ© le groupe Abdoulaye Djibril Â· Coffret Montre connectÃ©e et Ã©couteur sans fil Bluetooth W26."
+    }
+  ]
+}

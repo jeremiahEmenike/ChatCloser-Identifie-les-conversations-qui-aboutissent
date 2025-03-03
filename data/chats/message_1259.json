@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698303440527,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698303435022,
+      "content": "Bonjour c'est disponible Ã  8000f l'unitÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698285224582,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698285224263,
+      "content": "SÃ­r RÃ¼fÄ©n"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698285221288,
+      "content": "SÃ­r a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698285220841,
+      "content": "SÃ­r a nommÃ© le groupe SÃ­r Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

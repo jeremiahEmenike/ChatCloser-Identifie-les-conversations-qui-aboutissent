@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993620159,
+      "content": "Vous voulez Ã§a aujourd'hui?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993481113,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712688387969,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712688383651,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712688383259,
+      "content": "Ama Tamesse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712688380286,
+      "content": "Ama a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712688380285,
+      "content": "Ama a nommÃ© le groupe Ama Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

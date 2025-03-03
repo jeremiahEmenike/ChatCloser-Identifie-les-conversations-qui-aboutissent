@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708156002316,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708155994989,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708149006879,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708149006448,
+      "content": "Yongs le Meuneur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708149003990,
+      "content": "Yongs a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708149003450,
+      "content": "Yongs a nommÃ© le groupe Yongs Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

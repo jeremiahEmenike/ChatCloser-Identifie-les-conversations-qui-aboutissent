@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710187978462,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710146675949,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710146668676,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710146667824,
+      "content": "Ridwane Traore"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710146663825,
+      "content": "Ridwane a nommÃ© le groupe Ridwane Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710146663825,
+      "content": "Ridwane a modifiÃ© la photo du groupe."
+    }
+  ]
+}

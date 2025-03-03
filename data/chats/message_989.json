@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701628086909,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701604118714,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701604118435,
+      "content": "Melinda Adozoukin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701604115579,
+      "content": "Melinda a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701604115013,
+      "content": "Melinda a nommÃ© le groupe Melinda Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

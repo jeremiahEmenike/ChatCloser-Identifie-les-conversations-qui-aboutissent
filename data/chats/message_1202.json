@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698440324355,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698440298663,
+      "content": "White"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698440168711,
+      "content": "You have another color ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698438683259,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698437502571,
+      "content": "It's real picture."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698437458957,
+      "content": "Please send me the real picture"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698437432389,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698437421726,
+      "content": "Last prix bro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698437396329,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698437068899,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698437066669,
+      "content": "Roqeeb vous a proposÃ© 7Â 200Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698437065137,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698437064679,
+      "content": "Roqeeb Oluwashola Idris"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698437062510,
+      "content": "Roqeeb a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698437061838,
+      "content": "Roqeeb a nommÃ© le groupe Roqeeb Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

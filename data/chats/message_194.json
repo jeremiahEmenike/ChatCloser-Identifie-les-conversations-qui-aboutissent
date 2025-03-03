@@ -1,0 +1,215 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716029277668,
+      "content": "Ah d'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716029077782,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716028908564,
+      "content": "Dit vous n'avez que ce model de perruque ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716028885802,
+      "content": "Oui il est passÃ© dÃ©jÃ  \nMerci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716025561131,
+      "content": "Le livreur arrive"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716025042884,
+      "content": "Resserrage"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716023379136,
+      "content": "Le oui c'est pour la bande de resserrage ou pour la livraison ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716021703764,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716021560818,
+      "content": "Je demande si la perruque Ã  une bande de resserrage Ã  l'intÃ©rieur ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716021517791,
+      "content": "Svp que le livreur m'appelle avant de quitter ðð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716021500133,
+      "content": "93269374"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716021378622,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716021366867,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716019848131,
+      "content": "AtikoumÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716014070577,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715971814083,
+      "content": "Svp est ce que la perruque Ã  la bande de resserrage Ã  l'intÃ©rieur ?en faite j'ai une petite tÃªte ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715971763961,
+      "content": "C'est toujours possible que vous me livrer Ã  3000?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715970621862,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715965528633,
+      "content": "Je peux voir?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715962958750,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715962848188,
+      "content": "Bonsoir vs avez encore les perruques ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714253153145,
+      "content": "C'est bon  pour vous"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714253143348,
+      "content": "Bon on va vous faire avec livraison 3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714253127604,
+      "content": "Vous inquiÃ©tez pas"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714253119053,
+      "content": "C'est le prix de la livraison qui m'a cassÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714253096205,
+      "content": "Oui je sais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714248132626,
+      "content": "Ou envoyez votre localisation sur le 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714248099740,
+      "content": "Votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714248094083,
+      "content": "On peut venir vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714248025552,
+      "content": "Oui j'aime bien la perruque lo juste la distance qui m'a fait reculer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714242894142,
+      "content": "J'ai plus eu votre retour par rapport Ã  la perruque"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714240081412,
+      "content": "Bonjour je vais bien et vous"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714239944158,
+      "content": "Bonjour, comment allez vous??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713962794902,
+      "content": "La livraison A attikoumÃ© va vous coÃ»ter 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713962768775,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713961784415,
+      "content": "Vous Ãªtes oÃ¹ ?moi atikoumÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713953489501,
+      "content": "Vous voulez Ã§a quand???"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713953481296,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713950168382,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713950168017,
+      "content": "Bernice Bagnan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713950165849,
+      "content": "Bernice a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713950165456,
+      "content": "Bernice a nommÃ© le groupe Bernice Â· Perruque avec filet de bonne qualitÃ©."
+    }
+  ]
+}

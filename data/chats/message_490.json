@@ -1,0 +1,80 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713000261244,
+      "content": "79903346"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713000210561,
+      "content": "Bien et vous ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993102533,
+      "content": "Bonjour, comme allez vous ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712753215405,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752982940,
+      "content": "D'accord votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752779486,
+      "content": "Oui mais actuellement je ne suis pas disponible et je rentre vers 17h"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752520810,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752514968,
+      "content": "Legbassito carrefour avinato mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752504063,
+      "content": "Vous Ãªtes Ã  quel niveau ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752488706,
+      "content": "Seulement un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752343936,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712751962925,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712751962426,
+      "content": "Felixino De Palou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712751959501,
+      "content": "Felixino a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712751959011,
+      "content": "Felixino a nommÃ© le groupe Felixino Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

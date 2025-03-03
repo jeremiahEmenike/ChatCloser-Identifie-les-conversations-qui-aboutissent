@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707512616095,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707507488568,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707507483722,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707507483215,
+      "content": "Jeff Gatien Sodji"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707507479636,
+      "content": "Jeff a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707507478976,
+      "content": "Jeff a nommÃ© le groupe Jeff Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

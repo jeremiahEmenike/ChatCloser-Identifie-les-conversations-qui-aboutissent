@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798449809,
+      "content": "Bonjour c'est disponible\nNous sommes agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707734190440,
+      "content": "HÄrbÄrt RÄd TÃ¿gÃ£"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707734185408,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707734183645,
+      "content": "HÄrbÄrt a nommÃ© le groupe HÄrbÄrt Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707734183645,
+      "content": "HÄrbÄrt a modifiÃ© la photo du groupe."
+    }
+  ]
+}

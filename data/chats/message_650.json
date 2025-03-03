@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680743860,
+      "content": "Non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680726202,
+      "content": "Tu as Ã§a ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680718241,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680488086,
+      "content": "Il ne reste que celui ci Ã  10500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680474363,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680445078,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680444645,
+      "content": "Issa Garba"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680441686,
+      "content": "Issa a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680441015,
+      "content": "Issa a nommÃ© le groupe Issa Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

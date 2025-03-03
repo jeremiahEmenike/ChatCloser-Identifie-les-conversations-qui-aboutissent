@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197286809,
+      "content": "Livraison par la poste 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197270446,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197232095,
+      "content": "Le matÃ©riel c'est Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197205559,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197122222,
+      "content": "On va utiliser la poste mais tu vas devoir payer d'avance"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197091630,
+      "content": "Hummmm"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713192274128,
+      "content": "On fait comment ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713192266042,
+      "content": "Oui je suis Ã  notsÃ¨"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713182935950,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713167907386,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713167907207,
+      "content": "Donald Woatossi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713167905077,
+      "content": "Donald a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713167904893,
+      "content": "Donald a nommÃ© le groupe Donald Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

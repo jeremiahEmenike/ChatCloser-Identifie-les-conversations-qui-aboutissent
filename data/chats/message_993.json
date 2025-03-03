@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798016942,
+      "content": "C'est 2500 l'unitÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707797997511,
+      "content": "1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707780234187,
+      "content": "C'est 1000 ou bien 10000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707780177320,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707779545193,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707779538625,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707779538351,
+      "content": "Messaan BÃ©nedicte"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707779535601,
+      "content": "Messaan a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707779534919,
+      "content": "Messaan a nommÃ© le groupe Messaan Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

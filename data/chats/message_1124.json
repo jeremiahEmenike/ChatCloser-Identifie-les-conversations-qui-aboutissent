@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720866782149,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863060472,
+      "content": "Vous voulez"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863054674,
+      "content": "Moi je le vendais 7000 mais j'ai trouvÃ© quelqu'un qui le vend Ã  9000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862707115,
+      "content": "Bonjour dÃ©solÃ© c'est fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720861966989,
+      "content": "Le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720859782138,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720856972457,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720856971933,
+      "content": "Prosper Ohougbegnon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720856968508,
+      "content": "Prosper a nommÃ© le groupe Prosper Â· Casque JBL/Sony/Solo pro."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720856968508,
+      "content": "Prosper a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700341677884,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700341649799,
+      "content": "Votre position"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700341420037,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700341417067,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700340880188,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700340879728,
+      "content": "Ambroise Kpedji"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700340876408,
+      "content": "Ambroise a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700340875945,
+      "content": "Ambroise a nommÃ© le groupe Ambroise Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

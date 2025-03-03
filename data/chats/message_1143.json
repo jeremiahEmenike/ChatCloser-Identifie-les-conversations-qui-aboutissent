@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698068777862,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698068777687,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698064411607,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698064408540,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698064408031,
+      "content": "Rafou Yarnaba"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698064406504,
+      "content": "Rafou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698064406056,
+      "content": "Rafou a nommÃ© le groupe Rafou Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

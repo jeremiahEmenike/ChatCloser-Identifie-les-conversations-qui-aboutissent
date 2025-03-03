@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701785384877,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701784405231,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701784398908,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701784398565,
+      "content": "Freddy Ganonta Passalet Jr."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701784395627,
+      "content": "Freddy a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701784395353,
+      "content": "Freddy a nommÃ© le groupe Freddy Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

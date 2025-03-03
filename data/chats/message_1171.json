@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658831561,
+      "content": "Bonjour c'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712614838672,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712614838110,
+      "content": "Richard Tchogno"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712614835034,
+      "content": "Richard a nommÃ© le groupe Richard Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712614835034,
+      "content": "Richard a modifiÃ© la photo du groupe."
+    }
+  ]
+}

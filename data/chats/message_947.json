@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713721049242,
+      "content": "Svp vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713721025844,
+      "content": "Bonsoir, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713721025448,
+      "content": "Marcel Kpohazounde"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713721022105,
+      "content": "Marcel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713721021739,
+      "content": "Marcel a nommÃ© le groupe Marcel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

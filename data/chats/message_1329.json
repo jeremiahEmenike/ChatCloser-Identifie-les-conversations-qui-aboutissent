@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712592091483,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712585484818,
+      "content": "Vous Ãªtes dans quel quartier"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712577280724,
+      "content": "Bonjour\nC'est disponible\nVous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712575075059,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712575074662,
+      "content": "Tsikplonou Kodjo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712575072437,
+      "content": "Tsikplonou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712575072013,
+      "content": "Tsikplonou a nommÃ© le groupe Tsikplonou Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720895824178,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720895819261,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720895803032,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720895796224,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720895573899,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720895567261,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720895566983,
+      "content": "Patrice Wito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720895564163,
+      "content": "Patrice a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720895563617,
+      "content": "Patrice a nommÃ© le groupe Patrice Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

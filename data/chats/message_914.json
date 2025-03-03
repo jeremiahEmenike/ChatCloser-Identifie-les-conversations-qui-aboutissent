@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768497478,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768386926,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768386374,
+      "content": "Lucien Vede"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768383941,
+      "content": "Lucien a nommÃ© le groupe Lucien Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768383941,
+      "content": "Lucien a modifiÃ© la photo du groupe."
+    }
+  ]
+}

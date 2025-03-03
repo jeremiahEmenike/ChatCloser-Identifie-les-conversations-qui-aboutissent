@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701195235935,
+      "content": "Oui c'est disponible. Est-ce quâil vous intÃ©resse toujoursÂ ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701194061977,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701194061684,
+      "content": "Viviane Agbanda"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701194059737,
+      "content": "Viviane a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701194059495,
+      "content": "Viviane a nommÃ© le groupe Viviane Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

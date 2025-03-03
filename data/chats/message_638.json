@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708191333682,
+      "content": "D'accord pas de problÃ¨me"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708191315707,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708190265225,
+      "content": "2500 svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798295988,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707719507999,
+      "content": "Câest Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707718289308,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707714910384,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707714904370,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707714904140,
+      "content": "Imrane Sadou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707714902168,
+      "content": "Imrane a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707714901469,
+      "content": "Imrane a nommÃ© le groupe Imrane Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

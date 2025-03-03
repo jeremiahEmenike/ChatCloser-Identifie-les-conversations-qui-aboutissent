@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720650922594,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720650812522,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720650807167,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720650806915,
+      "content": "Lorimpo Ffulbert"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720650804591,
+      "content": "Lorimpo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720650804264,
+      "content": "Lorimpo a nommÃ© le groupe Lorimpo Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

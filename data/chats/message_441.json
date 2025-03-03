@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658221148,
+      "content": "Vous voulez combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658165000,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712641614225,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712641609407,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712641609123,
+      "content": "Essoham Pierre Awizoba"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712641605513,
+      "content": "Essoham Pierre a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712641605122,
+      "content": "Essoham Pierre a nommÃ© le groupe Essoham Pierre Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

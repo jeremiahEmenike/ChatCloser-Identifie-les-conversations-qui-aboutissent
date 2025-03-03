@@ -1,0 +1,115 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716577180706,
+      "content": "91448912"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716576635288,
+      "content": "What is your phone number??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716576621928,
+      "content": "Hello"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716563872187,
+      "content": "Okay no problem it's fine"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716208905741,
+      "content": "Plus la livraison Ã§a va faire 7000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716207896112,
+      "content": "A bÃ¨ gakpoto"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716153593992,
+      "content": "Vous habitez dans quel quartier??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716152654269,
+      "content": "Sorry I don't understand you"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716123817984,
+      "content": "What neighborhood??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716123560465,
+      "content": "I'm in Togo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716123537417,
+      "content": "Where do you live??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716123505806,
+      "content": "I live in Legbasito Avinato Quarter"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716123318872,
+      "content": "I don't get you pls"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715121260879,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715121202634,
+      "content": "Where are you guys located"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715121035848,
+      "content": "5900"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715120986731,
+      "content": "Price pls"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715117913120,
+      "content": "Yes, it's available"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715070817060,
+      "content": "Is this item still available?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715070816655,
+      "content": "Idoko Äenny"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715070814320,
+      "content": "Idoko a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715070813920,
+      "content": "Idoko a nommÃ© le groupe Idoko Â· Coffret Montre connectÃ©e et Ã©couteur sans fil Bluetooth W26."
+    }
+  ]
+}

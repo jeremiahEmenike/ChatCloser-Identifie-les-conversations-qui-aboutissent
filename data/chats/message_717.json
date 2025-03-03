@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697239415139,
+      "content": "Good"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697236644547,
+      "content": "Tu connectes au tÃ©lÃ©phone et tu contrÃ´le le tÃ©lÃ©phone depuis la montre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234631708,
+      "content": "Dite moi comment fonctionne la montre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697234617102,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697233939517,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697233929558,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697233385800,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697233381595,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697233381320,
+      "content": "Jonhy Mc James"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697233379382,
+      "content": "Jonhy a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697233379113,
+      "content": "Jonhy a nommÃ© le groupe Jonhy Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

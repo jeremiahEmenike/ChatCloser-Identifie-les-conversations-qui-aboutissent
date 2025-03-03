@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701519100276,
+      "content": "Nous sommes Ã  agbalepedo non loin de groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701494803865,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701472721293,
+      "content": "Bonjour c'est disponible, vous voulez combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701470321509,
+      "content": "Landryanho Wilder Van"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701470319106,
+      "content": "Landryanho a nommÃ© le groupe Landryanho Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701470319106,
+      "content": "Landryanho a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701470319106,
+      "content": "Bonsoir, cet article est-il toujours disponible ?"
+    }
+  ]
+}

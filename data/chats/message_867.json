@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713175610340,
+      "content": "Ah super"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713103703494,
+      "content": "NN c'est le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713103633744,
+      "content": "Y'en a pas de prix moins??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713103633628,
+      "content": "Non pas aujourd'hui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090650832,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090647905,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713078693952,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713078693736,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713078691626,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713078689992,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713078689556,
+      "content": "Laura Kuz"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713078687320,
+      "content": "Laura a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713078686967,
+      "content": "Laura a nommÃ© le groupe Laura Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

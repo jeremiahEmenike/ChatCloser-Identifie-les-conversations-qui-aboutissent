@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707852049581,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707852044386,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707845947921,
+      "content": "Le blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707841385342,
+      "content": "Bonjour c'est disponible. \nNous avons le blanc et le noir\nVous voulez laquelle??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707829863268,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707829856720,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707829856517,
+      "content": "Rahimat Soule"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707829853410,
+      "content": "Rahimat a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707829852736,
+      "content": "Rahimat a nommÃ© le groupe Rahimat Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

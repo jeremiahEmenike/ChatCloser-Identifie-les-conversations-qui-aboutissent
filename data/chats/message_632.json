@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701259020651,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701256858919,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701256852381,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701256851915,
+      "content": "Iffok Glasu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701256848674,
+      "content": "Iffok a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701256848262,
+      "content": "Iffok a nommÃ© le groupe Iffok Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

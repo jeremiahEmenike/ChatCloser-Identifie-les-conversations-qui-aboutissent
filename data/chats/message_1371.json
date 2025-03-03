@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699833613980,
+      "content": "Voir des annonces similaires"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699716596600,
+      "content": "??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699716595074,
+      "content": "On dit quoi alors"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699706541314,
+      "content": "D'accord ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699704071987,
+      "content": "Câest Ã  40 mille"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699704025871,
+      "content": "C'est Ã  combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699704009677,
+      "content": "Cet article mâintÃ©resse."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699704007088,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699704006536,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Smart watch android."
+    }
+  ]
+}

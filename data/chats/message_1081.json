@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712950572149,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712948610637,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712948610191,
+      "content": "Omega Kowouvi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712948607956,
+      "content": "Omega a nommÃ© le groupe Omega Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712948607956,
+      "content": "Omega a modifiÃ© la photo du groupe."
+    }
+  ]
+}

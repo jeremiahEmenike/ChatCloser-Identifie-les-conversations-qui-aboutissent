@@ -1,0 +1,95 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297239126,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297233314,
+      "content": "Mais disponible maintenant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297219479,
+      "content": "Les Ã©couteurs Ã©taient en rupture"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297210589,
+      "content": "DÃ©solÃ© pour le silence, le"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297201246,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713535078561,
+      "content": "wa.me/+22893211559"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713530085213,
+      "content": "Ou bien envoyez moi votre localisation pour dÃ©terminer les frais de livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713530066166,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713524136504,
+      "content": "Livraison inclut a attiegou fait combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713508234262,
+      "content": "Non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713345025385,
+      "content": "Livraison inclut?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710933867450,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710932689221,
+      "content": "C'est a combien d'abord ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707512729038,
+      "content": "Bonjour c'est disponible. \nVous vouliez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707498188102,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707498187768,
+      "content": "Timus Adognon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707498185375,
+      "content": "Timus a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707498184641,
+      "content": "Timus a nommÃ© le groupe Timus Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

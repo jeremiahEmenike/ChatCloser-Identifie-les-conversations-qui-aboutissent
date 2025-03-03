@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720905028940,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720905022614,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720904850101,
+      "content": "Ok diminue le prix ont prend deux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720904794133,
+      "content": "L'unitÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720904779900,
+      "content": "Les deux ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720904759378,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720904744354,
+      "content": "Le prix ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720904730819,
+      "content": "2"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720904509932,
+      "content": "Vous voulez combien,??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720904503125,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720904294426,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720904293966,
+      "content": "Mathieu Akinsola"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720904291626,
+      "content": "Mathieu a nommÃ© le groupe Mathieu Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720904291626,
+      "content": "Mathieu a modifiÃ© la photo du groupe."
+    }
+  ]
+}

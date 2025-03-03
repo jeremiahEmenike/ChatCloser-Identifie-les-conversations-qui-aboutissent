@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712950598869,
+      "content": "Combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712950552492,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712948680138,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712948675608,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712948675255,
+      "content": "Utilisateur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712948672550,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712948672549,
+      "content": "Un contact a nommÃ© le groupe Abel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

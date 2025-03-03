@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701382229198,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701382222534,
+      "content": "C'est combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701382199561,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701379931941,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701379926961,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701379926370,
+      "content": "Alida Kpoviessi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701379924545,
+      "content": "Alida a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701379923963,
+      "content": "Alida a nommÃ© le groupe Alida Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

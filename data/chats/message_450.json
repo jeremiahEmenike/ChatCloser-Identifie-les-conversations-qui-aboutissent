@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707665563737,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707662674902,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707662674714,
+      "content": "Etienne Franco Nero"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707662672316,
+      "content": "Etienne a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707662671705,
+      "content": "Etienne a nommÃ© le groupe Etienne Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

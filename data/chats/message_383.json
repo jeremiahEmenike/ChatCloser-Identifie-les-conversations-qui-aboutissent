@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712657093900,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611324859,
+      "content": "Vous Ãªtes"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611314894,
+      "content": "OÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611130396,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611125652,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611100618,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611100237,
+      "content": "Eldad ThÃ©o Tena"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611097184,
+      "content": "Eldad a nommÃ© le groupe Eldad Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611097184,
+      "content": "Eldad a modifiÃ© la photo du groupe."
+    }
+  ]
+}

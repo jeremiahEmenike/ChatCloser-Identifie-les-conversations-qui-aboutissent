@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720642859881,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720642622777,
+      "content": "2000F"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720629887287,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720617209402,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720617209097,
+      "content": "Jamaal Jamal"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720617205476,
+      "content": "Jamaal a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720617204955,
+      "content": "Jamaal a nommÃ© le groupe Jamaal Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700320994848,
+      "content": "Hello"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700224537158,
+      "content": "Il y a que le blanc et le noir ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700199289644,
+      "content": "Bonjour câest le gris je veux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699785618616,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699785617573,
+      "content": "Blanc et noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699783041305,
+      "content": "Les couleurs dispo svp ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699782993061,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699782988483,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699782988167,
+      "content": "Kekeli Belvita"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699782986088,
+      "content": "Kekeli a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699782985598,
+      "content": "Kekeli a nommÃ© le groupe Kekeli Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

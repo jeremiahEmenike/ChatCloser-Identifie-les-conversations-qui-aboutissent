@@ -1,0 +1,65 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710421668282,
+      "content": "70677607"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798467694,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798462397,
+      "content": "Cool"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707733472228,
+      "content": "Rose blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707733465701,
+      "content": "2"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707718338820,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707696848380,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707679079376,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707670112467,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707670112155,
+      "content": "Thibaut Courtois"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707670109439,
+      "content": "Thibaut a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707670108741,
+      "content": "Thibaut a nommÃ© le groupe Thibaut Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

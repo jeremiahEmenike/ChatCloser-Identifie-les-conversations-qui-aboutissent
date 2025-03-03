@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709469792953,
+      "content": "Vous Ãªtes Ã  quel niveau??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709469766893,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709467968678,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709464575722,
+      "content": "Geoffrey Akato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709464575656,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709464569541,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709464567838,
+      "content": "Geoffrey a nommÃ© le groupe Geoffrey Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709464567838,
+      "content": "Geoffrey a modifiÃ© la photo du groupe."
+    }
+  ]
+}

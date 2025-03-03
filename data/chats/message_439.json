@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712992807880,
+      "content": "Bonjour, comment allez-vous?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768801967,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768793842,
+      "content": "D'accord vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768756959,
+      "content": "D'accord \nDemain matin Ã  08heures vous voudrez bien me livrer une paire?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712758793200,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712758790005,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712758661571,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712758661093,
+      "content": "Esso Esso"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712758657848,
+      "content": "Esso a nommÃ© le groupe Esso Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712758657848,
+      "content": "Esso a modifiÃ© la photo du groupe."
+    }
+  ]
+}

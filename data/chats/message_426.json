@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798536389,
+      "content": "Bonjour c'est disponible\nNous sommes agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707727678785,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707727678399,
+      "content": "Eric Doutor"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707727676257,
+      "content": "Eric a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707727675639,
+      "content": "Eric a nommÃ© le groupe Eric Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

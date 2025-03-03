@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720513814445,
+      "content": "90 03 10 44"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720510542951,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone pour la localisation svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720510485222,
+      "content": "Ã zongo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720509985279,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720509878704,
+      "content": "5 pour voir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720509584860,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720509579893,
+      "content": "D'accord vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720471833432,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720470328995,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720469931092,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720469926924,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720469926488,
+      "content": "Djaoura Saya"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720469924143,
+      "content": "Djaoura a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720469923826,
+      "content": "Djaoura a nommÃ© le groupe Djaoura Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

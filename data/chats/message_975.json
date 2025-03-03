@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703242420402,
+      "content": "C'est celui-ci qui est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703242404968,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703232448298,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703232447954,
+      "content": "Mawaba Christian Astria"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703232444867,
+      "content": "Mawaba a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703232444181,
+      "content": "Mawaba a nommÃ© le groupe Mawaba Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

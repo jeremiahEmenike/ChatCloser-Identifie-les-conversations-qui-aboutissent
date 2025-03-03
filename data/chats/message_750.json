@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705147325556,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705081822485,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705081817617,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705081816999,
+      "content": "Junior Damso Freez DjasrabÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705081815182,
+      "content": "Junior Damso Freez a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705081814427,
+      "content": "Junior Damso Freez a nommÃ© le groupe Junior Damso Freez Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

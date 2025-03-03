@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696682079425,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696682006414,
+      "content": "Vous voulez qu'on vous livre ou vous allez passer prendre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696669783738,
+      "content": "D'accord vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696667545688,
+      "content": "Une"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696664581546,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696631185968,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696631182346,
+      "content": "Inousse vous a proposÃ© 8Â 000Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696631181227,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696631181047,
+      "content": "Inousse Ouattara Cristiano"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696631179186,
+      "content": "Inousse a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696631178787,
+      "content": "Inousse a nommÃ© le groupe Inousse Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

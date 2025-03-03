@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713093208053,
+      "content": "Vous voulez Ã§a aujourd'hui?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713093201280,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713093188653,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713093188224,
+      "content": "Nina Akparspa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713093185631,
+      "content": "Nina a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713093185222,
+      "content": "Nina a nommÃ© le groupe Nina Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

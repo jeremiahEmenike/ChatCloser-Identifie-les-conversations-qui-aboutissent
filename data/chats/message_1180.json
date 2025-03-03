@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713211258928,
+      "content": "Ok d'accord mw grand on verra"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183280129,
+      "content": "C'est 2500 le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713135005834,
+      "content": "Bsr mw patron ok j'ai vui le prix j'ai deux mille"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713134926941,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713134926654,
+      "content": "Roberto Agba"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713134923470,
+      "content": "Roberto a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713134922994,
+      "content": "Roberto a nommÃ© le groupe Roberto Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

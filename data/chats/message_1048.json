@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702230893713,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702229974039,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702229967937,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702229967536,
+      "content": "Ndissedji Ndadjikiran Jr."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702229965464,
+      "content": "Ndissedji a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702229964870,
+      "content": "Ndissedji a nommÃ© le groupe Ndissedji Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

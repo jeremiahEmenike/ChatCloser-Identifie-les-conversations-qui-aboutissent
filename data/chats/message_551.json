@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680492242,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680484675,
+      "content": "C'est 2500 non ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680475859,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680460802,
+      "content": "Vous faites livraison ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680408257,
+      "content": "Avant de venir faite moi signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680395627,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680375315,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680369294,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701333441561,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701333007223,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701333001076,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701333000761,
+      "content": "GÃ©raude Adom"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701332998304,
+      "content": "GÃ©raude a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701332997894,
+      "content": "GÃ©raude a nommÃ© le groupe GÃ©raude Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721433296002,
+      "content": "Nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721422188401,
+      "content": "Et comment je vais faire pour achetÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721422178348,
+      "content": "com bien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721384953895,
+      "content": "Yes available"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721371161995,
+      "content": "Is this still available? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721371161532,
+      "content": "Qwin Somade"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721371159114,
+      "content": "Qwin a nommÃ© le groupe Qwin Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721371159114,
+      "content": "Qwin a modifiÃ© la photo du groupe."
+    }
+  ]
+}

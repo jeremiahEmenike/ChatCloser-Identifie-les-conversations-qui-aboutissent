@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699969595626,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699945801043,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699943527042,
+      "content": "Quel est le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699915462779,
+      "content": "Bonjour oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699913533375,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699913533075,
+      "content": "Abra Aziaka"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699913530688,
+      "content": "Abra a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699913530298,
+      "content": "Abra a nommÃ© le groupe Abra Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

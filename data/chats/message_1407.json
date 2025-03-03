@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437676844,
+      "content": "Cool"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437512413,
+      "content": "Agbalepedo non loin de groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437485234,
+      "content": "Vous etes situÃ© oÃ¹?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707436469819,
+      "content": "Bonjour, oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707430200388,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707430200209,
+      "content": "Wilfried Daza"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707430198451,
+      "content": "Wilfried a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707430198104,
+      "content": "Wilfried a nommÃ© le groupe Wilfried Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

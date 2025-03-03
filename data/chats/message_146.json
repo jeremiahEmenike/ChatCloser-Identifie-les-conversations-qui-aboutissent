@@ -1,0 +1,110 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697487845920,
+      "content": "On se dit Ã  vendredi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697487839271,
+      "content": "D'accord pas de soucis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484912871,
+      "content": "Le vendredi soir, actuellement je suis pas Ã  LomÃ©, je rentre le vendredi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484878957,
+      "content": "Envoyer votre localisation sur ce numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484859691,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484853209,
+      "content": "Ce soir si vous Ãªtes disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484838812,
+      "content": "Et se serai quand ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484831127,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484788943,
+      "content": "Produit+ livraison Ã§a fait 9000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484771995,
+      "content": "Agbalepedo non loin de groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484751711,
+      "content": "Vous vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484744218,
+      "content": "Ãtre livrÃ© c'est mieux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484617270,
+      "content": "Ok vous voulez Ãªtre livrÃ© ou vous allez venir rÃ©cupÃ©rer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484575353,
+      "content": "AgoÃ© assiyÃ©yÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484542286,
+      "content": "D'accord vous habitez oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697484511182,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697476249949,
+      "content": "Bonjour, c'est disponible vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697469208908,
+      "content": "Audrey AT"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697469206801,
+      "content": "Audrey a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697469206801,
+      "content": "Audrey a nommÃ© le groupe Audrey Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697469206801,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

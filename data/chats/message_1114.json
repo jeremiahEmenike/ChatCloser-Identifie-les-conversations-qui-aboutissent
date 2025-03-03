@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798218172,
+      "content": "OK, nous sommes Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707769370092,
+      "content": "Je veux acheter"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707679089231,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707670926043,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707670925609,
+      "content": "Pierre Christ Agbanto"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707670923379,
+      "content": "Pierre Christ a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707670922853,
+      "content": "Pierre Christ a nommÃ© le groupe Pierre Christ Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

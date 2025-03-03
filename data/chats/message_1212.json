@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701876864978,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701875247215,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701875246606,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869321336,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868481705,
+      "content": "Vous Ãªtes situÃ©s ou ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868283553,
+      "content": "Bonjour, oui c'est disponible.\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868212910,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868212592,
+      "content": "Sa Savi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868210548,
+      "content": "Sa a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868210263,
+      "content": "Sa a nommÃ© le groupe Sa Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

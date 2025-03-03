@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712920412598,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712920400963,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712920395842,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712919079283,
+      "content": "Svp je ne veux qu'un seul c'est possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712761534101,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712760784704,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712760784258,
+      "content": "Beni De Dieu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712760782146,
+      "content": "Beni a nommÃ© le groupe Beni Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712760782146,
+      "content": "Beni a modifiÃ© la photo du groupe."
+    }
+  ]
+}

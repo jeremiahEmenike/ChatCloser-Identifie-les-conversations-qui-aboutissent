@@ -1,0 +1,70 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710364194676,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710364190506,
+      "content": "C'est 8900"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710364186551,
+      "content": "DÃ©solÃ© je me suis trompÃ© de prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710364174091,
+      "content": "Laisser moi votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710364166832,
+      "content": "Okay Ã§a mâintÃ©resse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710363323770,
+      "content": "4900"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710362989212,
+      "content": "Le prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710313308151,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710299497719,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710299490413,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710299490205,
+      "content": "CrÃ©Ã¤tÃªÃ¼r Armeldos DÃ¼ TÃ«mps"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710299487415,
+      "content": "CrÃ©Ã¤tÃªÃ¼r a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710299486552,
+      "content": "CrÃ©Ã¤tÃªÃ¼r a nommÃ© le groupe CrÃ©Ã¤tÃªÃ¼r Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    }
+  ]
+}

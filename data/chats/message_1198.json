@@ -1,0 +1,70 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562941352,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562928928,
+      "content": "Ã NanÃ©gbÃ© vers le CEG NANÃGBÃ"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562928309,
+      "content": "Envoyez votre localisation sur le 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562889003,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562875784,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562863709,
+      "content": "MÃªme aujourd'hui si possible. Le prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562751597,
+      "content": "D'accord vous voulez Ã§a pour quand?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562727664,
+      "content": "Un seul fera la faire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562668602,
+      "content": "Bonjour c'est disponible vous voulez combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712535534998,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712535534523,
+      "content": "RomÃ©o Ohin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712535531562,
+      "content": "RomÃ©o a nommÃ© le groupe RomÃ©o Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712535531562,
+      "content": "RomÃ©o a modifiÃ© la photo du groupe."
+    }
+  ]
+}

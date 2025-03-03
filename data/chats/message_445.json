@@ -1,0 +1,75 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712660088205,
+      "content": "Je vous ai Ã©crit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712659578682,
+      "content": "90848295"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658468847,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712619729873,
+      "content": "fil o parc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712619720652,
+      "content": "agoe fi o parc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712603432022,
+      "content": "Vous avez remplacÃ© le thÃ¨me par BFF ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712603372298,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712601928244,
+      "content": "un seul"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712601648976,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712601643423,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712601473834,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712601473397,
+      "content": "Essozimna Kagnaya"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712601470232,
+      "content": "Essozimna a nommÃ© le groupe Essozimna Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712601470232,
+      "content": "Essozimna a modifiÃ© la photo du groupe."
+    }
+  ]
+}

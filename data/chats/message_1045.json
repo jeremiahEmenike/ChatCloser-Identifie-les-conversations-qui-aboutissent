@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697225810700,
+      "content": "Vous voulez qu'on vous livre ou vous allez passer chercher"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697225810473,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697207341619,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697200900275,
+      "content": "Bonjour c'est disponible, vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697195029528,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697195025074,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697195024898,
+      "content": "Nas Siraphe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697195022691,
+      "content": "Nas a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697195022294,
+      "content": "Nas a nommÃ© le groupe Nas Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

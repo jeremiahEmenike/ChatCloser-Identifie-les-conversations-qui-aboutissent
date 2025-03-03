@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707890272826,
+      "content": "Je vous ai Ã©crit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707890261029,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707867717117,
+      "content": "Vous nâavez pas rÃ©pondu Ã Â : 90 79 12 15"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707860751773,
+      "content": "90 79 12 15"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707532561231,
+      "content": "Annonces similaires Ã  Â«Â Bracelet lumineuxÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707402957388,
+      "content": "Bonjour je voudrais 1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707402956531,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Bracelet lumineux."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707402956531,
+      "content": "Vous avez changÃ© la photo du groupe."
+    }
+  ]
+}

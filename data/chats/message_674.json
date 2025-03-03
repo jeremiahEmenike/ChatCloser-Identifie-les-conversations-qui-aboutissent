@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707679065677,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707671013983,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707671008545,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707671008003,
+      "content": "Jean Eudes Ahovon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707671005704,
+      "content": "Jean a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707671004883,
+      "content": "Jean a nommÃ© le groupe Jean Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

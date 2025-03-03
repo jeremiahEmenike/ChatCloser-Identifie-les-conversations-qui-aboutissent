@@ -1,0 +1,90 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711528337833,
+      "content": "Je vous enverrai la localisation voici mon numÃ©ro 96503465"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711528284376,
+      "content": "J'aimerais recevoir la livraison aujourd'hui Ã  Agoe assiyÃ©yÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711528257368,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710892781150,
+      "content": "500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710885612790,
+      "content": "Et si c'est agoe assiyÃ©yÃ© ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710752657070,
+      "content": "1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710752652329,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710751281066,
+      "content": "Avedji derriÃ¨re le lycÃ©e Jourdain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710694161042,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710694156940,
+      "content": "A vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710694153324,
+      "content": "Oui ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710691299723,
+      "content": "Vous livrez ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710672014263,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710572358543,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710572358324,
+      "content": "Erdi Aymeric Snwg"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710572355346,
+      "content": "Erdi Aymeric a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710572354473,
+      "content": "Erdi Aymeric a nommÃ© le groupe Erdi Aymeric Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

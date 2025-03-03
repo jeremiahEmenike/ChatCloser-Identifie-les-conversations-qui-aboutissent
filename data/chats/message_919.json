@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713186519268,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713186457592,
+      "content": "DÃ©solÃ© c'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185578852,
+      "content": "Je veux Ã§a aujourd'hui si possible vous pouvez me faire Ã§a a 2000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185482907,
+      "content": "Wi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183193806,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713132685389,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713132685210,
+      "content": "Lucky KLs Ketekou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713132682875,
+      "content": "Lucky a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713132682490,
+      "content": "Lucky a nommÃ© le groupe Lucky Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

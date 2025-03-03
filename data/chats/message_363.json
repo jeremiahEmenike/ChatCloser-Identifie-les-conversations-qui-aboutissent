@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696871126983,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696871119892,
+      "content": "Le dernier prix c'est 8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696871101123,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696871076252,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696871065717,
+      "content": "Aah ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696858726695,
+      "content": "C'est la montre+l'Ã©couteur et les bracelets qui sont Ã  8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696858723241,
+      "content": "8000 dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696858528217,
+      "content": "5 k je prend deux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696858514133,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696858391098,
+      "content": "On peut connecter Ã   iPhone ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696858346683,
+      "content": "C'est 8000 le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696858312886,
+      "content": "Lass c est combien l unitÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696858148323,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696856436591,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696856433165,
+      "content": "Eau a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696856433165,
+      "content": "Eau a nommÃ© le groupe Eau Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696856433165,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    }
+  ]
+}

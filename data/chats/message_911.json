@@ -1,0 +1,105 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701714170102,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713456202,
+      "content": "Bonne soirÃ©e"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713438947,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713438216,
+      "content": "OK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713424214,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713412909,
+      "content": "Je peut avoir votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713410831,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713371811,
+      "content": "Le vendredi prochain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713213560,
+      "content": "Vous allez passer??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713160168,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713110035,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713105025,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713028355,
+      "content": "C'est Ã  2500f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701713009873,
+      "content": "Je peut vous trouve oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701712985324,
+      "content": "OK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701621784635,
+      "content": "Bonjour c'est disponible, vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701606713677,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701606713104,
+      "content": "Luc Etsi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701606710698,
+      "content": "Luc a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701606710162,
+      "content": "Luc a nommÃ© le groupe Luc Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

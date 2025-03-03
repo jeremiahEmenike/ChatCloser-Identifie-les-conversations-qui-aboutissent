@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707454639300,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707438694668,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707436495042,
+      "content": "Bonjour, oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707431295399,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707431295025,
+      "content": "Kodjo Firmin Apelete"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707431292744,
+      "content": "Kodjo Firmin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707431292215,
+      "content": "Kodjo Firmin a nommÃ© le groupe Kodjo Firmin Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

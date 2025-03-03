@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247649999,
+      "content": "Bonjour, oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701238575232,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701238574724,
+      "content": "Aimer BanlÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701238571324,
+      "content": "Aimer a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701238570771,
+      "content": "Aimer a nommÃ© le groupe Aimer Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

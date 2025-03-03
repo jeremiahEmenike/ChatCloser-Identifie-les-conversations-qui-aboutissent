@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716051498694,
+      "content": "6000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716046604169,
+      "content": "C'est Ã  combien svp?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714571131038,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714571118495,
+      "content": "Ouim"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714571104846,
+      "content": "Ãa marche avec tous les tÃ©lÃ©phones ? J'utilise spark 20"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714570909846,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714570898818,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714570874302,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714570874116,
+      "content": "LaurÃ©nÃ¯Ã£ Parische"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714570871404,
+      "content": "LaurÃ©nÃ¯Ã£ a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714570871007,
+      "content": "LaurÃ©nÃ¯Ã£ a nommÃ© le groupe LaurÃ©nÃ¯Ã£ Â· Coffret Montre connectÃ©e et Ã©couteur sans fil Bluetooth W26."
+    }
+  ]
+}

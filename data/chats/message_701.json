@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712744862176,
+      "content": "Bonjour\nC'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712743531754,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712743531472,
+      "content": "JÃ¶Ã«l GÃ¶ldÃ«n"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712743528330,
+      "content": "JÃ¶Ã«l a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712743527859,
+      "content": "JÃ¶Ã«l a nommÃ© le groupe JÃ¶Ã«l Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

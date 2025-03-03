@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697120620822,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697032681118,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697030079590,
+      "content": "Tes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696858176080,
+      "content": "Tu vas passer prendre ou qu'on te livre ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696857362690,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696796315976,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696774230556,
+      "content": "Tof"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696711393369,
+      "content": "DÃ©solÃ© le dernier prix est Ã  8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696705621891,
+      "content": "Last"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701310703,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701069297,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695904525,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695267672,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695267423,
+      "content": "Roger Katare"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695265453,
+      "content": "Roger a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695265027,
+      "content": "Roger a nommÃ© le groupe Roger Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

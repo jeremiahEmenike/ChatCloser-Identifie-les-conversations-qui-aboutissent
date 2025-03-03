@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701730695964,
+      "content": "Un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444682480,
+      "content": "Bonjour c'est disponible, vous voulez combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444671625,
+      "content": "Bonjour c'est disponible, vous voulez combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701443137062,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701443136799,
+      "content": "Steven Dalmeida"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701443134350,
+      "content": "Steven a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701443133735,
+      "content": "Steven a nommÃ© le groupe Steven Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

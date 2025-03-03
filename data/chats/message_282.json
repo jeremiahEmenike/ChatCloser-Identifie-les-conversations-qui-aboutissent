@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721296245409,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295873805,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295866849,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295866365,
+      "content": "Da'essimevi Komididia"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295862454,
+      "content": "Da'essimevi a nommÃ© le groupe Da'essimevi Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721295862454,
+      "content": "Da'essimevi a modifiÃ© la photo du groupe."
+    }
+  ]
+}

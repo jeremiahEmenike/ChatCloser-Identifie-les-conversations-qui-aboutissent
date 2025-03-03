@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697729364073,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697723631207,
+      "content": "Bonsoir vous Ãªtes oÃ¹? LomÃ© ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697723616743,
+      "content": "Dame GotÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697723616717,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697723614712,
+      "content": "Dame a nommÃ© le groupe Dame Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697723614712,
+      "content": "Dame a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697723614712,
+      "content": "Cet article est-il toujours disponible ?"
+    }
+  ]
+}

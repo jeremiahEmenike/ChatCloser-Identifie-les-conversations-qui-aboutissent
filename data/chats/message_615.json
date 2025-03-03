@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712825972463,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693684455,
+      "content": "1000 au plus"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693662641,
+      "content": "Ok d'accord le prix du livraison est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712688135029,
+      "content": "Mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712688121710,
+      "content": "Nous sommes Ã  legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712688103639,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712664096858,
+      "content": "C'est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712664092114,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658817137,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658763338,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712616729266,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712616724355,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712616723903,
+      "content": "Hoto Boris"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712616721214,
+      "content": "Hoto a nommÃ© le groupe Hoto Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712616721214,
+      "content": "Hoto a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696698904240,
+      "content": "Vous voulez qu'on vous livre ou vous allez passer chercher ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696698620421,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696696114857,
+      "content": "AvÃ©pozo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695957874,
+      "content": "Vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695947179,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695939599,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695929388,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695917377,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695118937,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695114346,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695113749,
+      "content": "Ãric Awokou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695111754,
+      "content": "Ãric a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696695111134,
+      "content": "Ãric a nommÃ© le groupe Ãric Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

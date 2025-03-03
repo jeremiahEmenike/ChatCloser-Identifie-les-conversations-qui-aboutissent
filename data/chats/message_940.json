@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209888062,
+      "content": "On parle"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209884603,
+      "content": "Non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209806550,
+      "content": "C'Ã©tait juste pour garder votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209793299,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209616280,
+      "content": "On se parle sur Facebook d'abord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209560073,
+      "content": "Votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209553605,
+      "content": "Pas de soucie"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209534865,
+      "content": "Est tu facher"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209522713,
+      "content": "J'Ã©conomise donc contacte moi dans 2 semaine"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209434555,
+      "content": "C'est 2500 dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209349328,
+      "content": "Diminu un peu 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209228544,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209189769,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209189233,
+      "content": "Mansonic Man"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209187194,
+      "content": "Mansonic a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701209186635,
+      "content": "Mansonic a nommÃ© le groupe Mansonic Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

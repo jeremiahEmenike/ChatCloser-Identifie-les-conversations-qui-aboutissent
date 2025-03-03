@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197185117,
+      "content": "Bonjour c'est disponible\nvous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197182421,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713189884899,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713189879947,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713189879459,
+      "content": "Andre Ameganou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713189876132,
+      "content": "Andre a nommÃ© le groupe Andre Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special) EN GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713189876132,
+      "content": "Andre a modifiÃ© la photo du groupe."
+    }
+  ]
+}

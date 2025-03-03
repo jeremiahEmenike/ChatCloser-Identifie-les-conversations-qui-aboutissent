@@ -1,0 +1,100 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708001881009,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707995190010,
+      "content": "Le prix du produit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707979172503,
+      "content": "Vous allez devoir payer la livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707979156092,
+      "content": "Mon numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707979152365,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707955127040,
+      "content": "On se retrouve Ã  assigamÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707890309499,
+      "content": "C'est oÃ¹ Ã§a??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707866026760,
+      "content": "Champs de tire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707865784141,
+      "content": "Vous habitez oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707865777496,
+      "content": "On va vous livrer alors"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707865748521,
+      "content": "Je connais pas l'endroit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707865694794,
+      "content": "OK, nous sommes Ã  legbassito. Vous pouvez passer prendre ou on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707865648419,
+      "content": "Oui biensÃ»r"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707865614348,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707853981005,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707853974955,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707853974525,
+      "content": "Abdou Hinsa Barham"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707853971869,
+      "content": "Abdou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707853971071,
+      "content": "Abdou a nommÃ© le groupe Ahb Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

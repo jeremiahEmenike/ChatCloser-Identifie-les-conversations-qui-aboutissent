@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711552289254,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711542642846,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711542642416,
+      "content": "Gregory Mokly"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711542640004,
+      "content": "Gregory a nommÃ© le groupe Gregory Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1711542640004,
+      "content": "Gregory a modifiÃ© la photo du groupe."
+    }
+  ]
+}

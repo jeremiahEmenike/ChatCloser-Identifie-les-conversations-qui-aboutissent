@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713454370352,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713454369947,
+      "content": "Kokouvi Sodjinou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713454365601,
+      "content": "Kokouvi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713454364949,
+      "content": "Kokouvi a nommÃ© le groupe Kokouvi Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

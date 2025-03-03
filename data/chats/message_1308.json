@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720688536261,
+      "content": "C'est le dernier prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720685658089,
+      "content": "On diminue non ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720684327110,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720682582770,
+      "content": "Oui c est a combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720672555216,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720660807678,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720660800367,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720660800052,
+      "content": "Thierno Idoh Diallo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720660797163,
+      "content": "Thierno a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720660796576,
+      "content": "Thierno a nommÃ© le groupe Thierno Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

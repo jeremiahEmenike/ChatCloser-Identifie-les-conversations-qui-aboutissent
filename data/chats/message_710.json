@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697575690606,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697575653841,
+      "content": "Tu reÃ§ois juste les messages"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697575623297,
+      "content": "Et sa fait WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697575269160,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697575257228,
+      "content": "12000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697575255086,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697575230205,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697573647722,
+      "content": "C'est a combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697567528073,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697566173545,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697566172784,
+      "content": "John Johny"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697566170001,
+      "content": "John a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697566169572,
+      "content": "John a nommÃ© le groupe John Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

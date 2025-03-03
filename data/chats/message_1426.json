@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713292860374,
+      "content": "C'est combien l'Ã©couteur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713292828700,
+      "content": "Je suis intÃ©ressÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713281910407,
+      "content": "Non vente en ligne"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713276660757,
+      "content": "C'est une boutique"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713270920053,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713264059159,
+      "content": "Ok pas loin de moi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713256789363,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713253406885,
+      "content": "Vous Ãªtes ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713250668991,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713231129467,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713231129136,
+      "content": "Yawo Gale"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713231125664,
+      "content": "Yawo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713231125255,
+      "content": "Yawo a nommÃ© le groupe Yawo Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

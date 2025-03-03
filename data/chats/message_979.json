@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330764629,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701324749227,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701324744882,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701324744367,
+      "content": "Max Lawson"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701324742233,
+      "content": "Max a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701324741791,
+      "content": "Max a nommÃ© le groupe Max Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

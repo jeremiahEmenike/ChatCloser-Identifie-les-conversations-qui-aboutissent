@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707841386361,
+      "content": "Bonjour c'est disponible. \nNous avons le blanc et le noir\nVous voulez laquelle??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707833032485,
+      "content": "Position"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707824353302,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707822674094,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707822674051,
+      "content": "Alex Pitassa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707822666410,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707822664947,
+      "content": "Alex a nommÃ© le groupe Alex Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707822664947,
+      "content": "Alex a modifiÃ© la photo du groupe."
+    }
+  ]
+}

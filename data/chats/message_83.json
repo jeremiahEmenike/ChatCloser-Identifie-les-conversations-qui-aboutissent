@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721385279447,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721262643061,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721262642682,
+      "content": "Alphonsio Komlan Akassou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721262639980,
+      "content": "Alphonsio Komlan a nommÃ© le groupe Alphonsio Komlan Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721262639980,
+      "content": "Alphonsio Komlan a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721077517440,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721074734547,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721074734258,
+      "content": "Jeanette Badanaro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721074732444,
+      "content": "Jeanette a nommÃ© le groupe Jeanette Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721074732444,
+      "content": "Jeanette a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712515596419,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712515590120,
+      "content": "96957669"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712515334101,
+      "content": "Ou envoyez moi votre numÃ©ro je vais vous Ã©crire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712515315890,
+      "content": "Envoyer votre localisation sur le 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712515300571,
+      "content": "Ok la livraison va vous coÃ»ter 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712515277680,
+      "content": "Ã Adamavo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712515272281,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712515257390,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712515230548,
+      "content": "Y en aurait il d'autres modÃ¨les ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712515194659,
+      "content": "J'en veux deux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513652813,
+      "content": "Bonjour, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712478830784,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712478825084,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712478824674,
+      "content": "PÃ©niÃ©la Toulassi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712478821709,
+      "content": "PÃ©niÃ©la a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712478821323,
+      "content": "PÃ©niÃ©la a nommÃ© le groupe PÃ©niÃ©la Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699703182336,
+      "content": "Votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699703077727,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699637768567,
+      "content": "Cc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699610818101,
+      "content": "Okay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699610748125,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699610076860,
+      "content": "Envoi ton numero de WhatsApp stp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699609511656,
+      "content": "Prendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le coin Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres avant conteneur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699609426150,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699609303569,
+      "content": "T'est ou?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699609297753,
+      "content": "Okay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699607327843,
+      "content": "Iphone et Android"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699607286509,
+      "content": "C'est pour iPhone seulement?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699601598401,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699601344132,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699600773770,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699557873178,
+      "content": "Utilisateur Facebook a envoyÃ© une piÃ¨ce jointe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699557873157,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699557870191,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699557870191,
+      "content": "Un contact a nommÃ© le groupe Fernando Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699557870191,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721225967237,
+      "content": "Mais on peut vous livrez"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721225960370,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721225844392,
+      "content": "Tu es ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721225787206,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721225292180,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721224964132,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721224954329,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721224946019,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721224945443,
+      "content": "Rachade Fofana Daria"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721224942117,
+      "content": "Rachade a nommÃ© le groupe Rachade Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721224942117,
+      "content": "Rachade a modifiÃ© la photo du groupe."
+    }
+  ]
+}

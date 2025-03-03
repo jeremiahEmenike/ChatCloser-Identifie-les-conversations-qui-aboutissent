@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721245153394,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243821673,
+      "content": "J ai 2500 sa passe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243774089,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243744211,
+      "content": "Lass Prix c est combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243742047,
+      "content": "Nous sommes Ã  Legbassito mais nous livrons aussi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243711631,
+      "content": "Oui."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243631157,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243518726,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243513213,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243512830,
+      "content": "MÃµnkÃ¹cha Auqun Chien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243511048,
+      "content": "MÃµnkÃ¹cha a nommÃ© le groupe MÃµnkÃ¹cha Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243511048,
+      "content": "MÃµnkÃ¹cha a modifiÃ© la photo du groupe."
+    }
+  ]
+}

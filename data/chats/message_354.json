@@ -1,0 +1,70 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699867159992,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699865785055,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699865400551,
+      "content": "Ton numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699865033329,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699861942943,
+      "content": "Tu as plusieurs piÃ¨ces?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699797568502,
+      "content": "Combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699797555274,
+      "content": "Vous voulez combie"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699797549030,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699797542190,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699791309923,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699791309657,
+      "content": "Donald Jadis Ax"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699791307106,
+      "content": "Donald Jadis a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699791306582,
+      "content": "Donald Jadis a nommÃ© le groupe Donald Jadis Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

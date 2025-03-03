@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721386074873,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721385531922,
+      "content": "Oui câest combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721028800343,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721028116244,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721028108778,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721028108495,
+      "content": "Maxime Adjanor"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721028105485,
+      "content": "Maxime a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721028105044,
+      "content": "Maxime a nommÃ© le groupe Maxime Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

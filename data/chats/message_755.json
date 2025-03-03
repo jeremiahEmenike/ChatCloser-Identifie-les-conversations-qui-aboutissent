@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707550164200,
+      "content": "Vous pensez venir quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707524064281,
+      "content": "Dâaccord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701296425035,
+      "content": "Nous sommes Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701296127911,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294297969,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294295475,
+      "content": "Vous avez acceptÃ© lâoffre de Junior"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701291505107,
+      "content": "Junior vous a proposÃ© 2Â 250Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701291490347,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701291484010,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701291483567,
+      "content": "Junior Vanlare"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701291481258,
+      "content": "Junior a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701291480847,
+      "content": "Junior a nommÃ© le groupe Junior Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696687178090,
+      "content": "Quand svp ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696687173933,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696684848523,
+      "content": "Je vais passer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696682038939,
+      "content": "Vous voulez qu'on vous livre ou vous allez passer prendre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696680721056,
+      "content": "Une"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696664611390,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696624486088,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696624480448,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696624480121,
+      "content": "Amad SoumaÃ¯la"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696624477731,
+      "content": "Amad a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696624477334,
+      "content": "Amad a nommÃ© le groupe Amad Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

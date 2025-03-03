@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993772320,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993759838,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993313646,
+      "content": "Je s'est Ã©crit sur WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993158947,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720992904865,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720992904599,
+      "content": "De GrÃ¢ce Yves Landjinhoue"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720992902356,
+      "content": "De GrÃ¢ce Yves a nommÃ© le groupe De GrÃ¢ce Yves Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720992902356,
+      "content": "De GrÃ¢ce Yves a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713394773850,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713394773616,
+      "content": "Amouzou Ben le Leader"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713394770846,
+      "content": "Amouzou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713394770198,
+      "content": "Amouzou a nommÃ© le groupe Amouzou Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

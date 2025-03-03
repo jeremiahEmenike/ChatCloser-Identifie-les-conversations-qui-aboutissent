@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702838777176,
+      "content": "DÃ©solÃ©, il nâest pas disponible."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701815324886,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701815319226,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701815319078,
+      "content": "Augustina Ferez"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701815316766,
+      "content": "Augustina a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701815316347,
+      "content": "Augustina a nommÃ© le groupe Augustina Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

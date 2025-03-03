@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701809133832,
+      "content": "Cmb??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701809131523,
+      "content": "Je veux deux \nLe noir et le blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701808314212,
+      "content": "Georges Ahanogbe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701808310272,
+      "content": "Georges a nommÃ© le groupe Georges Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701808310272,
+      "content": "Georges a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701808310272,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    }
+  ]
+}

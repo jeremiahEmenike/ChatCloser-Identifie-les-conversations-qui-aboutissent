@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330732492,
+      "content": "Bonjour oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701329659332,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701329659012,
+      "content": "Eli Za"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701329655945,
+      "content": "Eli a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701329655469,
+      "content": "Eli a nommÃ© le groupe Eli Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701073022486,
+      "content": "Oui c'est disponible. Est-ce quâil vous intÃ©resse toujoursÂ ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701072971648,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701072966160,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701072965850,
+      "content": "Marvine Amela"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701072963336,
+      "content": "Marvine a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701072963036,
+      "content": "Marvine a nommÃ© le groupe Marvine Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

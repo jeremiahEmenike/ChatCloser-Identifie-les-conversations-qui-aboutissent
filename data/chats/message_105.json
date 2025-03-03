@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701519001853,
+      "content": "D'accord nous sommes Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701518989187,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701518969644,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701503901339,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701503896646,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701503896181,
+      "content": "Anasi Nazareinne"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701503894482,
+      "content": "Anasi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701503893940,
+      "content": "Anasi a nommÃ© le groupe Anasi Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

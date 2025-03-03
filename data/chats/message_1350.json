@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712818647181,
+      "content": "Annonces similaires Ã  Â«Â Godasses de footÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712689045164,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712689042632,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712689042234,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Godasses de foot."
+    }
+  ]
+}

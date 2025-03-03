@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243075306,
+      "content": "Bonsoir c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721240709164,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721240708920,
+      "content": "Tantiana Coueur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721240707501,
+      "content": "Tantiana a nommÃ© le groupe Tantiana Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721240707501,
+      "content": "Tantiana a modifiÃ© la photo du groupe."
+    }
+  ]
+}

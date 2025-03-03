@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714070680764,
+      "content": "Combien last"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713542511934,
+      "content": "HÃ¸ly ÃmpÃ«rÃ¸r vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713542505428,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713542504890,
+      "content": "HÃ¸ly ÃmpÃ«rÃ¸r"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713542502068,
+      "content": "HÃ¸ly a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713542501597,
+      "content": "HÃ¸ly a nommÃ© le groupe HÃ¸ly Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

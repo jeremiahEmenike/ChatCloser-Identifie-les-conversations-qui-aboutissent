@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720787994828,
+      "content": "Bonjour ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738801641,
+      "content": "Je vais vous envoyer ma localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738787679,
+      "content": "Votre numÃ©ro WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738722958,
+      "content": "Je viens moi mÃªme"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738693741,
+      "content": "La livraison est Ã  1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738688417,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738659446,
+      "content": "Nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738609730,
+      "content": "Avedji vers la mosquÃ©e ð d azia"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738570469,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738555132,
+      "content": "Abike Abike Agbagni vous a envoyÃ© un message au sujet de votre annonceÂ : Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738552557,
+      "content": "Je peux avoir le noir demain 11 h"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738547851,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738544822,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738539763,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738539424,
+      "content": "Abike Abike Agbagni"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738536570,
+      "content": "Abike Abike a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738535959,
+      "content": "Abike Abike a nommÃ© le groupe Abike Abike Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

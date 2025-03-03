@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700943967161,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700941887623,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700941887596,
+      "content": "Salami Mohamed"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700941884135,
+      "content": "Salami a nommÃ© le groupe Salami Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700941884135,
+      "content": "Salami a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700941884135,
+      "content": "Bonsoir, cet article est-il toujours disponible ?"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701706327487,
+      "content": "Votre numÃ©ro je vais vous Ã©crire alors"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701705862201,
+      "content": "Je ne retrouve pas le numÃ©ro sur whatsap"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701705745078,
+      "content": "Je vais vous Ã©crire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701705589309,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701698473672,
+      "content": "Je suis rentrÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689791090,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701688880343,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701688870761,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701688102987,
+      "content": "Oubien câest disponible avec vous ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701688088486,
+      "content": "Ok dâaccord si vous rentrez faites moi signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685098779,
+      "content": "Mais actuellement je suis au campus, je vais revenir vers 17h"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685078188,
+      "content": "Je suis Ã  agbalepedo non loin de groupe C."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685039143,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685023160,
+      "content": "Combien svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685016295,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701684977588,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701684409161,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701684400968,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701684400464,
+      "content": "Simeone Berly"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701684396644,
+      "content": "Simeone a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701684396070,
+      "content": "Simeone a nommÃ© le groupe Simeone Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

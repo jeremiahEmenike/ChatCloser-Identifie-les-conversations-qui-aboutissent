@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713307755768,
+      "content": "Oui demain matin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713276261873,
+      "content": "Bonjour c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713276256210,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713269202639,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713269196039,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713269195646,
+      "content": "Borisfamous Akpani"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713269192402,
+      "content": "Borisfamous a nommÃ© le groupe Borisfamous Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713269192402,
+      "content": "Borisfamous a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712657093530,
+      "content": "Bonjour c'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712656154267,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712656154058,
+      "content": "Darius Aff"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712656151120,
+      "content": "Darius a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712656150756,
+      "content": "Darius a nommÃ© le groupe Darius Â· Ãcouteurs sans fil Pro 6 New. VENTE EN GROS ET EN DETAIL."
+    }
+  ]
+}

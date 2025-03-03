@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720965198212,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720965190218,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720965189323,
+      "content": "C est combien d abord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720965177020,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720965097327,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720964484605,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720964478043,
+      "content": "Merci de nous avoir contactÃ© dites nous en qoi nous pouvons vous aider"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720964477626,
+      "content": "Jean Alodjisso"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720964474756,
+      "content": "Jean a nommÃ© le groupe Jean Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720964474756,
+      "content": "Jean a modifiÃ© la photo du groupe."
+    }
+  ]
+}

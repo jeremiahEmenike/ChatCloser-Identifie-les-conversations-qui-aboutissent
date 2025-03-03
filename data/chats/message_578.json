@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709983992673,
+      "content": "Nous sommes Ã  legbassito non loin du carrefour avinato mais nous livrons aussi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709983977840,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709942804847,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709942797178,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709942796932,
+      "content": "Guillaume Saint"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709942793889,
+      "content": "Guillaume a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709942792896,
+      "content": "Guillaume a nommÃ© le groupe Guillaume Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    }
+  ]
+}

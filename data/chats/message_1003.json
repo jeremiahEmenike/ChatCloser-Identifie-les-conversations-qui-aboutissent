@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701364239282,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701364068736,
+      "content": "NN c'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701363966450,
+      "content": "puis-je l'avoir pour 2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701363787401,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701363678455,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701363678022,
+      "content": "Michael Ogbonnaya"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701363676012,
+      "content": "Michael a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701363675533,
+      "content": "Michael a nommÃ© le groupe Michael Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

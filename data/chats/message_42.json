@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712765222577,
+      "content": "OK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762229264,
+      "content": "C'est 2500 le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762175959,
+      "content": "2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712730505049,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712730496025,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712706558657,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712706558276,
+      "content": "Ahoefa Attiogbe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712706554178,
+      "content": "Ahoefa a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712706553581,
+      "content": "Ahoefa a nommÃ© le groupe Ahoefa Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

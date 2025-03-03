@@ -1,0 +1,120 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699874431795,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699874134292,
+      "content": "D'accord je vais vous revenir..."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699873324424,
+      "content": "Envoyez moi votre localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699873308944,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699873298195,
+      "content": "Oui. Je vais vous envoyer par okabo dÃ©livery"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699873265217,
+      "content": "Vous ne faites pas livraison ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699873249534,
+      "content": "Je ne peux pas venir jusque lÃ "
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699873228104,
+      "content": "Non loin de l'Ã©cole"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699873187088,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699872635826,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699872541246,
+      "content": "Vous allez venir chercher ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699872347703,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699872327602,
+      "content": "45000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699872155949,
+      "content": "Combien six piÃ¨ces ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699872147198,
+      "content": "BÃ© chÃ¢teau"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699872136371,
+      "content": "Vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699872131314,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699872112821,
+      "content": "Je veux six piÃ¨ces"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699872074494,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699871299444,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699871299055,
+      "content": "Kevine Kelv's"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699871296467,
+      "content": "Kevine a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699871295983,
+      "content": "Kevine a nommÃ© le groupe Kevine Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

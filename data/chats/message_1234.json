@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701452852277,
+      "content": "Je suis tjrs bloquÃ© au service"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701452842560,
+      "content": "Oui je vais passer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701452592714,
+      "content": "Nous sommes Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701452515479,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444537646,
+      "content": "Bonjour c'est disponible, vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701434001668,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701434001460,
+      "content": "Schadrak-Arthur Adodo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701433999155,
+      "content": "Schadrak-Arthur a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701433998572,
+      "content": "Schadrak-Arthur a nommÃ© le groupe Schadrak-Arthur Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

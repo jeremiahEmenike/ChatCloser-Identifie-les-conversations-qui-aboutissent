@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701431743053,
+      "content": "Non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701431025733,
+      "content": "Couleur bleu disponible ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701428449708,
+      "content": "Bonjour, c'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701423546782,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701423546346,
+      "content": "Utilisateur Facebook a envoyÃ© une piÃ¨ce jointe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701423543971,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701423543439,
+      "content": "Un contact a nommÃ© le groupe Koko Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

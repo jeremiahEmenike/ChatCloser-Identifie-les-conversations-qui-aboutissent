@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701692648945,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701692224787,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701691477464,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701691471850,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701691471535,
+      "content": "Sika Homawoo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701691469059,
+      "content": "Sika a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701691468501,
+      "content": "Sika a nommÃ© le groupe Sika Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

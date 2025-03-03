@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713520683542,
+      "content": "Salut"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713353478718,
+      "content": "Augustin Abolo vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713353470168,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713353469776,
+      "content": "Augustin Abolo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713353467394,
+      "content": "Augustin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713353466981,
+      "content": "Augustin a nommÃ© le groupe Augustin Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

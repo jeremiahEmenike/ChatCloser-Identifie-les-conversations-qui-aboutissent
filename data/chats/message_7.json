@@ -1,0 +1,85 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708297149982,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708296932788,
+      "content": "Bsr mn frere"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707975341255,
+      "content": "99034338"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707951799437,
+      "content": "Envoyez-moi votre numÃ©ro je vais vous envoyer la localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707951770081,
+      "content": "Bonjour je suis Ã  legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707930006267,
+      "content": "Pardon indiquer moi bien chez vous"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707920029077,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707918588176,
+      "content": "Le noir et pardon votre numero"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707841386227,
+      "content": "Bonjour c'est disponible. \nNous avons le blanc et le noir\nVous voulez laquelle??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707828761882,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798332506,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707721594059,
+      "content": "Abdou Namorou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707721594051,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707721586744,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707721585054,
+      "content": "Abdou a nommÃ© le groupe Abdou Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707721585054,
+      "content": "Abdou a modifiÃ© la photo du groupe."
+    }
+  ]
+}

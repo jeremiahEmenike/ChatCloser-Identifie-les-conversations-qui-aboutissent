@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213168619,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713210955508,
+      "content": "C'est combien avec livraison ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713206651502,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713205796499,
+      "content": "et 2000f? avec livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197064121,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713193599400,
+      "content": "c'est cokmbien\"????"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713186531440,
+      "content": "Nous sommes Ã  legbassito mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713186516324,
+      "content": "C'est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713186507394,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713186497692,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185400603,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185395700,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185395344,
+      "content": "TrÃ©sor IsraÃ«l"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185392238,
+      "content": "TrÃ©sor a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185392237,
+      "content": "TrÃ©sor a nommÃ© le groupe TrÃ©sor Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

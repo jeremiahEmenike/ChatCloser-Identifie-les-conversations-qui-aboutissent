@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713391407277,
+      "content": "Oui pourrais vous trouverez ?? votre boutique"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712944033202,
+      "content": "Bonjour\nC'est disponible Ã  2500 vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712938504862,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712938504327,
+      "content": "Eric Abalo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712938501923,
+      "content": "Eric a nommÃ© le groupe Eric Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712938501923,
+      "content": "Eric a modifiÃ© la photo du groupe."
+    }
+  ]
+}

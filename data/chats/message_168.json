@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116524972,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721115946382,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721115938330,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721115938042,
+      "content": "Badrou Din Kabore"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721115934912,
+      "content": "Badrou Din a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721115934583,
+      "content": "Badrou Din a nommÃ© le groupe Badrou Din Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

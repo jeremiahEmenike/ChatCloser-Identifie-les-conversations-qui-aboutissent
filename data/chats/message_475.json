@@ -1,0 +1,100 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709545563469,
+      "content": "Yooo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709545422904,
+      "content": "Je vous ai envoyÃ© un message"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709540568586,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708629178546,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708628565894,
+      "content": "90285082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708628559715,
+      "content": "Mais demain soir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708628553912,
+      "content": "Je ne peux pas te livrer ce soir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708628454704,
+      "content": "92035580"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708628178142,
+      "content": "Si oui je suis Ã  tokoin protestant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708628164552,
+      "content": "Ok vous pouvez faire la livraison ce soir ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708627772642,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708626752777,
+      "content": "2000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708626717646,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708626706888,
+      "content": "C'est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708626664824,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708625412254,
+      "content": "Fallon Placca"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708625406968,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708625405268,
+      "content": "Fallon a nommÃ© le groupe Fallon Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708625405268,
+      "content": "Fallon a modifiÃ© la photo du groupe."
+    }
+  ]
+}

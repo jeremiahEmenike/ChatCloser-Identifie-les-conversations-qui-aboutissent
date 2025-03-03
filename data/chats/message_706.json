@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699918453821,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699916820721,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699916815181,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699916814909,
+      "content": "Joghead Crepin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699916811894,
+      "content": "Joghead a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699916811447,
+      "content": "Joghead a nommÃ© le groupe Joghead Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701071818428,
+      "content": "Oui c'est disponible. Est-ce quâil vous intÃ©resse toujoursÂ ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701045667890,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701045662585,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701045662371,
+      "content": "David Amoussou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701045659828,
+      "content": "David a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701045659415,
+      "content": "David a nommÃ© le groupe David Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

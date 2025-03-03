@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693660378451,
+      "content": "Haaa ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693660267319,
+      "content": "Pour le moment c'est en rupture"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693659058856,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693659058303,
+      "content": "Didier Kanyere"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693659056884,
+      "content": "Didier a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693659056553,
+      "content": "Didier a nommÃ© le groupe Didier Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

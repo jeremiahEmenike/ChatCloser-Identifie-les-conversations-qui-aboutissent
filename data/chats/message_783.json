@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710106936371,
+      "content": "OK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710106829579,
+      "content": "Ãa va vous coÃ»ter 1000 f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710106811590,
+      "content": "D'accord on peut vous livrer lÃ  bas"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710106792850,
+      "content": "A adidogome\nCitÃ© mokpokpo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710106767417,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710106748057,
+      "content": "Comment faire pour l'avoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710106736557,
+      "content": "OK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710101928411,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710101771314,
+      "content": "C'est tout qui a 8900fcfa non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710101683078,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710095413073,
+      "content": "Bonsoir, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710095412792,
+      "content": "Utilisateur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710095409709,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710095408828,
+      "content": "Un contact a nommÃ© le groupe Kevin Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    }
+  ]
+}

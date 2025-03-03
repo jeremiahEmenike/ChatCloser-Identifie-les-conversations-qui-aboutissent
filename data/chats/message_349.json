@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713250957442,
+      "content": "Legbassito Casablanca, livraison 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713250920803,
+      "content": "Vous finissez Ã  quelle heure?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713215381161,
+      "content": "Je suis Ã  Casablanca je travaille lÃ , donc demain je serai lÃ "
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713215265970,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713215260851,
+      "content": "Mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713215243819,
+      "content": "Nous sommes Ã  legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713215163904,
+      "content": "Comment je peux trouver"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713215076572,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713214987281,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713214986951,
+      "content": "Dodji Azia"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713214985143,
+      "content": "Dodji a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713214984793,
+      "content": "Dodji a nommÃ© le groupe Dodji Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

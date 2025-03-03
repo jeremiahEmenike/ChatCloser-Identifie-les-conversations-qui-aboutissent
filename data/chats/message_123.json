@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704664157182,
+      "content": "Vous pouvez simplement recevoir les messages dessus"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704663768638,
+      "content": "Sa fai whatp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704663717786,
+      "content": "Ok bro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704662922503,
+      "content": "C'est ceci qui est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704662899152,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704662893289,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704662834154,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704662833714,
+      "content": "Appo Ali"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704662831409,
+      "content": "Appo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704662830701,
+      "content": "Appo a nommÃ© le groupe Appo Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

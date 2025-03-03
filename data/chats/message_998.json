@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713599272702,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713599272176,
+      "content": "Messan Kodjo Anole"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713599269903,
+      "content": "Messan a nommÃ© le groupe Messan Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713599269903,
+      "content": "Messan a modifiÃ© la photo du groupe."
+    }
+  ]
+}

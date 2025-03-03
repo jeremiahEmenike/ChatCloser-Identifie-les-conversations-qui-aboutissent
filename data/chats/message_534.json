@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697787209532,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697780282693,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697780278878,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697780278579,
+      "content": "Gabah Hendrik"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697780276388,
+      "content": "Gabah a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697780276020,
+      "content": "Gabah a nommÃ© le groupe Gabah Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

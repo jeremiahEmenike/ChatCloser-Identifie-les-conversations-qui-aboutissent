@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693584917939,
+      "content": "ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693582625918,
+      "content": "DÃ©solÃ© c'est pas disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693566215262,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693566210107,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693566209736,
+      "content": "Serge Djiwa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693566208504,
+      "content": "Serge a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693566208117,
+      "content": "Serge a nommÃ© le groupe Serge Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

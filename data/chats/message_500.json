@@ -1,0 +1,100 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712585649716,
+      "content": "92461124"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712583819275,
+      "content": "Vous pouvez passez ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712583810853,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712582140864,
+      "content": "Livraison 1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712582140733,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712581457588,
+      "content": "Votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712581453432,
+      "content": "Ey vous??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712581449793,
+      "content": "Je suis a adidogomÃ© avenu, pharmacie BÃ©thel"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712577385623,
+      "content": "Votre numÃ©ro svp?'"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712577376299,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712577370565,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712565239043,
+      "content": "1 seulement"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513994830,
+      "content": "Bonjour, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513992066,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712497393172,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712497388844,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712497388340,
+      "content": "Badi Ninho Firmin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712497386014,
+      "content": "Firmin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712497385640,
+      "content": "Firmin a nommÃ© le groupe Firmin Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704457251672,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704436081703,
+      "content": "Il ne reste que celui ci Ã  9500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704436068320,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704436060756,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704426336563,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704426328891,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704426328574,
+      "content": "Nicky Kpane"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704426325700,
+      "content": "Nicky a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704426324790,
+      "content": "Nicky a nommÃ© le groupe Nicky Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

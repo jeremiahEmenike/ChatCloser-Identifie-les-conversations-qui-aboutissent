@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714034095677,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713953462468,
+      "content": "C'est en rupture"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713952616249,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713952610669,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713952610415,
+      "content": "Wbillahi Taofick Al Hassan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713952607152,
+      "content": "Wbillahi Taofick a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713952606388,
+      "content": "Wbillahi Taofick a nommÃ© le groupe Wbillahi Taofick Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

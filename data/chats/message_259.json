@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714105852125,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714105851731,
+      "content": "Christian Degbe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714105849584,
+      "content": "Christian a nommÃ© le groupe Christian Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714105849584,
+      "content": "Christian a modifiÃ© la photo du groupe."
+    }
+  ]
+}

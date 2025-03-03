@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721051735622,
+      "content": ".3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721050837113,
+      "content": "Combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721050789134,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721050555760,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721050555156,
+      "content": "LÃ« TÄkÃµvÃ¯Ã§ PÃ¤pÃ¿"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721050551264,
+      "content": "PÃ¤pÃ¿ a nommÃ© le groupe PÃ¤pÃ¿ Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721050551264,
+      "content": "PÃ¤pÃ¿ a modifiÃ© la photo du groupe."
+    }
+  ]
+}

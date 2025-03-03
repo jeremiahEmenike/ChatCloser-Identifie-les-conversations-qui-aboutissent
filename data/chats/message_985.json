@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713102603168,
+      "content": "Vous voulez Ã§a aujourd'hui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713102597817,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713102004167,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713102000288,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713101999884,
+      "content": "Mec Bien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713101997261,
+      "content": "Mec a nommÃ© le groupe Mec Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713101997261,
+      "content": "Mec a modifiÃ© la photo du groupe."
+    }
+  ]
+}

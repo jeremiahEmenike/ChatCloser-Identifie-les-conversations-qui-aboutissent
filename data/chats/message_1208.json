@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712915402379,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712914953994,
+      "content": "A 13h 10"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712914947939,
+      "content": "N'oubliez pas de me livrer today hein"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874549086,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712851892375,
+      "content": "Mon numÃ©ro 99347487"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712851877532,
+      "content": "Suis a sarakawa entrÃ© livraison combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712851861728,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712851861315,
+      "content": "Ruby Many"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712851857853,
+      "content": "Ruby a nommÃ© le groupe Ruby Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712851857853,
+      "content": "Ruby a modifiÃ© la photo du groupe."
+    }
+  ]
+}

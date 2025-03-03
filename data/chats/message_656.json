@@ -1,0 +1,100 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713338158714,
+      "content": "NUMERO"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713120103872,
+      "content": "merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713120090292,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713120064918,
+      "content": "je vais vous ecrit apres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118783118,
+      "content": "Oui c'est nouveau"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118654200,
+      "content": "c'est nouveau"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118630503,
+      "content": "ok dans la semaine"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118563652,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118556625,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118530728,
+      "content": "VOUS etes ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118477790,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713117623751,
+      "content": "2500F"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713117613775,
+      "content": "oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712880421732,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712880161938,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712880157662,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712880157419,
+      "content": "Jacques Bossou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712880154341,
+      "content": "Jacques a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712880153870,
+      "content": "Jacques a nommÃ© le groupe Jacques Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

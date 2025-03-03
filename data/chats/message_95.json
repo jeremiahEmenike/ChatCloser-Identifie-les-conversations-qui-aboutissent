@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720649823017,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720649080690,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720648652891,
+      "content": "D'accord la livraison va vous coÃ»ter 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720648582100,
+      "content": "Adewui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720648540205,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720648393312,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720648378738,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720648362415,
+      "content": "Wi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720634525672,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720630041587,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720630033971,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720630033367,
+      "content": "AmÃ¨ Dagan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720630031084,
+      "content": "AmÃ¨ a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720630030649,
+      "content": "AmÃ¨ a nommÃ© le groupe AmÃ¨ Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

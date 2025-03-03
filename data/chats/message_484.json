@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712903758297,
+      "content": "D'accord, votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712900502161,
+      "content": "Couleur noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712900498379,
+      "content": "1 seul"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874317835,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712864838194,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712864837763,
+      "content": "Fawas A Yesufu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712864835282,
+      "content": "Fawas a nommÃ© le groupe Fawas Â· Ãcouteurs sans fil Pro 6 New. VENTE EN GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712864835282,
+      "content": "Fawas a modifiÃ© la photo du groupe."
+    }
+  ]
+}

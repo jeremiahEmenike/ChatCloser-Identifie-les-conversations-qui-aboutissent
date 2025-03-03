@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693515813,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693515445,
+      "content": "Bonjour c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693155462,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693151732,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693151262,
+      "content": "Larlenga Nabiga"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693149025,
+      "content": "Larlenga a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693148712,
+      "content": "Larlenga a nommÃ© le groupe Larlenga Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

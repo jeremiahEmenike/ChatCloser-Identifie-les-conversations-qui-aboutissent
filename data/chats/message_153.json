@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721261284458,
+      "content": "Mais nous livrons aussi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721261279384,
+      "content": "Nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721261272287,
+      "content": "C'est Ã  3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721255864439,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721255557041,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721255394124,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721255385238,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721255384786,
+      "content": "Ayao Mawuli Koffide"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721255382125,
+      "content": "Ayao Mawuli a nommÃ© le groupe Ayao Mawuli Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721255382125,
+      "content": "Ayao Mawuli a modifiÃ© la photo du groupe."
+    }
+  ]
+}

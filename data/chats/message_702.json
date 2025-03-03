@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714038729283,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714025307552,
+      "content": "OK envoyez deux s'il vous plaÃ®t"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713702490598,
+      "content": "Juste 1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712843405475,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712843398188,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712819072491,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712819069969,
+      "content": "Bonjour, cet article est-il disponible ?   \n\nJe suis partant je vais payer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712819046677,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712819039012,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712819038627,
+      "content": "Joelino Boss"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712819036293,
+      "content": "Joelino a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712819035995,
+      "content": "Joelino a nommÃ© le groupe Joelino Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

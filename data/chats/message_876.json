@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514260708,
+      "content": "Nous sommes Ã  legbassito quartier avinato, mais on peut aussi vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514247991,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514226123,
+      "content": "Je veux un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513943346,
+      "content": "Bonjour, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513935976,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712509393760,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712509388922,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712509388386,
+      "content": "LÃ¤ndrÃ¿ LeBÃ¸ss"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712509384945,
+      "content": "LeBÃ¸ss a nommÃ© le groupe LeBÃ¸ss Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712509384945,
+      "content": "LeBÃ¸ss a modifiÃ© la photo du groupe."
+    }
+  ]
+}

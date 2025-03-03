@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294900839,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701283828902,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701283823932,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701283823399,
+      "content": "Rachidatou Tchabana"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701283821475,
+      "content": "Rachidatou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701283821126,
+      "content": "Rachidatou a nommÃ© le groupe Rachidatou Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

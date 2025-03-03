@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707824368454,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707820396110,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819360751,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819338943,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707817670848,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816681447,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816681168,
+      "content": "BrÃ¸wÃ± ÃÃ¥w"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816678530,
+      "content": "BrÃ¸wÃ± a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816677891,
+      "content": "BrÃ¸wÃ± a nommÃ© le groupe BrÃ¸wÃ± Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

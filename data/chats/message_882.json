@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708002045650,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707985254149,
+      "content": "Le prix rÃ©el svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707979185485,
+      "content": "Bonjour, c'est disponible. Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707953924422,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707953924174,
+      "content": "Adelin LÃ©lÃ©n"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707953921317,
+      "content": "LÃ©lÃ©n a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707953920584,
+      "content": "LÃ©lÃ©n a nommÃ© le groupe LÃ©lÃ©n Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

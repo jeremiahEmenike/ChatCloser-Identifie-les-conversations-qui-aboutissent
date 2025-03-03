@@ -1,0 +1,70 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714039701743,
+      "content": "+228 96367531"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714039688429,
+      "content": "Je suis Ã  DjagblÃ© mais je viens au campus demain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714038761569,
+      "content": "Donnez votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714038748330,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713997200056,
+      "content": "Je le prends on fait comment"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713992670879,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713990000857,
+      "content": "C'est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713977434250,
+      "content": "Il ne reste que celui lÃ "
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713977420324,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713973225132,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713973224669,
+      "content": "Selom Julien Badohoun"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713973221780,
+      "content": "Selom Julien a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713973221779,
+      "content": "Selom Julien a nommÃ© le groupe Selom Julien Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702680534678,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702550383840,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702550377111,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702550376837,
+      "content": "GS Faculty"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702550373713,
+      "content": "GS a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702550372719,
+      "content": "GS a nommÃ© le groupe GS Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

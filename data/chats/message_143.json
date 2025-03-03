@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700050556446,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700050341867,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700050335914,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700050335524,
+      "content": "AtiyÃ©tou Zakari"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700050332891,
+      "content": "AtiyÃ©tou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700050332546,
+      "content": "AtiyÃ©tou a nommÃ© le groupe AtiyÃ©tou Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

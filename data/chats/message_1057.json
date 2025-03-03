@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694033279973,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694024658210,
+      "content": "Bonjour pour le moment c'est fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694021402216,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694021401916,
+      "content": "Nicolas Alade"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694021399716,
+      "content": "Nicolas a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694021399226,
+      "content": "Nicolas a nommÃ© le groupe Nicolas Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

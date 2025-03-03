@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437427397,
+      "content": "Bonjour, oui c'est disponible, vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437397692,
+      "content": "Abass Kinda"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437397689,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437389272,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437387569,
+      "content": "Abass a nommÃ© le groupe Abass Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437387569,
+      "content": "Abass a modifiÃ© la photo du groupe."
+    }
+  ]
+}

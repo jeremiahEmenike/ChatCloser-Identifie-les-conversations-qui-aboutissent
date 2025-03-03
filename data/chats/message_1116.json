@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707519787864,
+      "content": "On peut venir vous livrer Ã  vos frais ou vous pouvez venir Ã  agbalepedo groupe C ou Ã  legbassito rÃ©cupÃ©rer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707515955411,
+      "content": "Je suis a adamavo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707515939789,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707512722024,
+      "content": "D'accord demain Ã§a vous va??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707499515951,
+      "content": "Combien je veux 1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707469733634,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707465285818,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707465285482,
+      "content": "Pierre Smith"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707465283644,
+      "content": "Pierre a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707465283233,
+      "content": "Pierre a nommÃ© le groupe Pierre Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720722043680,
+      "content": "Mais si vous voulez on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720721631342,
+      "content": "D'accord nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720717715448,
+      "content": "noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720717351435,
+      "content": "1 svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720717281167,
+      "content": "D'accord vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720711598141,
+      "content": "oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720711530620,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720711482370,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720711473191,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720711472653,
+      "content": "Utilisateur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720711469593,
+      "content": "Un contact a nommÃ© le groupe Badl Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720711469593,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    }
+  ]
+}

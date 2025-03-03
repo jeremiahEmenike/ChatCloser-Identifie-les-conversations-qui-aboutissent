@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680374148,
+      "content": "Bonjour c'est disponible, vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701674172426,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701674171946,
+      "content": "LÃ©once Leonx"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701674169435,
+      "content": "Leonx a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701674168907,
+      "content": "Leonx a nommÃ© le groupe Leonx Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

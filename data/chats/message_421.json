@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713390201031,
+      "content": "Epiphane Dogbe vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713390196466,
+      "content": "Bonsoir, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713390196042,
+      "content": "Epiphane Dogbe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713390193969,
+      "content": "Epiphane a nommÃ© le groupe Epiphane Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713390193969,
+      "content": "Epiphane a modifiÃ© la photo du groupe."
+    }
+  ]
+}

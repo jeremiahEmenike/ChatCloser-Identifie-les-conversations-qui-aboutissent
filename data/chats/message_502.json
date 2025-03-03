@@ -1,0 +1,20 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699204036675,
+      "content": "Ok d'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699097736272,
+      "content": "Bonjour, j'ai Ulrich aussi comme prÃ©nom"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699052889779,
+      "content": "Bonsoir ton vrai nom c'est Ulrich ?"
+    }
+  ]
+}

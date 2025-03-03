@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701496083284,
+      "content": "Sourade"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701465174160,
+      "content": "AgoÃ© oÃ¹?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463667017,
+      "content": "Moi je suis Ã  Agoe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463341433,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463328753,
+      "content": "Oui vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463276060,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463120031,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463113336,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463112887,
+      "content": "Fadel Ouro Bang'na"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463110098,
+      "content": "Fadel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463109588,
+      "content": "Fadel a nommÃ© le groupe Fadel Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

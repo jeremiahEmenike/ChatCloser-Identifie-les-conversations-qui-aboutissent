@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713304983654,
+      "content": "Le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713302433474,
+      "content": "Bonjour c'est disponible, vous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713291737087,
+      "content": "Bonsoir, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713291736597,
+      "content": "Edem MÃ©nyawossan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713291734344,
+      "content": "Edem a nommÃ© le groupe Edem Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713291734344,
+      "content": "Edem a modifiÃ© la photo du groupe."
+    }
+  ]
+}

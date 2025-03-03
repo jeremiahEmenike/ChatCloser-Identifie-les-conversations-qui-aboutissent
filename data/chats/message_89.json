@@ -1,0 +1,90 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701264146388,
+      "content": "A plus"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701264121964,
+      "content": "Merci a plus"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701264111934,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701264096793,
+      "content": "92272319"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701264067605,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701264063053,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701264051986,
+      "content": "Je suis pas disponible pour le moment mais vers la soirÃ©e oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701264005699,
+      "content": "Dâaccord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701263992552,
+      "content": "Oui agbalepedo groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701263971876,
+      "content": "Vous Ãªtes Ã  LomÃ© nâest ce pas ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701263956979,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701263851391,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701263046217,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701263046181,
+      "content": "Amandine Onka"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701263043128,
+      "content": "Amandine a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701263043128,
+      "content": "Amandine a nommÃ© le groupe Amandine Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701263043128,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    }
+  ]
+}

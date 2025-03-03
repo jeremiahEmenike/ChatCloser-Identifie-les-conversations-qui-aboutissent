@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709983974077,
+      "content": "Nous sommes Ã  legbassito mais nous livrons aussi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709983971481,
+      "content": "Bonjour le produit que vous demandez est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709940060786,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709940059969,
+      "content": "Mathieu Gaglozou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709940056713,
+      "content": "Mathieu a nommÃ© le groupe Mathieu Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709940056713,
+      "content": "Mathieu a modifiÃ© la photo du groupe."
+    }
+  ]
+}

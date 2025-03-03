@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697911765720,
+      "content": "Je suis avec eux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697911657698,
+      "content": "Le livreur est lÃ "
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697910439143,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697910412239,
+      "content": "Dans 15 a 20min"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697910411782,
+      "content": "D'accord on est en route comme Ã§a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697906161337,
+      "content": "Si oui je suis au bureau Ã  Nyekonakpoe....vous pouvez me livrer ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697906133999,
+      "content": "C'est un smart watch?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697787197195,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697750394138,
+      "content": "Elom Grosso"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697750391051,
+      "content": "Elom a nommÃ© le groupe Elom Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697750391051,
+      "content": "Elom a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697750391051,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

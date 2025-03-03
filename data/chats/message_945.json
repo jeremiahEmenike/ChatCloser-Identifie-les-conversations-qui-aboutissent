@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721225220002,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721225205400,
+      "content": "Livraison 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721225065361,
+      "content": "Baguida"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721224977544,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721224655640,
+      "content": "Cmt on va faire pour prendre Ã§a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721224540536,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721221964717,
+      "content": "Tu est oÃ¹ pardon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721129206123,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721123856291,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721123855941,
+      "content": "Marc Ahadji"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721123853674,
+      "content": "Marc a nommÃ© le groupe Marc Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721123853674,
+      "content": "Marc a modifiÃ© la photo du groupe."
+    }
+  ]
+}

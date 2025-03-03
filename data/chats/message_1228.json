@@ -1,0 +1,65 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701345564101,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701345286151,
+      "content": "Ok votre contact....."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701345172913,
+      "content": "Mais actuellement je suis au campus, je reviens Ã  17h"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701345169852,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701345157467,
+      "content": "Combien....."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701345104776,
+      "content": "Prendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le corner Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701345057148,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701345052637,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701344397822,
+      "content": "Is this still available? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701344397395,
+      "content": "Samuel Mask"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701344394727,
+      "content": "Samuel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701344394338,
+      "content": "Samuel a nommÃ© le groupe Samuel Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

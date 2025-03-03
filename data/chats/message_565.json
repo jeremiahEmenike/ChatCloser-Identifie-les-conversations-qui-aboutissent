@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701897235728,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794773777,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701792488649,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701792488329,
+      "content": "Gnineganbernardcom Gninegan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701792485241,
+      "content": "Gnineganbernardcom a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701792484749,
+      "content": "Gnineganbernardcom a nommÃ© le groupe Gnineganbernardcom Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

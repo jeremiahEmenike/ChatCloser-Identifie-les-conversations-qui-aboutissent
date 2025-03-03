@@ -1,0 +1,65 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701473185586,
+      "content": "97565311"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701472960565,
+      "content": "Je vais vous rappeler le mardi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701472940138,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701472861963,
+      "content": "Mardi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701472673940,
+      "content": "Vous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701472641251,
+      "content": "D'accord nous sommes Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701470591990,
+      "content": "Une"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444558056,
+      "content": "Bonjour c'est disponible, vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438047542,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438047062,
+      "content": "Sandrisca Sandrine"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438045003,
+      "content": "Sandrisca a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438044249,
+      "content": "Sandrisca a nommÃ© le groupe Sandrisca Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697122587637,
+      "content": "Bonjour c'est disponible Ã  8000, vous en voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697112074033,
+      "content": "Mouti vous a proposÃ© 7Â 200Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697112073067,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697112069595,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697112069115,
+      "content": "Mouti Mouti"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697112067576,
+      "content": "Mouti a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697112067135,
+      "content": "Mouti a nommÃ© le groupe Mouti Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

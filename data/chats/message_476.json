@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701974653241,
+      "content": "Bonsoir c'est en rupture pour le moment"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701882384561,
+      "content": "Bonsoir, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701882384217,
+      "content": "Faozane TchÃ©drÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701882380909,
+      "content": "Faozane a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701882380388,
+      "content": "Faozane a nommÃ© le groupe Faozane Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

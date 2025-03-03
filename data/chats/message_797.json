@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712948652893,
+      "content": "1 et je suis Ã  LomÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712944209198,
+      "content": "Bonjour\nC'est disponible Ã  2500 vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712931769649,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712931769248,
+      "content": "Koami Degbe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712931765917,
+      "content": "Koami a nommÃ© le groupe Koami Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712931765917,
+      "content": "Koami a modifiÃ© la photo du groupe."
+    }
+  ]
+}

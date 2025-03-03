@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699751529644,
+      "content": "Photo de sa svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699746699037,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699746112590,
+      "content": "C'est a combien svp ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699746101704,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699746093864,
+      "content": "C'est disponible, vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699746074521,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699745737526,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699745737217,
+      "content": "Paulinho Koevi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699745734669,
+      "content": "Paulinho a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699745734352,
+      "content": "Paulinho a nommÃ© le groupe Paulinho Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

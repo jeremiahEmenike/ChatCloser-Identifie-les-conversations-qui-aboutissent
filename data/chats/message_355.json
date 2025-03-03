@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713992705989,
+      "content": "DÃ©solÃ©, il nâest pas disponible."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713977787971,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713977780255,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713977779663,
+      "content": "Donatien Atiluse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713977776799,
+      "content": "Donatien a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713977776339,
+      "content": "Donatien a nommÃ© le groupe Donatien Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

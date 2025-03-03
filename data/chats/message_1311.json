@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720823929976,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720823669878,
+      "content": "Ont peut discuter sur wastp ok ci tu veux il faut me donne ton numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720822348621,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720821590342,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720821226137,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720821045850,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720820988754,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720820988383,
+      "content": "Thomas Koukpam"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720820986033,
+      "content": "Thomas a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720820985349,
+      "content": "Thomas a nommÃ© le groupe Thomas Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090963313,
+      "content": "Maintenant que vous savez, voulez vous Ãªtre livrÃ©??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090942590,
+      "content": "Quand je charge Ã§a dure entre 1h-2h en continu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090910184,
+      "content": "Moi j'utilise le mien depuis janvier"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713090894100,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713055627255,
+      "content": "Si l'article n'est pas autentique ou se gÃ¢te au bout de quelques jours je vais me plaindre et vous faire une mauvaise pub donc attention"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713055454784,
+      "content": "Je veux 1 le prix est 2500 non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712979686253,
+      "content": "C'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712979666912,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712971821458,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712971821015,
+      "content": "Yannick Yigan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712971818238,
+      "content": "Yannick a nommÃ© le groupe Yannick Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712971818238,
+      "content": "Yannick a modifiÃ© la photo du groupe."
+    }
+  ]
+}

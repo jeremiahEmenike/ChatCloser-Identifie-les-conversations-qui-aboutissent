@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704231911230,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704230239623,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704230234205,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704230233593,
+      "content": "Kayd Sun"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704230231285,
+      "content": "Kayd a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704230229983,
+      "content": "Kayd a nommÃ© le groupe Jose Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712998572680,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712998018621,
+      "content": "Votre NumÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712997999164,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712997950512,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712997212180,
+      "content": "Vous Ãªtes ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712995518390,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712995029527,
+      "content": "C'est combien SS chd"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712994996926,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712994996650,
+      "content": "Minto Sketi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712994993963,
+      "content": "Minto a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712994993354,
+      "content": "Minto a nommÃ© le groupe Minto Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

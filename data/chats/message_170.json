@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701071892907,
+      "content": "Oui c'est disponible. Est-ce quâil vous intÃ©resse toujoursÂ ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701035169888,
+      "content": "Bandiani BÃ©nÃ© BeautÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701035169884,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701035166360,
+      "content": "Bandiani a nommÃ© le groupe Bandiani Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701035166360,
+      "content": "Bandiani a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701035166360,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    }
+  ]
+}

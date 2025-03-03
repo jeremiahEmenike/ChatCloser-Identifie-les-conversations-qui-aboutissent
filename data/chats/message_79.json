@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720939762948,
+      "content": "Vous pouvez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720939750240,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720934363878,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720934363371,
+      "content": "Alphonse Anani"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720934359161,
+      "content": "Alphonse a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720934358728,
+      "content": "Alphonse a nommÃ© le groupe Alphonse Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

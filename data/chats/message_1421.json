@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713091906762,
+      "content": "OK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713002352095,
+      "content": "Vous allez venir en ville"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713001698809,
+      "content": "Ã tabligbo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713001698280,
+      "content": "Ã tabligbo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713001278591,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713000715519,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712843354063,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712822591835,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712822587716,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712822587556,
+      "content": "Yaovi Ayite"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712822585805,
+      "content": "Yaovi a nommÃ© le groupe Yaovi Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712822585805,
+      "content": "Yaovi a modifiÃ© la photo du groupe."
+    }
+  ]
+}

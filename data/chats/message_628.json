@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720345138429,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720221548339,
+      "content": "Mais dÃ¨s que c'est disponible je vous ferai signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720221527500,
+      "content": "Pour le moment c'est fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720221469761,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720201435691,
+      "content": "Salut"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715709430720,
+      "content": "Vous faites livraison ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715681630426,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715673815938,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713643751070,
+      "content": "Oui je veux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713276250838,
+      "content": "Bonjour c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713276247770,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713269459318,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713269453717,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713269453332,
+      "content": "IdÃ©ale Dogble"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713269450345,
+      "content": "IdÃ©ale a nommÃ© le groupe IdÃ©ale Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713269450345,
+      "content": "IdÃ©ale a modifiÃ© la photo du groupe."
+    }
+  ]
+}

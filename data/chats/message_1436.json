@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721385044439,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721334548180,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721334547873,
+      "content": "Younoussa Ouro Adjana"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721334546012,
+      "content": "Younoussa a nommÃ© le groupe Younoussa Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721334546012,
+      "content": "Younoussa a modifiÃ© la photo du groupe."
+    }
+  ]
+}

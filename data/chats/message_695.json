@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719438272308,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719438034759,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719436315058,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719427367813,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719424080879,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719424080405,
+      "content": "Jessica Tina"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719424077684,
+      "content": "Jessica a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719424077197,
+      "content": "Jessica a nommÃ© le groupe Jessica Â· LÃ¨vres roses ou Baume Ã  lÃ¨vres disponible en gros et en dÃ©tail."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720859997155,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720854919674,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720854919252,
+      "content": "BÃ©nÃ©dicte EtsÃ¨"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720854916847,
+      "content": "BÃ©nÃ©dicte a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720854916463,
+      "content": "BÃ©nÃ©dicte a nommÃ© le groupe BÃ©nÃ©dicte Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

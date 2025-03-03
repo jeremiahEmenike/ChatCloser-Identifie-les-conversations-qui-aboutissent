@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720984363207,
+      "content": "Svp envoyÃ© moi la photo le prix et la localisation sur Wa.me/22891923979"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596095172,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720575733991,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720575728021,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720575727549,
+      "content": "Kevin Papou Tnk"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720575724996,
+      "content": "Kevin a nommÃ© le groupe Kevin Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720575724996,
+      "content": "Kevin a modifiÃ© la photo du groupe."
+    }
+  ]
+}

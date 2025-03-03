@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514385827,
+      "content": "Oui svp faites de votre mieux pour que je vois une photo plus claire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514298172,
+      "content": "En fait c'est en boÃ®te scellÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514269950,
+      "content": "Penaldo a rÃ©agi ð® Ã  votre message "
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514027630,
+      "content": "Je peux avoir plus de photos ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514011478,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514001776,
+      "content": "Le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513780476,
+      "content": "Bonjour, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712511579358,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712511578983,
+      "content": "Penaldo Edem"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712511576631,
+      "content": "Penaldo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712511576211,
+      "content": "Penaldo a nommÃ© le groupe Penaldo Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

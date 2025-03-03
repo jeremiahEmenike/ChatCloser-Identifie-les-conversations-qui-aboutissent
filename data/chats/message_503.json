@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700759517873,
+      "content": "Vous voulez combien ?'"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700740218303,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700690696312,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700687207761,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700687203321,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700687202782,
+      "content": "Anson Jaguar Florentin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700687200535,
+      "content": "Florentin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700687200134,
+      "content": "Florentin a nommÃ© le groupe Florentin Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

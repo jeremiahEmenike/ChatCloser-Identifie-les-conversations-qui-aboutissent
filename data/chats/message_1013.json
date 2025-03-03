@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721282394180,
+      "content": "Oui mais Ã  vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721282362584,
+      "content": "Ya livraison?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721282332675,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721280596106,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721280595797,
+      "content": "Mohamed Muslims"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721280593665,
+      "content": "Mohamed a nommÃ© le groupe Mohamed Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721280593665,
+      "content": "Mohamed a modifiÃ© la photo du groupe."
+    }
+  ]
+}

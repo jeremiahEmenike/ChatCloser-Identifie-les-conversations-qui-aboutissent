@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701511715180,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701511714784,
+      "content": "Joseph Danioue"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701511712835,
+      "content": "Joseph a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701511712332,
+      "content": "Joseph a nommÃ© le groupe Joseph Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701544003851,
+      "content": "Nous sommes Ã  agbalepedo groupe C\n\nPrendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le corner Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701543999606,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701543701974,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701543696579,
+      "content": "Spirituel vous a proposÃ© 2Â 500Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701543694936,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701543694428,
+      "content": "Spirituel Houngbo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701543692262,
+      "content": "Spirituel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701543691831,
+      "content": "Spirituel a nommÃ© le groupe Spirituel Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

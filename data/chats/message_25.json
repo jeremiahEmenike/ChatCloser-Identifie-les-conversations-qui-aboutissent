@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712749261965,
+      "content": "J'ai plus eu de vos nouvelles"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712749136127,
+      "content": "Hi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712748742376,
+      "content": "Hello"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712687920036,
+      "content": "1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712687912109,
+      "content": "Ok livraison agoÃ¨ plateau combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712687890522,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712687871442,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712687863094,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712687858560,
+      "content": "Svp le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712687844798,
+      "content": "Bonsoir, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712685423376,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712685422982,
+      "content": "Achraf Issifou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712685420752,
+      "content": "Achraf a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712685420095,
+      "content": "Achraf a nommÃ© le groupe Achraf Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

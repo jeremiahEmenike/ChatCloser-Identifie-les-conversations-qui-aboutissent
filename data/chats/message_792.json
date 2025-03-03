@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698156876232,
+      "content": "Envoyer votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698156661619,
+      "content": "C'est les bracelets comme Ã§a je veux..."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698156642442,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698156632736,
+      "content": "Nanegbe LomÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698156594055,
+      "content": "Vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698156588766,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698156575358,
+      "content": "Vous livrez ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698156133555,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698155576281,
+      "content": "Vous avez le noir ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698154724318,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698137438732,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698137438180,
+      "content": "KinghÃ©ritier Du TrÃ´ne"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698137436245,
+      "content": "KinghÃ©ritier a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698137435687,
+      "content": "KinghÃ©ritier a nommÃ© le groupe KinghÃ©ritier Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

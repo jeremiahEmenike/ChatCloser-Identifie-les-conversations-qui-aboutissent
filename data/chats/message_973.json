@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720711427732,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720711039786,
+      "content": "Combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720711031394,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720709733330,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720709727074,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720709659261,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720709658876,
+      "content": "Mathurine Elizabeth Ezziam"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720709656155,
+      "content": "Mathurine Elizabeth a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720709655725,
+      "content": "Mathurine Elizabeth a nommÃ© le groupe Mathurine Elizabeth Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

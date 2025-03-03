@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712836508408,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712826305651,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712826305237,
+      "content": "Lea Bouame Kandari"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712826302368,
+      "content": "Lea a nommÃ© le groupe Lea Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712826302368,
+      "content": "Lea a modifiÃ© la photo du groupe."
+    }
+  ]
+}

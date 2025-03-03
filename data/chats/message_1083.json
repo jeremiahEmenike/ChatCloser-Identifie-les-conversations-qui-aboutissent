@@ -1,0 +1,65 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701993544156,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701871210385,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701870797448,
+      "content": "Oki je veux la couleur noir \nEt aussi envoie mon ton numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869310288,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868486418,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868295225,
+      "content": "Bonjour, oui c'est disponible.\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868289895,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701866722687,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701866712841,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701866712447,
+      "content": "Opi Thierry Opekou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701866708590,
+      "content": "Opi Thierry a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701866707864,
+      "content": "Opi Thierry a nommÃ© le groupe Opi Thierry Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

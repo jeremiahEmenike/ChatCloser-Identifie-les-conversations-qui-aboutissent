@@ -1,0 +1,60 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993342711,
+      "content": "Bonjour comment allez vous??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712709327552,
+      "content": "91427826 c'est pour whatsapp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658261593,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712621609663,
+      "content": "Tokoin hÃ´pital"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562628078,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712539146544,
+      "content": "2"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513673577,
+      "content": "Bonjour, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712486475703,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712486475301,
+      "content": "Debiv Dewildo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712486472642,
+      "content": "Debiv a nommÃ© le groupe Debiv Â· Ãcouteurs sans fil Pro 6 New. VENTE EN GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712486472642,
+      "content": "Debiv a modifiÃ© la photo du groupe."
+    }
+  ]
+}

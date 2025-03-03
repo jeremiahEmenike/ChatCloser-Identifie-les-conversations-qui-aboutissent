@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294953709,
+      "content": "Bonjour c'est disponible\n\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286314663,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286314268,
+      "content": "Xavier Athia"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286311356,
+      "content": "Xavier a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286310823,
+      "content": "Xavier a nommÃ© le groupe Xavier Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

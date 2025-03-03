@@ -1,0 +1,45 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052729539,
+      "content": "99714689"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052140135,
+      "content": "Donnez moi votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052033731,
+      "content": "Demain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052002762,
+      "content": "Bonjour\nC'est disponible Ã  2500 vous voulez Ã§a pour quand ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713051955338,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713051955060,
+      "content": "Soudeur Jakomo Jacques"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713051950410,
+      "content": "Jacques a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713051949791,
+      "content": "Jacques a nommÃ© le groupe Jacques Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

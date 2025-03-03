@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721306744748,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721298170704,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721298163811,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721298163271,
+      "content": "Sadate Abdoulaye"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721298160762,
+      "content": "Sadate a nommÃ© le groupe Sadate Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721298160762,
+      "content": "Sadate a modifiÃ© la photo du groupe."
+    }
+  ]
+}

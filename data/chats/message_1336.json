@@ -1,0 +1,100 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712336683150,
+      "content": "Cet article vous intÃ©resse toujours ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712336675540,
+      "content": "Salut"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712327127242,
+      "content": "Monika a modifiÃ© la description de lâannonce."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712326327090,
+      "content": "Monika a modifiÃ© la description de lâannonce."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712326325065,
+      "content": "Monika a modifiÃ© le prix de Bracelet."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712326141825,
+      "content": "Monika a baissÃ© le prix de Bracelet Ã  810Â CFA."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708675768778,
+      "content": "Merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708675766403,
+      "content": "97163992"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708385034630,
+      "content": "Hello, votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708002000502,
+      "content": "Photo je vais voir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708001935520,
+      "content": "On fait comment pour l'avoir alors"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707991244781,
+      "content": "Monika attend votre rÃ©ponse Ã  propos de Bracelet."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707982847906,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707982840897,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707982837938,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707920858788,
+      "content": "Bonjour je peux l'avoir aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707920834056,
+      "content": "Bonjour Monika, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707920832520,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Bracelet."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707920832520,
+      "content": "Vous avez changÃ© la photo du groupe."
+    }
+  ]
+}

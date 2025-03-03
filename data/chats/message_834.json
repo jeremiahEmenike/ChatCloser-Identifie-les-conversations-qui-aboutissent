@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721148309296,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721142738410,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721136569727,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721136569389,
+      "content": "Komla Jean Ahianyo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721136565306,
+      "content": "Komla Jean a nommÃ© le groupe Komla Jean Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721136565306,
+      "content": "Komla Jean a modifiÃ© la photo du groupe."
+    }
+  ]
+}

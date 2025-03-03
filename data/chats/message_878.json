@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693489891893,
+      "content": "putin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693489327711,
+      "content": "C'est en rupture pour le moment"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693489316951,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693489286351,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693489284699,
+      "content": "Ledy Fey vous a proposÃ© 7Â 200Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693489283214,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693489282838,
+      "content": "Ledy Fey Boroze"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693489277954,
+      "content": "Ledy Fey a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693489277447,
+      "content": "Ledy Fey a nommÃ© le groupe Ledy Fey Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

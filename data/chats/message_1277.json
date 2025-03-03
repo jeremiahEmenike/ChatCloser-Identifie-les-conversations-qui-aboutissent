@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707659340365,
+      "content": "Nous sommes Ã  agbalepedo groupe C, vous pouvez passer prendre ou on peut vous livrer Ã  vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707659305992,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648122467,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648006332,
+      "content": "Bonjour sa majestÃ©.\nC'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707647797404,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707647797238,
+      "content": "Suave Inousse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707647795042,
+      "content": "Suave a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707647794283,
+      "content": "Suave a nommÃ© le groupe Suave Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

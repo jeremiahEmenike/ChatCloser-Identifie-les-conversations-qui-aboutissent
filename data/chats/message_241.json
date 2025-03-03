@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874677577,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712851992934,
+      "content": "Vous Ãªtes oÃ¹ svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712851978220,
+      "content": "1 seulement"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712843372970,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712843371959,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712819965989,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712819961676,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712819961428,
+      "content": "Chantal Attivi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712819958724,
+      "content": "Chantal a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712819958377,
+      "content": "Chantal a nommÃ© le groupe Chantal Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

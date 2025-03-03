@@ -1,0 +1,70 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715177227293,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715174501261,
+      "content": "Cc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714861872520,
+      "content": "D'accord vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714861845057,
+      "content": "Je ne suis plus sur LomÃ© actuellement"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714861833040,
+      "content": "91455315 on peut gÃ©rer lundi aprÃ¨s midi s'il te plaÃ®t ???"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714861494651,
+      "content": "D'accord vous voulez Ã§a demain??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714860237413,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714848745077,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714846560973,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714846553247,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714846552985,
+      "content": "Latevi Lawson"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714846550210,
+      "content": "Latevi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714846549717,
+      "content": "Latevi a nommÃ© le groupe Latevi Â· Coffret Montre connectÃ©e et Ã©couteur sans fil Bluetooth W26."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701090302280,
+      "content": "Ãa vous va??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701090301942,
+      "content": "Je vous le laisse Ã  2300 alors"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701089690779,
+      "content": "10"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700951920758,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700951250607,
+      "content": "prix d'en gros svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700950477744,
+      "content": "Bonsoir c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700949013002,
+      "content": "Antoine Elaziz"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700949009277,
+      "content": "Antoine a nommÃ© le groupe Antoine Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700949009277,
+      "content": "Antoine a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700949009277,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

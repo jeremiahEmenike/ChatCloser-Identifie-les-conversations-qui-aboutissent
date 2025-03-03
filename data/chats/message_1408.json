@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694254771383,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694251877246,
+      "content": "Bonjour pour le moment c'est en rupture"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694243818420,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694243818206,
+      "content": "Wilfried Abrangao"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694243816856,
+      "content": "Wilfried a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694243816676,
+      "content": "Wilfried a nommÃ© le groupe Wilfried Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

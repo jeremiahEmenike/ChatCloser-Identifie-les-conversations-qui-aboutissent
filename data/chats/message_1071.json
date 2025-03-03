@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720634660072,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720633348053,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720633339556,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720633338961,
+      "content": "Oli Ve"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720633335519,
+      "content": "Oli a nommÃ© le groupe Oli Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720633335519,
+      "content": "Oli a modifiÃ© la photo du groupe."
+    }
+  ]
+}

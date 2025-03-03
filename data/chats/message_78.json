@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720634525957,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720630011311,
+      "content": "Oui je veux un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720629932014,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720615775930,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720615766376,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720615765990,
+      "content": "Allamine Brahim Oumar"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720615762499,
+      "content": "Allamine a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720615761937,
+      "content": "Allamine a nommÃ© le groupe Allamine Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

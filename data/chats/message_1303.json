@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701300848775,
+      "content": "Vous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701300836522,
+      "content": "Cool"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701300647045,
+      "content": "2 unitÃ©s"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701298254617,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701297578172,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294392776,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701291061961,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701291055362,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701291055085,
+      "content": "ThÄ GhÃ¸st"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701291052647,
+      "content": "ThÄ a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701291052135,
+      "content": "ThÄ a nommÃ© le groupe ThÄ Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

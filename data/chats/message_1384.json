@@ -1,0 +1,135 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709300740635,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709300739679,
+      "content": "Bonsoir madame"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708972082049,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708963855545,
+      "content": "Ok on se dit vendredi soir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708958039967,
+      "content": "Oui c'est possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708958039146,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708946486665,
+      "content": "Svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708946483003,
+      "content": "Est-ce que vendredi soir c'est possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708700787958,
+      "content": "Demain matin Ã§a vous va??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708700457250,
+      "content": "Vous pouvez me livrer quand ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708700433785,
+      "content": "Le tout Ã  3500f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708257181636,
+      "content": "1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708245603339,
+      "content": "Moi je suis Ã  agbalÃ©pÃ©dogan non loin du collÃ¨ge protestant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708245594057,
+      "content": "Ok la livraison est Ã  combien s'il vous plaÃ®t"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707474892044,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707474685421,
+      "content": "Est-ce que maintenant je peux avoir la mienne"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707474648866,
+      "content": "Ok pas de soucis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707474633946,
+      "content": "Ok compris"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437352923,
+      "content": "DÃ©solÃ© pour le silence en rÃ©alitÃ© l'ancien stock Ã©tait fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437192608,
+      "content": "2500 un nouveau stock vient d'arriver"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701802794749,
+      "content": "C'est combien s'il vous plaÃ®t"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463328918,
+      "content": "Bonjour c'est disponible, vous voulez combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701458328805,
+      "content": "Vanoussa Lawson"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701458325227,
+      "content": "Vanoussa a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701458325227,
+      "content": "Vanoussa a nommÃ© le groupe Vanoussa Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701458325227,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    }
+  ]
+}

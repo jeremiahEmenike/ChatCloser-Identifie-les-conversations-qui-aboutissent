@@ -1,0 +1,115 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696802912106,
+      "content": "96285233"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696796375042,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696767578501,
+      "content": "Vous pouvez mâenvoyer votre localisation sur whatsapp comme Ã§a je pourrais venir rÃ©cupÃ©rer ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696755645976,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696755010338,
+      "content": "NyekonakpoÃ¨ et vous ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696754329193,
+      "content": "Vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696752710068,
+      "content": "Oui et câest combien pour la livraison ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696678188049,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696677703808,
+      "content": "Combien pour la livraison ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696676272056,
+      "content": "Vous souhaitez qu'on vous livre ou vous allez venir chercher"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696676248140,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696676180928,
+      "content": "Groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696676176141,
+      "content": "Agbalepedo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696671244949,
+      "content": "NyekonakpoÃ¨ et vous ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696669772259,
+      "content": "Vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696669767844,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696668112767,
+      "content": "Jâen voudrais un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696664645805,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696620623347,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696620619211,
+      "content": "Killua a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696620619211,
+      "content": "Killua a nommÃ© le groupe Killua Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696620619211,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    }
+  ]
+}

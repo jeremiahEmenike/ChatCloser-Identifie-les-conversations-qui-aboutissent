@@ -1,0 +1,70 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720515844037,
+      "content": "Mon WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720515822311,
+      "content": "91959913"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720515796728,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720515704649,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720515688957,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720515344201,
+      "content": "Je peux en avoir photos de Ã§a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720515321910,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720515304198,
+      "content": "Combien dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720456039542,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720434100296,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720434099816,
+      "content": "CatÃ©goriquement Poli"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720434097688,
+      "content": "CatÃ©goriquement a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720434097130,
+      "content": "CatÃ©goriquement a nommÃ© le groupe CatÃ©goriquement Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

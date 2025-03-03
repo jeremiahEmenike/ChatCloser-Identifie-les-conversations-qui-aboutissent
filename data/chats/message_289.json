@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712903770312,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712899026353,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712899023862,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712899010814,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712899007242,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712899006745,
+      "content": "Daniel Atana"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712899004480,
+      "content": "Daniel a nommÃ© le groupe Daniel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712899004480,
+      "content": "Daniel a modifiÃ© la photo du groupe."
+    }
+  ]
+}

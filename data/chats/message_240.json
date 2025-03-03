@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701621773378,
+      "content": "Bonjour c'est disponible, vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701613416247,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701613416003,
+      "content": "Chan To"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701613414192,
+      "content": "Chan a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701613413997,
+      "content": "Chan a nommÃ© le groupe Chan Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

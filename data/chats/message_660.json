@@ -1,0 +1,90 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713807287695,
+      "content": "92 02 16 50"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713802164693,
+      "content": "Bonjour j'attendais votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713773832784,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713773335938,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713773335675,
+      "content": "Envoyez moi votre localisation au 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713773335289,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713636694282,
+      "content": "Si je veux deux tu peux me les livrer Ã  5000 ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874761576,
+      "content": "Si vous voulez Ãªtre livrÃ© vous devez payer la livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712848792540,
+      "content": "Tu me livre dans ce cas"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712848765851,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712784565758,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712784538359,
+      "content": "2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768486544,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768264760,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768264360,
+      "content": "Jacques Padawolo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768261946,
+      "content": "Jacques a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712768261583,
+      "content": "Jacques a nommÃ© le groupe Jacques Â· Ãcouteurs sans fil Pro 6 New. VENTE EN GROS ET EN DETAIL."
+    }
+  ]
+}

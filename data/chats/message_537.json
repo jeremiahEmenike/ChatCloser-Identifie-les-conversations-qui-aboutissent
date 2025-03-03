@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294741722,
+      "content": "ArrivÃ© Ã  pharmacie groupe C, faite moi signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294683253,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247691173,
+      "content": "Vous Ãªtes  ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247682239,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247670525,
+      "content": "Oui c'est disponible. Est-ce quâil vous intÃ©resse toujours ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247351765,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247351348,
+      "content": "SÃ¤Ã« DÃ« GaÃ«llo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247349331,
+      "content": "GaÃ«llo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247348857,
+      "content": "GaÃ«llo a nommÃ© le groupe GaÃ«llo Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

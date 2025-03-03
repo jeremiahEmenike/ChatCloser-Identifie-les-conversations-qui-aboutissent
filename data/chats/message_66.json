@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721384717056,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone pour la livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987561929,
+      "content": "On peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987210589,
+      "content": "Ok moi je suis Ã  kegue on fait comment ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987168714,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987131385,
+      "content": "Ok vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987110404,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987088531,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987028524,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720986739160,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720986738895,
+      "content": "Alfred Atiamon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720986737048,
+      "content": "Alfred a nommÃ© le groupe Alfred Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720986737048,
+      "content": "Alfred a modifiÃ© la photo du groupe."
+    }
+  ]
+}

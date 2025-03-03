@@ -1,0 +1,95 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708626671403,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708604412998,
+      "content": "Je vous reviens"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708604390657,
+      "content": "Ãa dÃ©pend du livreur mais pas plus de 1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708604321750,
+      "content": "Et pour me livrer c'est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708604269050,
+      "content": "Legbassito rond point avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708604251929,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708604233457,
+      "content": "D'accord on peut vous livrer mais Ã§a sera a vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708604214657,
+      "content": "Je suis a adidogomÃ© attigangomÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708604205601,
+      "content": "Juste un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708604190016,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708604188127,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708604188062,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708603142548,
+      "content": "??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708545969466,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708545963398,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708545963198,
+      "content": "Elking Gb Jean"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708545960271,
+      "content": "Jean a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708545959741,
+      "content": "Jean a nommÃ© le groupe Jean Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

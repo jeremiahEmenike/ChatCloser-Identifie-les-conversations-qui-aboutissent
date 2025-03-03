@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720820042164,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720820021535,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720819234633,
+      "content": "Tof de xa et Le Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720819215891,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720819213010,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720817617230,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720817564330,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720817558283,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720817557993,
+      "content": "Fadil Souley"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720817555612,
+      "content": "Fadil a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720817555255,
+      "content": "Fadil a nommÃ© le groupe Fadil Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

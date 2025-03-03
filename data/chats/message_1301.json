@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701974397186,
+      "content": "Il ne reste que Ã§a Ã  10500\nVous Ãªtes intÃ©ressÃ©?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701974356518,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701974352850,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701878542411,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701878536940,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701878536601,
+      "content": "Tep Unic"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701878534237,
+      "content": "Tep a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701878533577,
+      "content": "Tep a nommÃ© le groupe Tep Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658899485,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658368773,
+      "content": "I have sent you message on WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712657963694,
+      "content": "Send your location on WhatsApp 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712657940092,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712647799017,
+      "content": "I will like to get it today"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712646196949,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712646196583,
+      "content": "Victor Johnson"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712646193897,
+      "content": "Victor a nommÃ© le groupe Victor Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712646193897,
+      "content": "Victor a modifiÃ© la photo du groupe."
+    }
+  ]
+}

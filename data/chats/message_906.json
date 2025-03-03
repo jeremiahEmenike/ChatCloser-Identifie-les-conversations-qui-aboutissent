@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712753006217,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752997759,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752997226,
+      "content": "Louis Kouzan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752993442,
+      "content": "Louis a nommÃ© le groupe Louis Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712752993442,
+      "content": "Louis a modifiÃ© la photo du groupe."
+    }
+  ]
+}

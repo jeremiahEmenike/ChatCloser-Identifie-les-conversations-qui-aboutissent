@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707903180127,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707902759536,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707902753373,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707902753105,
+      "content": "Germain Akato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707902750694,
+      "content": "Germain a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707902750052,
+      "content": "Germain a nommÃ© le groupe Germain Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713124665332,
+      "content": "96054717"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713124643171,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713123612568,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713123570575,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713123567046,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713123566563,
+      "content": "Jess Merveille"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713123564010,
+      "content": "Jess a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713123563606,
+      "content": "Jess a nommÃ© le groupe Jess Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

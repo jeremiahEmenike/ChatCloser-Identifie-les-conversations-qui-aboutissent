@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514315248,
+      "content": "Legbassito carrefour avinato mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514094101,
+      "content": "OÃ¹ Ãªtes vous SituÃ© ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514055483,
+      "content": "Bonjour, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513662654,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513662442,
+      "content": "Socrate Jean-hubert"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513659909,
+      "content": "Socrate a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712513659507,
+      "content": "Socrate a nommÃ© le groupe Socrate Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

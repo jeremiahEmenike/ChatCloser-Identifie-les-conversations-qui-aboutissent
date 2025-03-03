@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705146968645,
+      "content": "C'est Ã§a la qui est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705146951615,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705146912371,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705081916705,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705081916311,
+      "content": "Ajavon ManassÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705081912755,
+      "content": "Ajavon a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705081911840,
+      "content": "Ajavon a nommÃ© le groupe Ajavon Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715942807507,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715877228654,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715877223369,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715877222806,
+      "content": "Pascal Amegan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715877220326,
+      "content": "Pascal a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715877219705,
+      "content": "Pascal a nommÃ© le groupe Pascal Â· Coffret Montre connectÃ©e et Ã©couteur sans fil Bluetooth W26."
+    }
+  ]
+}

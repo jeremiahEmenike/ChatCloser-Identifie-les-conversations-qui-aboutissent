@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707679107941,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707679059767,
+      "content": "Non c'est 2500 le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707678725111,
+      "content": "On ne diminue pas ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707678703189,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707676956784,
+      "content": "Oui mais Ã  vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707672850810,
+      "content": "Vous faites la livraison ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707672824151,
+      "content": "On ne diminue pas ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707672482271,
+      "content": "Moi je suis Ã  adeta"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707672311275,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707671271681,
+      "content": "Ok vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707659373696,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707650151688,
+      "content": "C'est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648014575,
+      "content": "Bonjour sa majestÃ©.\nC'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707643366808,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707643366461,
+      "content": "Fridoce Betewou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707643364306,
+      "content": "Fridoce a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707643363878,
+      "content": "Fridoce a nommÃ© le groupe Fridoce Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

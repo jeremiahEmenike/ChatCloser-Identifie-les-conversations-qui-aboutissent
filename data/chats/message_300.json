@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697946903937,
+      "content": "J'ai pas compris ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697924579327,
+      "content": "Ou bien le prix d'en gros?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697924555048,
+      "content": "D'accord vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697924539562,
+      "content": "1 seulement"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697924524390,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697924516852,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697922432202,
+      "content": "Dario Antonetti"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697922429133,
+      "content": "Dario a nommÃ© le groupe Dario Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697922429133,
+      "content": "Dario a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697922429133,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

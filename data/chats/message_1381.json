@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721398138126,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721393741644,
+      "content": "Ãa reÃ§ois appel ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721384961398,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721351809200,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721351800460,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721351800025,
+      "content": "Valere Saya"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721351796379,
+      "content": "Valere a nommÃ© le groupe Valere Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721351796379,
+      "content": "Valere a modifiÃ© la photo du groupe."
+    }
+  ]
+}

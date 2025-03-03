@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701277762939,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701272547918,
+      "content": "Met you on WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701272338070,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701271417670,
+      "content": "Help mee with tour numbar"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701271343341,
+      "content": "Hello"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701271329002,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701271293625,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701271293295,
+      "content": "Olafaa Onok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701271290989,
+      "content": "Olafaa a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701271290783,
+      "content": "Olafaa a nommÃ© le groupe Olafaa Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

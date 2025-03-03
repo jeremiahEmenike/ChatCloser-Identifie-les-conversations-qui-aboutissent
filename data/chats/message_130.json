@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720629898953,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720608488946,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720608483154,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720608482662,
+      "content": "ArsÃ¨ne Junior"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720608480199,
+      "content": "ArsÃ¨ne a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720608479772,
+      "content": "ArsÃ¨ne a nommÃ© le groupe ArsÃ¨ne Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

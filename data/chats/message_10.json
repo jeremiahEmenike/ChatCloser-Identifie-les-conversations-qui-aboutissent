@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701240236288,
+      "content": "2000 c'est Ã  partir de 3"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701240225209,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701239893471,
+      "content": "Je vous donne 2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701238826561,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701237292813,
+      "content": "C'est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701236566002,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701236294370,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701236293916,
+      "content": "Abdoulaye Rachide"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701236291535,
+      "content": "Abdoulaye a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701236290893,
+      "content": "Abdoulaye a nommÃ© le groupe Abdoulaye Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

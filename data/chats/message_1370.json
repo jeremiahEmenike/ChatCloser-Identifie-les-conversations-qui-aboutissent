@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720359522212,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720358905972,
+      "content": "Vous nâavez pas rÃ©pondu Ã Â : 91064347ðnous sommes au Togo- LomÃ© en face de la station totsi Total"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720350866883,
+      "content": "91064347ðnous sommes au Togo- LomÃ© en face de la station totsi Total"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720265921594,
+      "content": "Bonjour Michel, Vous Ãªtes oÃ¹ ?? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720265918145,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720265917626,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Slide."
+    }
+  ]
+}

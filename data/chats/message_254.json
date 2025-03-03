@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720629879196,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720620140372,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720620132830,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720620132098,
+      "content": "Choco Germain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720620128766,
+      "content": "Choco a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720620128298,
+      "content": "Choco a nommÃ© le groupe Choco Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

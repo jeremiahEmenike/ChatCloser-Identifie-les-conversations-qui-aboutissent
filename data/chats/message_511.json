@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720999284676,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720997127301,
+      "content": "Et si je donne 2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720997058378,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720996844790,
+      "content": "2900 toujours ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720954119754,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720953468442,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720953468263,
+      "content": "FrÃ£nÄisÄain El"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720953464735,
+      "content": "FrÃ£nÄisÄain a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720953464540,
+      "content": "FrÃ£nÄisÄain a nommÃ© le groupe FrÃ£nÄisÄain Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794895906,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794832582,
+      "content": "Donnez-moi votre numÃ©ro WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794825540,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794805685,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701789136476,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701789130260,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701789129889,
+      "content": "Pascal Edah"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701789127375,
+      "content": "Pascal a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701789126678,
+      "content": "Pascal a nommÃ© le groupe Pascal Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

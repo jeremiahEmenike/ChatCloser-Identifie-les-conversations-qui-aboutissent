@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712979728925,
+      "content": "C'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712963750779,
+      "content": "Cet article mâintÃ©resse."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712963750589,
+      "content": "Hector Saturnin Nammangue"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712963747831,
+      "content": "Hector Saturnin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712963747285,
+      "content": "Hector Saturnin a nommÃ© le groupe Hector Saturnin Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

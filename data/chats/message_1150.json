@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701259193318,
+      "content": "Vers 17h"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247964173,
+      "content": "Tu quittes Ã  quelle heure ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247951048,
+      "content": "Ok je vois"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247631805,
+      "content": "Mais actuellement je suis au campus, Isica"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247618463,
+      "content": "Agbalepedo groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247298211,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701246968802,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701198313966,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701198313172,
+      "content": "Randolph Reddington"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701198310336,
+      "content": "Randolph a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701198309460,
+      "content": "Randolph a nommÃ© le groupe Randolph Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

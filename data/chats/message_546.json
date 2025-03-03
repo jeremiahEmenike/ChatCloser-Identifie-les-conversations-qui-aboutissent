@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701472616475,
+      "content": "Bonjour c'est disponible, vous voulez combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701470657952,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701470657762,
+      "content": "Geoffroy Nakya"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701470655099,
+      "content": "Geoffroy a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701470654778,
+      "content": "Geoffroy a nommÃ© le groupe Geoffroy Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

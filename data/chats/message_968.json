@@ -1,0 +1,70 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701287548077,
+      "content": "97516264"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701097881935,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701091101642,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701091083360,
+      "content": "Svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701091079394,
+      "content": "Votre WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701086963016,
+      "content": "2500 last last"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701086837884,
+      "content": "Prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701085612255,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701082273188,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701082267595,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701082267304,
+      "content": "Mathias Agbadji"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701082265205,
+      "content": "Mathias a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701082264656,
+      "content": "Mathias a nommÃ© le groupe Mathias Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

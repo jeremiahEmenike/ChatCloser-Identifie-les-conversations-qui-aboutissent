@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707852057341,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707847345488,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707847345250,
+      "content": "FranÃ§ois Akoete"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707847342214,
+      "content": "FranÃ§ois a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707847341599,
+      "content": "FranÃ§ois a nommÃ© le groupe FranÃ§ois Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

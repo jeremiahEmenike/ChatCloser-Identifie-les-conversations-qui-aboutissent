@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713186492545,
+      "content": "1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713186488825,
+      "content": "Ok, you pay delivery price"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185520873,
+      "content": "5:00at nukafu jean Paul 2"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185431345,
+      "content": "*it"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185422315,
+      "content": "Pls I want to buy y"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185073247,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185072783,
+      "content": "Rose Ejindu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185070097,
+      "content": "Rose a nommÃ© le groupe Rose Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713185070097,
+      "content": "Rose a modifiÃ© la photo du groupe."
+    }
+  ]
+}

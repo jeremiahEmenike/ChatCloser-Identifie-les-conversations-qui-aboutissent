@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709500467826,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709497605583,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709497599270,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709497598775,
+      "content": "Youssouf Yattabare"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709497595993,
+      "content": "Youssouf a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709497595348,
+      "content": "Youssouf a nommÃ© le groupe Youssouf Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

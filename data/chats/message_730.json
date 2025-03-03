@@ -1,0 +1,125 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713455950799,
+      "content": "96184506"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712992609984,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712960302332,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712960247265,
+      "content": "Okay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712960246785,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712960221080,
+      "content": "Demain matin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957393534,
+      "content": "Vous pouvez me livrer Ã§a tout de suite ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957314227,
+      "content": "Dâaccord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957305338,
+      "content": "3500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957286518,
+      "content": "Dâaccord le total fais combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957264913,
+      "content": "1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957217790,
+      "content": "AdidogomÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957207874,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957195664,
+      "content": "Le total fais combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957168179,
+      "content": "Mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957163802,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957153229,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712957134251,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712956973109,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712955557599,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712955553953,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712955553502,
+      "content": "Joshua Jo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712955551166,
+      "content": "Joshua a nommÃ© le groupe Joshua Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712955551166,
+      "content": "Joshua a modifiÃ© la photo du groupe."
+    }
+  ]
+}

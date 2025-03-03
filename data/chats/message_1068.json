@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708076535986,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708057259653,
+      "content": "Ok la livraison fera 1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708042802667,
+      "content": "Sogbossito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708002104120,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708002099216,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707982223956,
+      "content": "Livraison possible ? ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707982223578,
+      "content": "Odogwu AglouzÃ¢"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707982221708,
+      "content": "Odogwu a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707982221226,
+      "content": "Odogwu a nommÃ© le groupe Odogwu Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

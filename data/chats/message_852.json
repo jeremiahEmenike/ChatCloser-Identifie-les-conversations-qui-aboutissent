@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712657093564,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712656156902,
+      "content": "Lass"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712656012194,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712651497320,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712651496926,
+      "content": "Kt My"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712651494399,
+      "content": "Kt a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712651494016,
+      "content": "Kt a nommÃ© le groupe Kt Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

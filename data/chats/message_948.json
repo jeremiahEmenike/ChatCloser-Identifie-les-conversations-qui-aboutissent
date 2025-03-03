@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713258275489,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713111044513,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108650633,
+      "content": "Dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108641502,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108554918,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108269289,
+      "content": "Photos de sa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108236670,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108217392,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108210380,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108153790,
+      "content": "Vous voulez Ã§a aujourd'hui?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713108148726,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713107694408,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713107694070,
+      "content": "Marcel Kable"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713107692115,
+      "content": "Marcel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713107691732,
+      "content": "Marcel a nommÃ© le groupe Marcel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

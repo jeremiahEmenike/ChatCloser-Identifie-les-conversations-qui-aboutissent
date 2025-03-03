@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713302426778,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713291938960,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713291933145,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713291932767,
+      "content": "Sougliman Konlani"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713291930657,
+      "content": "Sougliman a nommÃ© le groupe Sougliman Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713291930657,
+      "content": "Sougliman a modifiÃ© la photo du groupe."
+    }
+  ]
+}

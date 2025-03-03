@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707471958875,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707471928311,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707471928006,
+      "content": "Tony Marcel Desanti Lawson"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707471924884,
+      "content": "Tony Marcel Desanti a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707471924029,
+      "content": "Tony Marcel Desanti a nommÃ© le groupe Tony Marcel Desanti Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

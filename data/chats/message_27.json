@@ -1,0 +1,105 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708087607782,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708083185404,
+      "content": "Je vais vous faire signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708076545551,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708036632000,
+      "content": "Vous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708035966421,
+      "content": "Merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708024353984,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708023922316,
+      "content": "Je veux blan Envoi mois ton numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707903175549,
+      "content": "D'accord on peut vous livrer ce soir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707902884513,
+      "content": "Ok moi je suis agoÃ© assiyeyÃ© farmasi emaÃ¯s"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707901808073,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707898613464,
+      "content": "Prd 2000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707865539431,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707856655670,
+      "content": "Prd j'ai 2"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707852064557,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707847377135,
+      "content": "L'ase prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707841385290,
+      "content": "Bonjour c'est disponible. \nNous avons le blanc et le noir\nVous voulez laquelle??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707833829881,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707833829674,
+      "content": "Adam Achraf"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707833826750,
+      "content": "Adam a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707833826103,
+      "content": "Adam a nommÃ© le groupe Adam Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

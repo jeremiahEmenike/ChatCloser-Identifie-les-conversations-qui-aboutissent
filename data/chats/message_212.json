@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712954335358,
+      "content": "79 626768"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712954313681,
+      "content": "Votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712953754985,
+      "content": "Adidigome et v6"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712898011314,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712898001635,
+      "content": "D'accord c'est a ,2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712889319772,
+      "content": "Oui je le suis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712883745257,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712881988428,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712881983050,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712881982761,
+      "content": "Boris Hodogbe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712881978994,
+      "content": "Boris a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712881978345,
+      "content": "Boris a nommÃ© le groupe Boris Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713482296291,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713482295815,
+      "content": "Lopez Milliardaire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713482293075,
+      "content": "Lopez a nommÃ© le groupe Lopez Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713482293075,
+      "content": "Lopez a modifiÃ© la photo du groupe."
+    }
+  ]
+}

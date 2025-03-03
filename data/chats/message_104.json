@@ -1,0 +1,65 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713327691746,
+      "content": "For the moment we are out of stock. As soon as it's available I'll call you"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713303662166,
+      "content": "96955935"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713303543943,
+      "content": "Give me your number"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713302769715,
+      "content": "2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713302644312,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713302483079,
+      "content": "Yeh...bnsr how much is your Las las for 5pices"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713302357577,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713301926085,
+      "content": "Hello"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713299064399,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713299063944,
+      "content": "Anas Anasco"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713299060802,
+      "content": "Anas a nommÃ© le groupe Anas Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713299060802,
+      "content": "Anas a modifiÃ© la photo du groupe."
+    }
+  ]
+}

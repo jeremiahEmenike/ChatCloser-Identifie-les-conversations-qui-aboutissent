@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720629847846,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720606962865,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720606955676,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720606955099,
+      "content": "Doris Faith"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720606952550,
+      "content": "Doris a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720606952012,
+      "content": "Doris a nommÃ© le groupe Doris Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

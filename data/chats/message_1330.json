@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714084713191,
+      "content": "Annonces similaires Ã  Â«Â Baffles PhilipsÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714013320001,
+      "content": "Georges Komi a vendu Baffles Philips."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714013036024,
+      "content": "Vendu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714013030405,
+      "content": "Vendi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713955108638,
+      "content": "Bonjour, c'est Ã  combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713955105782,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713955105275,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Baffles Philips."
+    }
+  ]
+}

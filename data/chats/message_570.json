@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701559326540,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701513267852,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701473620657,
+      "content": "Dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701473562468,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701473504898,
+      "content": "Le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701465156870,
+      "content": "Bonjour c'est disponible, vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463806029,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463805614,
+      "content": "Golden Amavi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463803726,
+      "content": "Golden a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463803227,
+      "content": "Golden a nommÃ© le groupe Golden Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

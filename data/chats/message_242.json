@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701873726377,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869282439,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869143041,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869135356,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869135164,
+      "content": "Chantale Kadanga"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869132677,
+      "content": "Chantale a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869132242,
+      "content": "Chantale a nommÃ© le groupe Chantale Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

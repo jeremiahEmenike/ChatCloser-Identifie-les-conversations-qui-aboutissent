@@ -1,0 +1,80 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712877872665,
+      "content": "Je vous ai Ã©crit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712876741001,
+      "content": "97643264"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712876442901,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712876214200,
+      "content": "agoe assiyeye"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874151864,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874143445,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712844111617,
+      "content": "un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712844088440,
+      "content": "oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712836448042,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712836447664,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712831500907,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712831497134,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712831496629,
+      "content": "Farid Raul"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712831494073,
+      "content": "Farid a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712831493550,
+      "content": "Farid a nommÃ© le groupe Farid Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710283340480,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?\n\nNous sommes Ã  legbassito non loin du carrefour avinato mais nous livrons aussi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710272518891,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710272518646,
+      "content": "Mawue Nyegan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710272515549,
+      "content": "Mawue a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710272514799,
+      "content": "Mawue a nommÃ© le groupe Mawue Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    }
+  ]
+}

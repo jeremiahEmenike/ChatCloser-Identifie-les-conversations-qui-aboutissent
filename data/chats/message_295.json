@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707951896406,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707924569568,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707924559833,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707924559473,
+      "content": "Daniel Sefua"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707924556244,
+      "content": "Daniel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707924555405,
+      "content": "Daniel a nommÃ© le groupe Daniel Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

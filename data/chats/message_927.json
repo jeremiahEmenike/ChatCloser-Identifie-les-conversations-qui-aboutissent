@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701085947995,
+      "content": "Ãa connecte ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701085520014,
+      "content": "On vous livre oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701085505213,
+      "content": "Deux Ã§a fait 5000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701085497748,
+      "content": "DÃ©solÃ© mais c'Ã©tait le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701083324790,
+      "content": "Je veux pour 4000F"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701083299236,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701071810446,
+      "content": "Oui c'est disponible. Est-ce quâil vous intÃ©resse toujoursÂ ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701046579065,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701046578723,
+      "content": "MÃ¤Ã¤n KpÃ¶tÃ¯vÃ¯"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701046575613,
+      "content": "MÃ¤Ã¤n a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701046575299,
+      "content": "MÃ¤Ã¤n a nommÃ© le groupe MÃ¤Ã¤n Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

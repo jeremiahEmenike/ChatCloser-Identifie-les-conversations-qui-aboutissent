@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648067049,
+      "content": "Bonjour sa majestÃ©.\nC'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707629517418,
+      "content": "Kevin Dadja"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707629513986,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707629513094,
+      "content": "Kevin a nommÃ© le groupe Kevin Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707629513094,
+      "content": "Kevin a modifiÃ© la photo du groupe."
+    }
+  ]
+}

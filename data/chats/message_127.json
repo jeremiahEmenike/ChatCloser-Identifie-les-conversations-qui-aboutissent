@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713537143845,
+      "content": "Le prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213149554,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713212359300,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713020475403,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713019168266,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713019161040,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713019160630,
+      "content": "Arnaud Koutimba"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713019157727,
+      "content": "Arnaud a nommÃ© le groupe Arnaud Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713019157727,
+      "content": "Arnaud a modifiÃ© la photo du groupe."
+    }
+  ]
+}

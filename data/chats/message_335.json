@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698303474266,
+      "content": "Mais pour le moment je suis au campus"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698303453455,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698269479373,
+      "content": "OÃ¹ vous habitez svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698154707774,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698150543039,
+      "content": "Le prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1692982348977,
+      "content": "Bonjour, c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1692974811092,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1692974810764,
+      "content": "Diane Gassor"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1692974809021,
+      "content": "Diane a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1692974808541,
+      "content": "Diane a nommÃ© le groupe Diane Â· W26 PRO MAX SpÃ©cial (montre connectÃ©e et Ã©couteur sans fil)."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701356211070,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701356172746,
+      "content": "J'ai 2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701300864562,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701300752267,
+      "content": "C'est combien last â"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701300722593,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294854181,
+      "content": "ArrivÃ© Ã  pharmacie groupe c, faite moi signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294806552,
+      "content": "Nous sommes Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701275584754,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701259177775,
+      "content": "Bonjour\nOui c'est disponible. Est-ce quâil vous intÃ©resse toujours ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247999984,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247999581,
+      "content": "Jovite Adzakey"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247996478,
+      "content": "Jovite a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701247995938,
+      "content": "Jovite a nommÃ© le groupe Jovite Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

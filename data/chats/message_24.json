@@ -1,0 +1,95 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701419206031,
+      "content": "96264959"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701382218242,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701382211928,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701379037706,
+      "content": "Demain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701379035031,
+      "content": "Pas cette nuit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701378186512,
+      "content": "Vous allez venir??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376966144,
+      "content": "Okk"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376895469,
+      "content": "Nous sommes Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376884816,
+      "content": "D'accord vous pouvez passer chercher"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376848163,
+      "content": "Pour le moment c'est un je veux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376806989,
+      "content": "En bon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376797904,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376786986,
+      "content": "Svp c'est rÃ©ellement Ã  2500f?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701375390796,
+      "content": "Bonjour c'est disponible\n\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701373069679,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701373069360,
+      "content": "Achille Deparis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701373066797,
+      "content": "Achille a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701373066408,
+      "content": "Achille a nommÃ© le groupe Achille Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

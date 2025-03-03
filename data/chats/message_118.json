@@ -1,0 +1,100 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713121970852,
+      "content": "Tu n'auras pas Ã  payer la livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713121810860,
+      "content": "Et si je ve prendre moi mÃªme"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713121783997,
+      "content": "D'envoyer le livreur??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713121773364,
+      "content": "D'accord la livraison va vous coÃ»ter 500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713121651400,
+      "content": "Si tu dÃ©passe madigbÃ©to Impe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713121571423,
+      "content": "C'est dans quel quartier??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713121562313,
+      "content": "Je connais pas"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713121464244,
+      "content": "Ok je suis au niveau de bar Faya 7 ."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713120099002,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713119895665,
+      "content": "Et ses la mÃªme comme la photo ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118810258,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118801970,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118593416,
+      "content": "Oui je veux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118584410,
+      "content": "Vous Ãªtes ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713118538076,
+      "content": "Bonjour c'est disponible vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713117512119,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713117511592,
+      "content": "Anton Paul"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713117508017,
+      "content": "Anton a nommÃ© le groupe Anton Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713117508017,
+      "content": "Anton a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696742809018,
+      "content": "Ok chef je ferai signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696717437135,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696711374553,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696704887431,
+      "content": "Le dernier prix câest combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696704879871,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696704878253,
+      "content": "Salut boss"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696704877997,
+      "content": "Brice vous a proposÃ© 8Â 000Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696704875551,
+      "content": "Brice a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696704875083,
+      "content": "Brice a nommÃ© le groupe Brice Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

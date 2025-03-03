@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701558974280,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701554477315,
+      "content": "Ok d'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701551197011,
+      "content": "Nous sommes Ã  agbalepedo groupe C\n\nPrendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le corner Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701546933478,
+      "content": "Ok d'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463370236,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701457999982,
+      "content": "C'est oÃ¹ votre boutique"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701457954028,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701428465171,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701423910751,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701423909997,
+      "content": "Archile Amega"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701423905962,
+      "content": "Archile a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701423905415,
+      "content": "Archile a nommÃ© le groupe Archile Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

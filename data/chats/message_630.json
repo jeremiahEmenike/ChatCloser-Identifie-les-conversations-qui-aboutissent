@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697999549476,
+      "content": "?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697999544867,
+      "content": "Bonsoir, c'est disponible, vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697996376612,
+      "content": "Ifeanyi David"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697996373517,
+      "content": "Ifeanyi a nommÃ© le groupe Ifeanyi Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697996373517,
+      "content": "Ifeanyi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697996373517,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

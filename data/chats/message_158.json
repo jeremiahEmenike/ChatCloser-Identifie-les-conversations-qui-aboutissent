@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720899610234,
+      "content": "Ton numÃ©ro de tÃ©lÃ©phone"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720899587083,
+      "content": "On peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864913110,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720864668814,
+      "content": "Excuserez le retard je suis a HanoukopÃ© et vous ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720535183363,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720535183041,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720532393986,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720527943328,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720523621748,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720523615200,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720523615023,
+      "content": "Ayi AtassÃ© Ajavon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720523612571,
+      "content": "Ayi AtassÃ© a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720523612276,
+      "content": "Ayi AtassÃ© a nommÃ© le groupe Ayi AtassÃ© Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

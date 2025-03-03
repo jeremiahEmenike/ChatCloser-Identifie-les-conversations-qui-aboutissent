@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700889364562,
+      "content": "Annonces similaires Ã  Â«Â Fer a repasser originalÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700763958082,
+      "content": "15000 dernier prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700761404020,
+      "content": "Je peux prendre Ã§a Ã  12000 svp?'"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700760894161,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700760270072,
+      "content": "Photos rÃ©elle svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700760242527,
+      "content": "15500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700759762774,
+      "content": "Bonjour, c'est Ã  combien ?'"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700759760339,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700759759878,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Fer a repasser original."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700638287166,
+      "content": "8500 svpð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700638163491,
+      "content": "Svp c'est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697618625732,
+      "content": "Bonjour, c'est disponible vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697618417671,
+      "content": "Tony Marcel Desanti Lawson"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697618414288,
+      "content": "Tony Marcel Desanti a nommÃ© le groupe Tony Marcel Desanti Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697618414288,
+      "content": "Tony Marcel Desanti a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697618414288,
+      "content": "Cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

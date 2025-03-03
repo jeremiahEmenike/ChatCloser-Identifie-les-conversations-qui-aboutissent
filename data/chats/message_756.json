@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705151297703,
+      "content": "D'accord, si c'est pour revendre, je peux te laisser l'unitÃ© Ã  7000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705151178678,
+      "content": "Je veux revendre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705150323250,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705149140203,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705149133297,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705149132890,
+      "content": "Junior Seon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705149130278,
+      "content": "Junior a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705149129435,
+      "content": "Junior a nommÃ© le groupe Junior Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052260026,
+      "content": "La livraison va coÃ»ter 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713048665395,
+      "content": "Moi je suis Ã  tokoin ramco"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713048646324,
+      "content": "Oh c'est trop loin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713040353348,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713038226045,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713038214651,
+      "content": "Demande"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012556107,
+      "content": "Bonjour c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713009657152,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713009656647,
+      "content": "WÃ¸lf YÃ¶ung"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713009654168,
+      "content": "WÃ¸lf a nommÃ© le groupe WÃ¸lf Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713009654168,
+      "content": "WÃ¸lf a modifiÃ© la photo du groupe."
+    }
+  ]
+}

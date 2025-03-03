@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720859795365,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720827112132,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720827106830,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720827106512,
+      "content": "Kofi M Mens"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720827104362,
+      "content": "Kofi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720827104069,
+      "content": "Kofi a nommÃ© le groupe Kofi Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

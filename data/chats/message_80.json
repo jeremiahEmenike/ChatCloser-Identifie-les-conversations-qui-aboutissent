@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713720084380,
+      "content": "Oui Ã§a m'intÃ©resse toujours"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712991394024,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712990753825,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712990750012,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712990749705,
+      "content": "Alphonse Banle"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712990747137,
+      "content": "Alphonse a nommÃ© le groupe Alphonse Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712990747137,
+      "content": "Alphonse a modifiÃ© la photo du groupe."
+    }
+  ]
+}

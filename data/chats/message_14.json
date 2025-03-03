@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707558826329,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707554833846,
+      "content": "EntrÃ© Eda oba"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707554826010,
+      "content": "Actuellement je suis dans l'enceinte du lycÃ©e de Tokoin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707554800694,
+      "content": "Oui vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707554773376,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707553983976,
+      "content": "Abel Essoh"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707553983971,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707553978717,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707553977293,
+      "content": "Abel a nommÃ© le groupe Abel Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707553977293,
+      "content": "Abel a modifiÃ© la photo du groupe."
+    }
+  ]
+}

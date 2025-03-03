@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706573095297,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706518337810,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1706478974572,
+      "content": "Ok vous Ãªtes oÃ¹?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701382185578,
+      "content": "Bonsoir c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701380024049,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701380023587,
+      "content": "Inoussa Moustapha Khalil"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701380020359,
+      "content": "Khalil a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701380019906,
+      "content": "Khalil a nommÃ© le groupe Khalil Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

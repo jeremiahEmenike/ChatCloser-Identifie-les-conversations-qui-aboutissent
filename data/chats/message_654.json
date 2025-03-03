@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699969703694,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699969577696,
+      "content": "impossible 8k dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699969562916,
+      "content": "???"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699969557729,
+      "content": "6k"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699969461087,
+      "content": "8500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699968681878,
+      "content": "Oui combien last ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699968592002,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699968484140,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699968479520,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699968478966,
+      "content": "Izack Sitou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699968476669,
+      "content": "Izack a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699968476230,
+      "content": "Izack a nommÃ© le groupe Izack Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

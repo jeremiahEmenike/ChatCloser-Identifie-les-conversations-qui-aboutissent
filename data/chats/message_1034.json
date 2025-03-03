@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720899663267,
+      "content": "Mais on peut vous livrer aussi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720863067813,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862962926,
+      "content": "Vous Ãªtes situer oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862928653,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862928193,
+      "content": "Mounira Bidombe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862925562,
+      "content": "Mounira a nommÃ© le groupe Mounira Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720862925562,
+      "content": "Mounira a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713303608493,
+      "content": "Chacha a vendu Des serviettes de bain 2 en 1."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696186392714,
+      "content": "Oui mais dans les soirÃ©es soirÃ©es vu que je o boulot la journÃ©e"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696184471463,
+      "content": "Je peux passer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696184057307,
+      "content": "98389313"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696181189960,
+      "content": "Envoyer moi votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696181182372,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696094895037,
+      "content": "Rose, bleu, violet, cafÃ©, vert"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696094705054,
+      "content": "Il a quelle couleur ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696094694315,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696093633171,
+      "content": "Je suis a segbÃ© o nivo du bar rasta et vous??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696083209599,
+      "content": "Bonjour, je voudrais 1e serviette. Vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696083209156,
+      "content": "Bonjour, je voudrais 1e serviette. Vous Ãªtes oÃ¹ ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696083206864,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696083206457,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Des serviettes de bain 2 en 1."
+    }
+  ]
+}

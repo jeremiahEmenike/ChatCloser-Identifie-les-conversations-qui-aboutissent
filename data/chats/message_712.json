@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707572944757,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707572070948,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707572070728,
+      "content": "Johnny Kiff"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707572068025,
+      "content": "Johnny a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707572067347,
+      "content": "Johnny a nommÃ© le groupe Johnny Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

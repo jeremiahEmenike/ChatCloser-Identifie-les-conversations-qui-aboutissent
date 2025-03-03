@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721398188131,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721391763861,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721391763185,
+      "content": "Alimiaou Yako"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721391759568,
+      "content": "Alimiaou a nommÃ© le groupe Alimiaou Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721391759568,
+      "content": "Alimiaou a modifiÃ© la photo du groupe."
+    }
+  ]
+}

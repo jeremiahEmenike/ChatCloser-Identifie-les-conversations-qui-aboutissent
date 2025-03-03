@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700487735902,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700479064537,
+      "content": "C'est 8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700476739493,
+      "content": "Oui dernier prix..."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700476343339,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700475492868,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700475487395,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700475487050,
+      "content": "Koffi Afole"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700475484316,
+      "content": "Koffi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700475483853,
+      "content": "Koffi a nommÃ© le groupe Koffi Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

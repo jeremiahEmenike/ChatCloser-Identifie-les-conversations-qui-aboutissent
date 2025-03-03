@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721225803908,
+      "content": "Mais on peut aussi vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721225794820,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721225408076,
+      "content": "Vous Ãªtes Ou ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720976777561,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720975117262,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720975110374,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720975109977,
+      "content": "Alice Ibouko"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720975107060,
+      "content": "Alice a nommÃ© le groupe Alice Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720975107060,
+      "content": "Alice a modifiÃ© la photo du groupe."
+    }
+  ]
+}

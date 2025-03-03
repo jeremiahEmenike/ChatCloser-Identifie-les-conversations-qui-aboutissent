@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697225810713,
+      "content": "Je vous laisse les 3 Ã  23000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697225810464,
+      "content": "Le dernier prix c'est 8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697207378629,
+      "content": "3"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697206900430,
+      "content": "le dernier prix c'est Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697206878352,
+      "content": "Ã§a dÃ©pend"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697206285068,
+      "content": "Bonjour c'est disponible vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697205987766,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697205983035,
+      "content": "Cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697205982596,
+      "content": "Eric Agbo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697205980537,
+      "content": "Eric a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697205980184,
+      "content": "Eric a nommÃ© le groupe Eric Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

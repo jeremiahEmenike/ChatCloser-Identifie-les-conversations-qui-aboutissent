@@ -1,0 +1,105 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794801847,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794797047,
+      "content": "Envoyez moi votre localisation au 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701794785818,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701792054589,
+      "content": "Jusqu'Ã  la maison je veux aujourd'hui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701790568795,
+      "content": "1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701790248723,
+      "content": "Frais ces combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701786024209,
+      "content": "D'accord, on peut vous livrez mais Ã  vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701779752275,
+      "content": "Je ss a dÃ©tiquopÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701778524710,
+      "content": "90361894 c'est mn nmr"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701778460589,
+      "content": "Ã agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701778455423,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701778190858,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701764846636,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701764833071,
+      "content": "Vous avez acceptÃ© lâoffre de Latifatou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701760253782,
+      "content": "Latifatou vous a proposÃ© 2Â 250Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701760223407,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701760217853,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701760217247,
+      "content": "Latifatou Moudachirou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701760215509,
+      "content": "Latifatou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701760214997,
+      "content": "Latifatou a nommÃ© le groupe Latifatou Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

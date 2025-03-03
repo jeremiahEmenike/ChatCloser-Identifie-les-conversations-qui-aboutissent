@@ -1,0 +1,35 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713190791354,
+      "content": "Mon numÃ©ro 97059152"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713008165225,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713007443998,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713007443659,
+      "content": "Dave Turin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713007440284,
+      "content": "Dave a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713007439811,
+      "content": "Dave a nommÃ© le groupe Dave Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

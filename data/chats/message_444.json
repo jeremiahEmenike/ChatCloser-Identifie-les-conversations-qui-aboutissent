@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648033737,
+      "content": "Bonjour sa majestÃ©.\nC'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707639679695,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707639673132,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707639672853,
+      "content": "EssowÃ¨ Adom"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707639670261,
+      "content": "EssowÃ¨ a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707639669520,
+      "content": "EssowÃ¨ a nommÃ© le groupe EssowÃ¨ Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

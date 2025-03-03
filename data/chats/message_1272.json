@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698838492825,
+      "content": "How much do you want??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698838439358,
+      "content": "Hello, yes it's available"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698837215318,
+      "content": "Is this still available?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698837214764,
+      "content": "Stanley Eke Seraph"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698837212319,
+      "content": "Stanley a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698837211828,
+      "content": "Stanley a nommÃ© le groupe Stanley Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

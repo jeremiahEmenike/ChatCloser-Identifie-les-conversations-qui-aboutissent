@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721217671098,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721216319378,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721216313844,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721216313539,
+      "content": "Yvette Yrayra Senawo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721216311060,
+      "content": "Yvette Yrayra a nommÃ© le groupe Yvette Yrayra Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721216311060,
+      "content": "Yvette Yrayra a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721249310967,
+      "content": "Vous allez dire Ã  quel poste vous voulez prendre Ã§a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721245689954,
+      "content": "Ok mais c'est qu'elle poste, oÃ¹ bien n'importe ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721200628736,
+      "content": "1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721200622890,
+      "content": "Livraison par la poste"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721168348930,
+      "content": "Sinon moi je veux sa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721168321980,
+      "content": "Ok mais moi je suis Ã  tchitchao"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721164326961,
+      "content": "Oui 3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721163570628,
+      "content": "On ne vent pas l'unitÃ© ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721161476394,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721161470974,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721154639289,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721154639071,
+      "content": "Hubert Baza"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721154637862,
+      "content": "Hubert a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721154637464,
+      "content": "Hubert a nommÃ© le groupe Hubert Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

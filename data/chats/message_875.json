@@ -1,0 +1,65 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712898214904,
+      "content": "92817645"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712897956758,
+      "content": "D'accord votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712897714569,
+      "content": "OK on ce voir aujourd'hui une fois lÃ  bas je vous appellerai"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712877666055,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712876826469,
+      "content": "Vous Ãªtes ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712876719162,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712876099279,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712875600042,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712875594185,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712875593864,
+      "content": "Lebon Akarre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712875590723,
+      "content": "Lebon a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712875590343,
+      "content": "Lebon a nommÃ© le groupe Lebon Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

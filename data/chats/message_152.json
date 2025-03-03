@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707570061372,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707565815233,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707565814898,
+      "content": "Avaster Artenixe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707565811767,
+      "content": "Avaster a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707565811056,
+      "content": "Avaster a nommÃ© le groupe Avaster Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

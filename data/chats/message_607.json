@@ -1,0 +1,105 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216759756,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216699695,
+      "content": "+228 70885587"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216661466,
+      "content": "Votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216656572,
+      "content": "Okeyy d'accord c'est compris"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216629917,
+      "content": "Si je descends trop, je gagne plus rien moi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216611904,
+      "content": "C'est un bon deal pour nous deux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216583079,
+      "content": "Et grand frÃ¨re"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216439950,
+      "content": "Bon je te laisse les 15 Ã  29000."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216365705,
+      "content": "Donc si possible tu peux me diminuer Ã§a encore Ã§a serait bien comme Ã§a je prendrai Ã§a dans la journÃ©e"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216320081,
+      "content": "C'est pour revendre aussi hein"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216251548,
+      "content": "NN je vous laisse Ã§a Ã  2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216054492,
+      "content": "Si je veux prendre 15 piÃ¨ces Ã§a serait Ã  2500f encore ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712216028730,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712214588462,
+      "content": "Prix unitaire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712214549579,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712214549132,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712206366160,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712206365771,
+      "content": "Homeglo Jacques"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712206362790,
+      "content": "Homeglo a nommÃ© le groupe Homeglo Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712206362790,
+      "content": "Homeglo a modifiÃ© la photo du groupe."
+    }
+  ]
+}

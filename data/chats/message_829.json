@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693515799,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693515560,
+      "content": "D'accord c'est a 2500 l'unitÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712691342244,
+      "content": "Je veux erpowde"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712691334856,
+      "content": "Je veux erpowde"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712691299613,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712691299445,
+      "content": "Komi Kondo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712691297343,
+      "content": "Komi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712691297229,
+      "content": "Komi a nommÃ© le groupe Komi Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721050800169,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721050777952,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721050754671,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721047877938,
+      "content": "L'Ã©couteur bluerooth pro 6 ."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721047802831,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721047796049,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721047795489,
+      "content": "Follykue Adanlete"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721047792223,
+      "content": "Follykue a nommÃ© le groupe Follykue Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721047792223,
+      "content": "Follykue a modifiÃ© la photo du groupe."
+    }
+  ]
+}

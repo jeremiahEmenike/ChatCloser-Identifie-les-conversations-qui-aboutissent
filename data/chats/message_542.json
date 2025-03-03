@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701345068561,
+      "content": "Pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701344394595,
+      "content": "2000f possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294407123,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294361450,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294355630,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294355315,
+      "content": "GÃ©nie Bik"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294352771,
+      "content": "GÃ©nie a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294352458,
+      "content": "GÃ©nie a nommÃ© le groupe GÃ©nie Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

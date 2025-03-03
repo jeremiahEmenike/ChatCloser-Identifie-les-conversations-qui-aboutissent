@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197305925,
+      "content": "Vous avez combien pour la livraison??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713197230878,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713186586464,
+      "content": "Non laisse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183387116,
+      "content": "D'accord on peut vous livrer Ã  1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183318850,
+      "content": "Zone portuaire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183226224,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183217278,
+      "content": "On peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183199184,
+      "content": "C'est trop loin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183048270,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183041206,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713147649797,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713147602389,
+      "content": "Dans quel Ã©tat est cet article ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713147601856,
+      "content": "Koame GÃ©rard Attikpo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713147599079,
+      "content": "Koame GÃ©rard a nommÃ© le groupe Koame GÃ©rard Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713147599079,
+      "content": "Koame GÃ©rard a modifiÃ© la photo du groupe."
+    }
+  ]
+}

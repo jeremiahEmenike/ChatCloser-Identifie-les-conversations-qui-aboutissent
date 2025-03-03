@@ -1,0 +1,95 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696873740453,
+      "content": "Si vous pouvez m'envoyer la gÃ©olocalisation sur le 70457870"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696873740165,
+      "content": "Non c'est Ã  la maison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696873721342,
+      "content": "Ok c'est une boutique ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696873713020,
+      "content": "Vous allez venir aujourd'hui ?'"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696873511101,
+      "content": "Prendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le coin Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696873508629,
+      "content": "Agbalepedo groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696871456096,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696871336715,
+      "content": "Oui oui j'ai vu les prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696871319269,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696871308166,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696871304109,
+      "content": "Juste une si possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696871297534,
+      "content": "Combien hein"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696871292745,
+      "content": "ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696870839873,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696870745473,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696870744944,
+      "content": "Manu Kaky"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696870742639,
+      "content": "Manu a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696870742300,
+      "content": "Manu a nommÃ© le groupe Manu Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

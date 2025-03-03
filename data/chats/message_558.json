@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712836591826,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712836468212,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712836461551,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712828893250,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712828888206,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712828887881,
+      "content": "Gilbertus Dweggah"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712828884855,
+      "content": "Gilbertus a nommÃ© le groupe Gilbertus Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712828884855,
+      "content": "Gilbertus a modifiÃ© la photo du groupe."
+    }
+  ]
+}

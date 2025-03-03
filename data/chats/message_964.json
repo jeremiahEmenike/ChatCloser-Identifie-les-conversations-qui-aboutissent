@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707841385387,
+      "content": "?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707841385277,
+      "content": "Oui oui, vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707826945877,
+      "content": "Dites stp je peux me faire livrer ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444543140,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701434486214,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701434482175,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701434481555,
+      "content": "Martine Light"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701434479473,
+      "content": "Martine a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701434478898,
+      "content": "Martine a nommÃ© le groupe Martine Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

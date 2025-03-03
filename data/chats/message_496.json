@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697023918230,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697013326116,
+      "content": "Oki jâai 5k"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697013255809,
+      "content": "C'est le tout qu'on vend"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697012894159,
+      "content": "Sans lâÃ©couteur câest Cb?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697012840120,
+      "content": "Bonjour c'est disponible, vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697007466840,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697007461875,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697007460438,
+      "content": "FÃ®acrÃµ a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697007460056,
+      "content": "FÃ®acrÃµ a nommÃ© le groupe FÃ®acrÃµ Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

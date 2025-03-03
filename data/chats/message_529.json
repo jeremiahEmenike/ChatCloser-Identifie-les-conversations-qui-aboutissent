@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701375426006,
+      "content": "Bonjour c'est disponible\n\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701371062719,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701371062346,
+      "content": "Fredrich Dossou-yovo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701371060602,
+      "content": "Fredrich a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701371060396,
+      "content": "Fredrich a nommÃ© le groupe Fredrich Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

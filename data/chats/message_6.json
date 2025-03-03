@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713993827631,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713993720139,
+      "content": "Hummmm, c'est loin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713993679109,
+      "content": "AgbÃ©louve"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713993650000,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713993635178,
+      "content": "Une"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713993618637,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713993614551,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713993399335,
+      "content": "C'est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713959462173,
+      "content": "Il reste que Ã§a"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713959453333,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713959437418,
+      "content": "C'est fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713897011780,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713196746507,
+      "content": "Bonjour c'est disponible vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713195102787,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713195102454,
+      "content": "AbbÃ© ChÃ©ri Djogli Pro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713195098952,
+      "content": "AbbÃ© ChÃ©ri a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713195098583,
+      "content": "AbbÃ© ChÃ©ri a nommÃ© le groupe AbbÃ© ChÃ©ri Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

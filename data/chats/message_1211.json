@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694168744934,
+      "content": "Okk"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694168668413,
+      "content": "On attend une nouvelle commande la semaine prochaine"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694168640931,
+      "content": "Bonjour pour le moment c'est en rupture"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694106202246,
+      "content": "Cc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693681002789,
+      "content": "Bonsoir, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693681002497,
+      "content": "Sad Tchago"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693681000939,
+      "content": "Sad a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693681000773,
+      "content": "Sad a nommÃ© le groupe Sad Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

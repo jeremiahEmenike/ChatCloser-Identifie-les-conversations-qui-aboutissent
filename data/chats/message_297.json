@@ -1,0 +1,95 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703368773856,
+      "content": "Au minimum 9000 dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703368760487,
+      "content": "Pour ce modÃ¨le c'est trÃ¨s insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703366728533,
+      "content": "7500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703366690858,
+      "content": "Vous avez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703360752188,
+      "content": "Mais last svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703168390329,
+      "content": "Vous le voulez??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703158890068,
+      "content": "Okay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703158233349,
+      "content": "Celui lÃ , c'est Ã  10500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703156569165,
+      "content": "Et c'est Ã  8000 ou bien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703154274465,
+      "content": "Il ne reste que celui ci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703154267143,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1703116489452,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702832706432,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702831392179,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702831386080,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702831385858,
+      "content": "Daniell Kola"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702831383305,
+      "content": "Daniell a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702831382689,
+      "content": "Daniell a nommÃ© le groupe Daniell Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

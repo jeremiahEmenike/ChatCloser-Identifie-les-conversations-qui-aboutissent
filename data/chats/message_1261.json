@@ -1,0 +1,70 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721345486593,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721261258424,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721258167176,
+      "content": "Ok ton numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720641397966,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720640061569,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720636564876,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720632675688,
+      "content": "Tu me laisse Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720595991662,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720595987385,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720556351263,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720556350834,
+      "content": "Rufus Smess"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720556348566,
+      "content": "Smess a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720556348095,
+      "content": "Smess a nommÃ© le groupe Smess Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

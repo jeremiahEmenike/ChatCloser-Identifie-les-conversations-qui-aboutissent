@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710370843916,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710370840332,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710370833397,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710370833062,
+      "content": "Koara SaÃ¯ba"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710370829612,
+      "content": "Koara a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1710370828904,
+      "content": "Koara a nommÃ© le groupe Koara Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    }
+  ]
+}

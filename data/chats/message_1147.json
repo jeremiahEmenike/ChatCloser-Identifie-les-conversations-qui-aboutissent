@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699558806110,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699558792803,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699558785167,
+      "content": "DÃ©solÃ© je ne fais pas de deal"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699558681045,
+      "content": "J'ai 2 tÃ©lÃ©phone que je veux donner en Ã©change"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699558642020,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699558588813,
+      "content": "Un le last prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699558404526,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699558398145,
+      "content": "Bonsoir, c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699558281824,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699558281538,
+      "content": "RÃ£Ã¯dÃ¬nhÃ¸ RÃ¼z Kiko Jr."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699558279911,
+      "content": "RÃ£Ã¯dÃ¬nhÃ¸ RÃ¼z a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699558279697,
+      "content": "RÃ£Ã¯dÃ¬nhÃ¸ RÃ¼z a nommÃ© le groupe RÃ£Ã¯dÃ¬nhÃ¸ RÃ¼z Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

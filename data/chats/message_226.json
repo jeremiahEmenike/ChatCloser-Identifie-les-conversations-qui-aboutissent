@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701073420478,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701073419959,
+      "content": "Bugsolo RJ"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701073417910,
+      "content": "Bugsolo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701073417298,
+      "content": "Bugsolo a nommÃ© le groupe Bugsolo Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

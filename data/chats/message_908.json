@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658509448,
+      "content": "Bonjour c'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658493630,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712617690339,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712617685244,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712617684791,
+      "content": "Louise Mawunya AZ"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712617681361,
+      "content": "Louise a nommÃ© le groupe Louise Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712617681361,
+      "content": "Louise a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712658445064,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712633412202,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712633407517,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712633407335,
+      "content": "Marouf Oukpedjo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712633404392,
+      "content": "Marouf a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712633404063,
+      "content": "Marouf a nommÃ© le groupe Marouf Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

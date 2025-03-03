@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721420466417,
+      "content": "Bonsoir c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721420001157,
+      "content": "Bonsoir, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721420000694,
+      "content": "LÃ© Wis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721419998731,
+      "content": "LÃ© a nommÃ© le groupe LÃ© Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721419998731,
+      "content": "LÃ© a modifiÃ© la photo du groupe."
+    }
+  ]
+}

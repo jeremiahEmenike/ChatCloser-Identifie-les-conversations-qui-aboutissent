@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713043601507,
+      "content": "Pardon le prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713043574097,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713037491966,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713036724889,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713036717193,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713036716997,
+      "content": "Jean Hounsou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713036714146,
+      "content": "Jean a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713036713709,
+      "content": "Jean a nommÃ© le groupe Jean Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712688095533,
+      "content": "Legbassito carrefour avinato mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712665350099,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712665313864,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712665313479,
+      "content": "Gabiam Daniel"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712665310325,
+      "content": "Gabiam a nommÃ© le groupe Gabiam Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712665310325,
+      "content": "Gabiam a modifiÃ© la photo du groupe."
+    }
+  ]
+}

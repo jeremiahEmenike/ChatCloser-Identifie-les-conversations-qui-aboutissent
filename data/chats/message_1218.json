@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034949463,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034884593,
+      "content": "c'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034684341,
+      "content": "J ai 2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034666161,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034654605,
+      "content": "Last"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034635104,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034578463,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034561852,
+      "content": "Y as pas bleue"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034535981,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034478896,
+      "content": "Je prend ce matin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034473189,
+      "content": "Tof"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034420920,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034226908,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034218534,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034218234,
+      "content": "Sam Vano"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034214989,
+      "content": "Sam a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721034214569,
+      "content": "Sam a nommÃ© le groupe Sam Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

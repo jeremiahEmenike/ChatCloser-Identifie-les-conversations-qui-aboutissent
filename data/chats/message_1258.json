@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437359431,
+      "content": "DÃ©solÃ© pour le silence en rÃ©alitÃ© l'ancien stock Ã©tait fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437216288,
+      "content": "Oui c'est disponible Ã  2500 un nouveau stock vient d'arriver"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701801744790,
+      "content": "SÃ­r RÃ¼fÄ©n"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701801742461,
+      "content": "SÃ­r a nommÃ© le groupe SÃ­r Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701801742461,
+      "content": "SÃ­r a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701801742461,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713216006012,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213930571,
+      "content": "Nous sommes Ã  legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213917636,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213506217,
+      "content": "Je veux juste un si c'est possible. Merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213201385,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713209083020,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713209078676,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713209078257,
+      "content": "Lawson Bruno Late"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713209074182,
+      "content": "Late a nommÃ© le groupe Late Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713209074182,
+      "content": "Late a modifiÃ© la photo du groupe."
+    }
+  ]
+}

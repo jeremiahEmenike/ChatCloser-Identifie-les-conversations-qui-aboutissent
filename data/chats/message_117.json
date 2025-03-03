@@ -1,0 +1,35 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707956767164,
+      "content": "https://wa.me/79425233"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707951683397,
+      "content": "Bonjour c'est disponible. \nNous avons le blanc et le noir\nVous voulez laquelle??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707948036447,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707948036066,
+      "content": "AÃ±tÃ¸Ä±Ã±Ä Mandje"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707948034046,
+      "content": "AÃ±tÃ¸Ä±Ã±Ä a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707948033493,
+      "content": "AÃ±tÃ¸Ä±Ã±Ä a nommÃ© le groupe AÃ±tÃ¸Ä±Ã±Ä Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

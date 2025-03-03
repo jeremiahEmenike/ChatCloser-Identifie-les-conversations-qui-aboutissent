@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713091047898,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713091041820,
+      "content": "Au lieu de 7500 je vous laisse Ã§a Ã  7000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052300833,
+      "content": "Si je veux payer 3ca va revenir Ã  combien mr"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052276483,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052219675,
+      "content": "Bonjour\nC'est disponible Ã  2500 vous voulez Ã§a pour quand ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052198290,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052197908,
+      "content": "Nellay Alaki"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052195920,
+      "content": "Nellay a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052195531,
+      "content": "Nellay a nommÃ© le groupe Nellay Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

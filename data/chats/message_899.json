@@ -1,0 +1,95 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697488729179,
+      "content": "Ãa a des applications sur Ã§a ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697488712073,
+      "content": "Le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697488659656,
+      "content": "Non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697488648992,
+      "content": "Ãa prend sim?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697488029627,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697488000745,
+      "content": "Agbalepedo groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697487211327,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697487206196,
+      "content": "Photos svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697476304923,
+      "content": "Tu reÃ§ois les appels, les messages, tu prends des photos"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697476287776,
+      "content": "Tu connectes Ã§a au tÃ©lÃ©phone et tu contrÃ´le le tÃ©lÃ©phone depuis la montre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697455343375,
+      "content": "Et comment Ã§a fonctionne"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697455335530,
+      "content": "Le prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697434685180,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697410688985,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697410683995,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697410683623,
+      "content": "Lolonyo Phados Zewu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697410681244,
+      "content": "Lolonyo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697410680856,
+      "content": "Lolonyo a nommÃ© le groupe Lolonyo Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

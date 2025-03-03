@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709825978321,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709815155850,
+      "content": "J'ai 5k"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709803790066,
+      "content": "Bonjour c'est disponible\nVous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709774056781,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709774056623,
+      "content": "Bille Smart"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709774054717,
+      "content": "Bille a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709774054442,
+      "content": "Bille a nommÃ© le groupe Bille Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    }
+  ]
+}

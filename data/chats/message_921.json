@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714075049968,
+      "content": "Je suis Ã  BÃ¨ chÃ¢teau"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714075036803,
+      "content": "Je veux un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713024291477,
+      "content": "Bonjour, c'est disponible. Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713021984622,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713021984238,
+      "content": "Lumen Awayiga"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713021981088,
+      "content": "Lumen a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713021981087,
+      "content": "Lumen a nommÃ© le groupe Lumen Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720678327507,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720678310263,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720678266112,
+      "content": "2000 avec transport"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720678211667,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720678053180,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720678053094,
+      "content": "Un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720646235654,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720646228623,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720643476953,
+      "content": "DÃ©solÃ©, il nâest pas disponible."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720643280115,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720643270827,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720643270251,
+      "content": "Lawson Tevi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720643267280,
+      "content": "Lawson a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720643266836,
+      "content": "Lawson a nommÃ© le groupe Lawson Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

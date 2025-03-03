@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713529218987,
+      "content": "c'est tout sa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713529186285,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713529185904,
+      "content": "FidÃ¨le Agbomadzi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713529183493,
+      "content": "FidÃ¨le a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713529183180,
+      "content": "FidÃ¨le a nommÃ© le groupe FidÃ¨le Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

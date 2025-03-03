@@ -1,0 +1,95 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376561546,
+      "content": "Hello"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701097841014,
+      "content": "Oui lÃ  livraison est possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701097641583,
+      "content": "Agbalepedo groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701097069723,
+      "content": "Vous faites livraison ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701097063859,
+      "content": "Svp vous Ãªtes a quel niveau"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700921429781,
+      "content": "Oui magnÃ©tique"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700920557809,
+      "content": "MagnÃ©tique ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700920540427,
+      "content": "C'est quelle chargeur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700920525464,
+      "content": "Celui d'en haut a 10500 ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700908648286,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700908627221,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700908616276,
+      "content": "Il y a pour 8500 et pour 10500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700906434954,
+      "content": "C'est a combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700906316838,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700906286008,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700906285552,
+      "content": "Adjovi Veve"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700906283787,
+      "content": "Adjovi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700906283438,
+      "content": "Adjovi a nommÃ© le groupe Adjovi Â· Montre et ecouteur sans fil (S8 Ultra 8)."
+    }
+  ]
+}

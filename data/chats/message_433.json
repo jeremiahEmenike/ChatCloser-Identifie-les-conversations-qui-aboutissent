@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713362397445,
+      "content": "Ernesto Esse vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713362391574,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713362391198,
+      "content": "Ernesto Esse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713362388358,
+      "content": "Ernesto a nommÃ© le groupe Ernesto Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713362388358,
+      "content": "Ernesto a modifiÃ© la photo du groupe."
+    }
+  ]
+}

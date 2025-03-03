@@ -1,0 +1,135 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708868830237,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708852441710,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708807424465,
+      "content": "Merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708725485891,
+      "content": "91660227"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708724526620,
+      "content": "Votre numÃ©ro je vais vous envoyer la localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708724509447,
+      "content": "Vers le carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708723646063,
+      "content": "Je passerai demain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708723634607,
+      "content": "Vous Ãªtes Ã  quel niveau de legbassito ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708700735277,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708643710312,
+      "content": "Bsr"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708446870967,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708384738024,
+      "content": "Pas de soucie"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708379040535,
+      "content": "?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708379032405,
+      "content": "Cc bsr s'il vous plaÃ®t je peux passer samedi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010545029,
+      "content": "Vous prÃ©voyez venir quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708010533525,
+      "content": "D'accord sans soucis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708006511183,
+      "content": "Je viendrai prendre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708002076896,
+      "content": "Mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708002072606,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707983397136,
+      "content": "S'il vous plaÃ®t vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707865437403,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707861973605,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707861967649,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707861967479,
+      "content": "Lucia Kaxo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707861965243,
+      "content": "Lucia a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707861964508,
+      "content": "Lucia a nommÃ© le groupe Lucia Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721308750258,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721308625789,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721308619653,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721308619094,
+      "content": "Aimee Amenyido"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721308616726,
+      "content": "Aimee a nommÃ© le groupe Aimee Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721308616726,
+      "content": "Aimee a modifiÃ© la photo du groupe."
+    }
+  ]
+}

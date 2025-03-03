@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713388632821,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713388632406,
+      "content": "Gilbert Avinou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713388630430,
+      "content": "Gilbert a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713388630111,
+      "content": "Gilbert a nommÃ© le groupe Gilbert Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

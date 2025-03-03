@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701720439913,
+      "content": "Oui, c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701718718454,
+      "content": "Bernadette Maathay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701718715477,
+      "content": "Bernadette a nommÃ© le groupe Bernadette Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701718715477,
+      "content": "Bernadette a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701718715477,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    }
+  ]
+}

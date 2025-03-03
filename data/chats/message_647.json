@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704529107975,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704527366025,
+      "content": "Jâai 7000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704527210106,
+      "content": "Ã  9500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704527200242,
+      "content": "Bonjour voici ce qui est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704527189558,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704527181005,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704527024060,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704527016361,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704527016159,
+      "content": "ÃsÃ¢Ã§ LÃ« WÃ®sÃ«"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704527013456,
+      "content": "ÃsÃ¢Ã§ a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704527012849,
+      "content": "ÃsÃ¢Ã§ a nommÃ© le groupe ÃsÃ¢Ã§ Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

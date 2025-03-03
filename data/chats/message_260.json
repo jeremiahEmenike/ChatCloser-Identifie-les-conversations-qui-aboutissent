@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869780562,
+      "content": "PiÃ¨ce jointe indisponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869773429,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869773003,
+      "content": "Christiane Ouadja"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869769568,
+      "content": "Christiane a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701869769160,
+      "content": "Christiane a nommÃ© le groupe Christiane Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

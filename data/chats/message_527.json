@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330810842,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701316836284,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701316830318,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701316830041,
+      "content": "Fredo Diez"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701316828012,
+      "content": "Fredo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701316827407,
+      "content": "Fredo a nommÃ© le groupe Fredo Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

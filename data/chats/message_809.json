@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713288129563,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713286003722,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713285996417,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713285996017,
+      "content": "Kodzo Mawulawoe Dake"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713285992939,
+      "content": "Kodzo Mawulawoe a nommÃ© le groupe Kodzo Mawulawoe Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713285992939,
+      "content": "Kodzo Mawulawoe a modifiÃ© la photo du groupe."
+    }
+  ]
+}

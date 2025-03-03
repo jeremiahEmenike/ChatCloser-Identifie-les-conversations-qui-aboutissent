@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701364263780,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701364077361,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701363927165,
+      "content": "C est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701295415455,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294837031,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294832398,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294831757,
+      "content": "Fareed Yesufu"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294829871,
+      "content": "Fareed a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294829371,
+      "content": "Fareed a nommÃ© le groupe Fareed Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

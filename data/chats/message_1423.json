@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707659356743,
+      "content": "Nous sommes Ã  agbalepedo groupe C, vous pouvez passer prendre ou on peut vous livrer Ã  vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707651162967,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648079729,
+      "content": "Bonjour sa majestÃ©.\nC'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707576756075,
+      "content": "Yaovi Danoipo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707576751982,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707576750413,
+      "content": "Yaovi a nommÃ© le groupe Yaovi Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707576750413,
+      "content": "Yaovi a modifiÃ© la photo du groupe."
+    }
+  ]
+}

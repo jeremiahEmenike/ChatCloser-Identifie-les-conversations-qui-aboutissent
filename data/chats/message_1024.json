@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712577353751,
+      "content": "Vous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712577347562,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712564543414,
+      "content": "DjidjolÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562569410,
+      "content": "Mais si vous voulez on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712562558747,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712543806027,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523945089,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523071811,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523068046,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523067667,
+      "content": "MoÃ¯se Melonkou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523064627,
+      "content": "MoÃ¯se a nommÃ© le groupe MoÃ¯se Â· Ãcouteurs sans fil Pro 6 New. VENTE EN GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712523064627,
+      "content": "MoÃ¯se a modifiÃ© la photo du groupe."
+    }
+  ]
+}

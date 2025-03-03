@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708002117096,
+      "content": "1000 de livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708002063972,
+      "content": "ADETIKOPE"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708002056374,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708002052017,
+      "content": "Ok cool"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707984978927,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707979116814,
+      "content": "Bonjour, c'est disponible. Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707979113481,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707964822586,
+      "content": "2500 Fr ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707964798391,
+      "content": "Ouo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707659140295,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707658653758,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707658647750,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707658647540,
+      "content": "Composite Man"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707658645208,
+      "content": "Composite a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707658644520,
+      "content": "Composite a nommÃ© le groupe Composite Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696717459122,
+      "content": "Vous allez passer quand ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696703869324,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696699334099,
+      "content": "Agbalepedo groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696698883653,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696698834643,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696698614997,
+      "content": "On prend appelle sur Ã§a si on est connectÃ© ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696698559655,
+      "content": "Non, Ã§a se connecte au portable par bluetooth"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696697305586,
+      "content": "Il prend la carte SIM"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696690628032,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696688108249,
+      "content": "Câest Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696688031137,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696687183406,
+      "content": "Gyu Nuage"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696687183376,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696687178980,
+      "content": "Gyu a nommÃ© le groupe Gyu Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696687178980,
+      "content": "Gyu a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696687178980,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    }
+  ]
+}

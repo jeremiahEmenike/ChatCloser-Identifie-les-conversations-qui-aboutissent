@@ -1,0 +1,65 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714661492693,
+      "content": "Vous nâavez pas luÂ : Mais on livre aussi partout Ã  LomÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714652651257,
+      "content": "Vous nâavez pas luÂ : 70245500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714641288168,
+      "content": "70245500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714640137826,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714640128803,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714639075816,
+      "content": "Mais on livre aussi partout Ã  LomÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714639062959,
+      "content": "ATTIEGOU oando"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714639055641,
+      "content": "Oui câest disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714585366115,
+      "content": "Bonjour vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714585345776,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714585342876,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714585342498,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Vente des rideaux et des tiges rideaux."
+    }
+  ]
+}

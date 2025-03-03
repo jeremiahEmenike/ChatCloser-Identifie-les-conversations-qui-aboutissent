@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707841385320,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707829929178,
+      "content": "??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707818749848,
+      "content": "Vous vous situez oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707818742287,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816783706,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816585627,
+      "content": "C'est Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816577855,
+      "content": "Oui-Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707816437969,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707815875614,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707815870133,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707815869955,
+      "content": "AurÃ©ole Bassah"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707815867911,
+      "content": "AurÃ©ole a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707815867175,
+      "content": "AurÃ©ole a nommÃ© le groupe AurÃ©ole Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

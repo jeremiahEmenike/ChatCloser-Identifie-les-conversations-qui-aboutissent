@@ -1,0 +1,15 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1691586646409,
+      "content": "Bienvenue chez HOF\nNous vous proposons : le pantalon Ã  4000 f CFA/3 Ã  10000 f CFA, la chemise Ã  3000 f CFA/4 Ã  10000 f CFA, le t-shirt Ã  3000 f CFA/ 4 Ã  10000 f CFA. âï¸(+228)91526122 Nous sommes situÃ©s Ã  TOTSI Gblinkome prÃ¨s du centre des tÃ©moins de JÃ©hovah plus prÃ©cisÃ©ment au carrefour de l'amitiÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1691586645854,
+      "content": "Vous avez ouvert cette conversation via une publicitÃ©. Lorsque vous rÃ©pondrez, HOF . House Of Frippery pourra voir vos informations publiques et sur quelle publicitÃ© vous avez cliquÃ©."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713104413565,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713104285056,
+      "content": "Bonjour, vous Ãªtes situÃ©s oÃ¹ svp ????? ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713104284641,
+      "content": "Leonard Bagna"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713104281792,
+      "content": "Leonard a nommÃ© le groupe Leonard Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713104281792,
+      "content": "Leonard a modifiÃ© la photo du groupe."
+    }
+  ]
+}

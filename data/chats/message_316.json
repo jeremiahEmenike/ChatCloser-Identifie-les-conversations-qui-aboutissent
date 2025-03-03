@@ -1,0 +1,50 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697388751558,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697377695215,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697377303223,
+      "content": "Je vous est Ã©crit sur WhatsApp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697377268142,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697377265697,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697376853287,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697376852900,
+      "content": "David Bola"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697376850211,
+      "content": "David a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697376849824,
+      "content": "David a nommÃ© le groupe David Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

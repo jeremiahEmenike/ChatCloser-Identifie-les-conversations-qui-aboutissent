@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720987050662,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720985070971,
+      "content": "Bien sÃ»r"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720812866163,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720812715601,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720812704957,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720812704381,
+      "content": "Germain Tihye"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720812701875,
+      "content": "Germain a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720812701428,
+      "content": "Germain a nommÃ© le groupe Germain Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

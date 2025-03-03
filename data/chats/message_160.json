@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699180630488,
+      "content": "8 dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699180471121,
+      "content": "7"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699180436536,
+      "content": "C'est pas possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699180340210,
+      "content": "5k"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699132184737,
+      "content": "Bonjour, c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699128833822,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699128833353,
+      "content": "Ouro Aymane"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699128830851,
+      "content": "Aymane a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699128830465,
+      "content": "Aymane a nommÃ© le groupe Aymane Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

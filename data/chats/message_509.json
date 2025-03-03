@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720794328634,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720794328110,
+      "content": "Fousseni Salifououne"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720794324566,
+      "content": "Fousseni a nommÃ© le groupe Fousseni Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720794324566,
+      "content": "Fousseni a modifiÃ© la photo du groupe."
+    }
+  ]
+}

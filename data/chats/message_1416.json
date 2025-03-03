@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707809467578,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707809017299,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707809017122,
+      "content": "Yacoub Boko"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707809014629,
+      "content": "Yacoub a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707809013891,
+      "content": "Yacoub a nommÃ© le groupe Yacoub Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

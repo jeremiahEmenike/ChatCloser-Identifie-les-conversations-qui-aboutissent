@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713378345825,
+      "content": "Sirose Gmg vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713378336382,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713378335996,
+      "content": "Sirose Gmg"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713378333150,
+      "content": "Sirose a nommÃ© le groupe Sirose Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713378333150,
+      "content": "Sirose a modifiÃ© la photo du groupe."
+    }
+  ]
+}

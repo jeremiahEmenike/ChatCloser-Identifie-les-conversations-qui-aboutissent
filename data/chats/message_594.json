@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702143773424,
+      "content": "D'accord, vous Ãªtes toujours intÃ©ressÃ©??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702143747147,
+      "content": "La montre ne prend pas de sim"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702143719118,
+      "content": "D'avance"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701985425982,
+      "content": "Oui sa m, intÃ©ressent je suis a bÃ¨"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701985404577,
+      "content": "?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701985398757,
+      "content": "La montre prend la puce"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701974410653,
+      "content": "Il ne reste que Ã§a Ã  10500\nVous Ãªtes intÃ©ressÃ©?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701974338195,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701968903398,
+      "content": "Henri Lawson"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701968900884,
+      "content": "Henri a nommÃ© le groupe Henri Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701968900884,
+      "content": "Henri a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701968900884,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

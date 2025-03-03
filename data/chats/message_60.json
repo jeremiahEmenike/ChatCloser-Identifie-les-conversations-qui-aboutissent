@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740783170,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712740778424,
+      "content": "Legbassito carrefour avinato mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712738360478,
+      "content": "Vous Ãªtes basÃ© oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712738200948,
+      "content": "Vous voulez Ã§a aujourd'hui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712737227990,
+      "content": "Ok merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712735725554,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712733361606,
+      "content": "L'unitÃ© est Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712730696893,
+      "content": "Bonjour, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712730693086,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712707581668,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712707577440,
+      "content": "C'est Ã  combien les sans fil?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712707577040,
+      "content": "Alex Gordon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712707574061,
+      "content": "Alex a nommÃ© le groupe Alex Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712707574061,
+      "content": "Alex a modifiÃ© la photo du groupe."
+    }
+  ]
+}

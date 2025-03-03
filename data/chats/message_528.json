@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714910620301,
+      "content": "Non la semaine sur prochain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714551912356,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714551907613,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714551900510,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714551888400,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714551888197,
+      "content": "Fredrich Dossou-yovo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714551886387,
+      "content": "Fredrich a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714551886221,
+      "content": "Fredrich a nommÃ© le groupe Fredrich Â· Coffret Montre connectÃ©e et Ã©couteur sans fil Bluetooth W26."
+    }
+  ]
+}

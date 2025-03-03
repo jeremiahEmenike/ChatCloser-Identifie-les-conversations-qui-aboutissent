@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648047854,
+      "content": "Bonjour sa majestÃ©.\nC'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707634330343,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707634329964,
+      "content": "Bright Placide Kouma"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707634327480,
+      "content": "Bright a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707634327053,
+      "content": "Bright a nommÃ© le groupe Bright Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

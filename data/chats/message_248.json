@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116521021,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116222393,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116213537,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116213039,
+      "content": "Charly Jaguar Torrero"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116209958,
+      "content": "Charly Jaguar a nommÃ© le groupe Charly Jaguar Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116209958,
+      "content": "Charly Jaguar a modifiÃ© la photo du groupe."
+    }
+  ]
+}

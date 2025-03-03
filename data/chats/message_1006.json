@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720996393402,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720996121549,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720996114716,
+      "content": "Bonsoir, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720996114242,
+      "content": "Michel Klouvi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720996111848,
+      "content": "Michel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720996111392,
+      "content": "Michel a nommÃ© le groupe Michel Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

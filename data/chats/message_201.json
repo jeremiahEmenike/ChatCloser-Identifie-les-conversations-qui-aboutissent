@@ -1,0 +1,75 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708201732860,
+      "content": "97579943"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708201698711,
+      "content": "Votre numÃ©ro je vous envoie la localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708201622346,
+      "content": "C'est vers oÃ¹ Ã§a ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708201587826,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708201574844,
+      "content": "Je peux le prendre oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708201566014,
+      "content": "Okay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708201547947,
+      "content": "C'est Ã  2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708201389656,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707865494775,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707859612365,
+      "content": "Ahamani Enode Bil"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707859612351,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707859603332,
+      "content": "Bonjour, cet article est-il disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707859601584,
+      "content": "Bil a nommÃ© le groupe Bil Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707859601584,
+      "content": "Bil a modifiÃ© la photo du groupe."
+    }
+  ]
+}

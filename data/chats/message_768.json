@@ -1,0 +1,130 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445638134,
+      "content": "90468866"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445615780,
+      "content": "Votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445600220,
+      "content": "Svp envoyer moi votre gÃ©olocalisation si possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445558459,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445475856,
+      "content": "Vous Ãªtes situÃ© oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444708052,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444704232,
+      "content": "La livraison va vous coÃ»ter 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701443490394,
+      "content": "Je suis Ã  AgoÃ¨ Adjougba, proche de la CEET Ãchangeur. Et vous ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701443450888,
+      "content": "Vous Ãªtes oÃ¹ pour la livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701443441961,
+      "content": "Il ne reste que le blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701429073726,
+      "content": "Comment se fait la livraison ?!"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701429063238,
+      "content": "Quelles sont les couleurs disponibles ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701429053205,
+      "content": "La batterie peut durer combien de temps ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701428408528,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701428046262,
+      "content": "Ok, les photos"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701427881715,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701427367530,
+      "content": "Envoyer moi les photos merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701427336538,
+      "content": "Le prix exact c'est combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701427325106,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701415294835,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701382764620,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701382757372,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701382757047,
+      "content": "Utilisateur Facebook a envoyÃ© une piÃ¨ce jointe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701382754449,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701382753816,
+      "content": "Un contact a nommÃ© le groupe Kawiyou Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

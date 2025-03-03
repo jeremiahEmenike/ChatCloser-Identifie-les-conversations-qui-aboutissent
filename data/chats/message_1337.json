@@ -1,0 +1,50 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720302646876,
+      "content": "Annonces similaires Ã  Â«Â Brosse Ã  toilettesÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720173138956,
+      "content": "Vous Ãªtes situÃ©s oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720173130406,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720173102896,
+      "content": "Votre contact svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720173099653,
+      "content": "Disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720173096053,
+      "content": "Oui c'est"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720173043343,
+      "content": "Bonjour Lena, vous Ãªtes oÃ¹?? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720173040203,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720173039746,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Brosse Ã  toilettes."
+    }
+  ]
+}

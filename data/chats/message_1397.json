@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705448240787,
+      "content": "9000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705442358733,
+      "content": "C'est Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705362557613,
+      "content": "C'est celui ci qui est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705362548627,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705362536775,
+      "content": "Bonsoir c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705356310790,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705356310569,
+      "content": "Viviane Berly"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705356307894,
+      "content": "Viviane a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1705356307224,
+      "content": "Viviane a nommÃ© le groupe Viviane Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

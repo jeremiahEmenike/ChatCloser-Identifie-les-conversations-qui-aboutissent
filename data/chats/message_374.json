@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721243640707,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721241579291,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721241578875,
+      "content": "Edorht Rose"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721241576665,
+      "content": "Edorht a nommÃ© le groupe Edorht Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721241576665,
+      "content": "Edorht a modifiÃ© la photo du groupe."
+    }
+  ]
+}

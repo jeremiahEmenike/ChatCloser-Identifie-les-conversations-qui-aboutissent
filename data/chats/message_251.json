@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868339873,
+      "content": "Bonjour, oui c'est disponible.\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701847285012,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701847284551,
+      "content": "Chev Freeman"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701847282249,
+      "content": "Chev a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701847281741,
+      "content": "Chev a nommÃ© le groupe Chev Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

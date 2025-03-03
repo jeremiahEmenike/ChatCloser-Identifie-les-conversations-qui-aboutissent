@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693971902675,
+      "content": "Annonces similaires Ã  Â«Â Pentalons CargoÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693855955473,
+      "content": "Julien attend de savoir si cette annonce vous intÃ©resse toujours."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693848910225,
+      "content": "Cliquez sur ce lien pour entrer directement dans mon wasap:   ð\n\nhttps://wa.me/22897776648"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693842301045,
+      "content": "Bonjour Julien, ce sont des nouveaux ou c'est friperie ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693842298838,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1693842298376,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Pentalons Cargo."
+    }
+  ]
+}

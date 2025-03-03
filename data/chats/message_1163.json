@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713648874763,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713648874307,
+      "content": "RÃ©gis Agades"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713648871114,
+      "content": "RÃ©gis a nommÃ© le groupe RÃ©gis Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713648871114,
+      "content": "RÃ©gis a modifiÃ© la photo du groupe."
+    }
+  ]
+}

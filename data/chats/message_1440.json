@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012453650,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012447919,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713010849462,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712979721931,
+      "content": "C'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712979717471,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712968305525,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712968301187,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712968300713,
+      "content": "Yves Laurent Koffi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712968297459,
+      "content": "Yves Laurent a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712968297458,
+      "content": "Yves Laurent a nommÃ© le groupe Yves Laurent Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

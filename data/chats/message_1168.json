@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713116931708,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713116909661,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713116905945,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713116905464,
+      "content": "Rene Miche"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713116903117,
+      "content": "Rene a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713116902798,
+      "content": "Rene a nommÃ© le groupe Rene Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

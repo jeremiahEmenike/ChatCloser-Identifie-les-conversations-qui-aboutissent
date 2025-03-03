@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713601108339,
+      "content": "Koffi Afakey vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713601100408,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713601100057,
+      "content": "Koffi Afakey"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713601097073,
+      "content": "Koffi a nommÃ© le groupe Koffi Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713601097073,
+      "content": "Koffi a modifiÃ© la photo du groupe."
+    }
+  ]
+}

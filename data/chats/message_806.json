@@ -1,0 +1,45 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707718304460,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707700433060,
+      "content": "Votre contact"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648131898,
+      "content": "Bonjour sa majestÃ©.\nC'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707605258462,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707605257961,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707605257700,
+      "content": "Kodjo Jacques Noumonvi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707605255134,
+      "content": "Kodjo Jacques a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707605254448,
+      "content": "Kodjo Jacques a nommÃ© le groupe Kodjo Jacques Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

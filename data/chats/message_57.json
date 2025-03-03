@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713526295445,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713526295054,
+      "content": "Alexandre Djoka"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713526291577,
+      "content": "Alexandre a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713526290830,
+      "content": "Alexandre a nommÃ© le groupe Alexandre Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

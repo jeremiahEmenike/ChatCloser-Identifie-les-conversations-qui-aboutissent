@@ -1,0 +1,60 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713012482144,
+      "content": "Aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713010578230,
+      "content": "OK je vais venir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993649831,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993642549,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993634363,
+      "content": "90384082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712993154989,
+      "content": "Votre numÃ©ro svp et vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712764229168,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712764093129,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712764092620,
+      "content": "Obeth Digoh"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712764089818,
+      "content": "Obeth a nommÃ© le groupe Obeth Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712764089818,
+      "content": "Obeth a modifiÃ© la photo du groupe."
+    }
+  ]
+}

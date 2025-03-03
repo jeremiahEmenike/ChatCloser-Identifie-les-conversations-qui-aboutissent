@@ -1,0 +1,20 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704585442249,
+      "content": "Vous pouvez maintenant vous envoyer des messages, vous appeler et voir les informations concernant le statut En ligne et la lecture des messages."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704585442050,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704585391268,
+      "content": "bonsoir Monsieur"
+    }
+  ]
+}

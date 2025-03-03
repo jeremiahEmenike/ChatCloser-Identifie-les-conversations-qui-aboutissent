@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697563078985,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697562041100,
+      "content": "C est combien last"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697562037581,
+      "content": "UN seul"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697558590168,
+      "content": "Bonjour c'est disponible, vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697553989041,
+      "content": "Nouboukpo Abbey"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697553986829,
+      "content": "Nouboukpo a nommÃ© le groupe Nouboukpo Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697553986829,
+      "content": "Nouboukpo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697553986829,
+      "content": "Cet article est-il toujours disponible ? ð"
+    }
+  ]
+}

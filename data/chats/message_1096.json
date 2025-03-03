@@ -1,0 +1,60 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437284597,
+      "content": "DÃ©solÃ© pour le silence en rÃ©alitÃ© l'ancien stock Ã©tait fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707437255973,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701800589711,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701800563938,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701776060831,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701776007380,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701519073097,
+      "content": "Bonjour, Oui c'est disponible, vous voulez combien svp ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701501229626,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701501229025,
+      "content": "Pascal Dana"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701501226667,
+      "content": "Pascal a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701501226291,
+      "content": "Pascal a nommÃ© le groupe Pascal Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707809488866,
+      "content": "1000f"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707805883277,
+      "content": "Vous pouvez me livrez Ã  combien Ã  Sanguera"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798561078,
+      "content": "Bonjour c'est disponible\nNous sommes agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707724768389,
+      "content": "Vous Ãªtes situÃ© oÃ¹ Ã  LomÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707724757235,
+      "content": "C'est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707724704328,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707724704062,
+      "content": "Kv Yngh"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707724701850,
+      "content": "Kv a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707724701152,
+      "content": "Kv a nommÃ© le groupe Kv Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

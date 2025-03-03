@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701985484,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701939934,
+      "content": "C'est le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701922948,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701915196,
+      "content": "Last ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701899479,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701799980,
+      "content": "Câest a combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701303519,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701078554,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701075022,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701074596,
+      "content": "David Pontchon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701072363,
+      "content": "David a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696701071857,
+      "content": "David a nommÃ© le groupe David Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

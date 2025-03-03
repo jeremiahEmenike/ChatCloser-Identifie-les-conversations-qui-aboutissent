@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721293680897,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721292190033,
+      "content": "Hi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721292064519,
+      "content": "Hi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721292014275,
+      "content": "Is this still available? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721292013863,
+      "content": "Sammy Okomba"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721292011877,
+      "content": "Sammy a nommÃ© le groupe Sammy Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721292011877,
+      "content": "Sammy a modifiÃ© la photo du groupe."
+    }
+  ]
+}

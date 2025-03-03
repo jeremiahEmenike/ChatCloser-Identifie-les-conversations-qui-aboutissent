@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713399605031,
+      "content": "Christ Roi vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713399599221,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713399598894,
+      "content": "Christ Roi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713399596047,
+      "content": "Christ a nommÃ© le groupe Christ Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713399596047,
+      "content": "Christ a modifiÃ© la photo du groupe."
+    }
+  ]
+}

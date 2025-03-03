@@ -1,0 +1,100 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712877719912,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712876508765,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874979866,
+      "content": "On peut vous livrer demain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874971859,
+      "content": "La livraison va vous coÃ»ter 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874961564,
+      "content": "Je suis Ã  legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874930857,
+      "content": "Ok ok cool"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874895483,
+      "content": "Dans ce cas Ã§a peut tenir la journÃ©e"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874891093,
+      "content": "Moi chu a atikoumÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874884196,
+      "content": "Ok ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874872695,
+      "content": "2h en continu mais vous pouvez recharger automatiquement avec Power bank"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874705617,
+      "content": "Ãa dure la charge?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874657722,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874648899,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874287366,
+      "content": "Vous Ãªtes a quel niveau ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712874267091,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712873006675,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712873006273,
+      "content": "Olive Badam"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712873004157,
+      "content": "Olive a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712873003750,
+      "content": "Olive a nommÃ© le groupe Olive Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

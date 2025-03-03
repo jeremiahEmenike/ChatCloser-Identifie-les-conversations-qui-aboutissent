@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707520298685,
+      "content": "C'est insuffisant sÃ©rieux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707519920454,
+      "content": "2k boss"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707519671484,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707519664807,
+      "content": "last prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707519587001,
+      "content": "Bonjour c'est disponible. \nVous vouliez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707518929049,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707518928789,
+      "content": "Latifou Kinbos"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707518925972,
+      "content": "Latifou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707518925350,
+      "content": "Latifou a nommÃ© le groupe Latifou Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

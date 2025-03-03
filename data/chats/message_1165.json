@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701334048740,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701334038824,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701334033044,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701334032646,
+      "content": "Reine Sika"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701334030287,
+      "content": "Reine a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701334029825,
+      "content": "Reine a nommÃ© le groupe Reine Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

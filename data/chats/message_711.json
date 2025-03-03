@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701445647976,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444621714,
+      "content": "Nous sommes Ã  agbalepedo groupe C, vous pouvez passer chercher"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444600170,
+      "content": "Votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444595111,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444589983,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438176634,
+      "content": "Je veux blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438176205,
+      "content": "Johnny L'idÃ´le Astral"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438173440,
+      "content": "Johnny a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701438173059,
+      "content": "Johnny a nommÃ© le groupe Johnny Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

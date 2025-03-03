@@ -1,0 +1,75 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707979107375,
+      "content": "Mon numÃ©ro : 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707979097383,
+      "content": "Blanc et noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707974187670,
+      "content": "Quelles sont les couleurs disponibles svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707953665842,
+      "content": "Bonsoir Ã  vous"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707951404097,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707948477218,
+      "content": "Bonsoirrrrrrrrrrrr"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707821494836,
+      "content": "90775847"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798524371,
+      "content": "Cool votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707730882733,
+      "content": "Juste 1 svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707648096144,
+      "content": "Bonjour sa majestÃ©.\nC'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707593015197,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707593014841,
+      "content": "Dellas Beatz"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707593013075,
+      "content": "Dellas a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707593012621,
+      "content": "Dellas a nommÃ© le groupe Dellas Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

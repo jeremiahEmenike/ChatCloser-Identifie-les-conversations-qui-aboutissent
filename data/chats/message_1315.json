@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596018171,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720595998032,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720567141344,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720567135650,
+      "content": "Disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720567135154,
+      "content": "Tino Aholou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720567132040,
+      "content": "Tino a nommÃ© le groupe Tino Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720567132040,
+      "content": "Tino a modifiÃ© la photo du groupe."
+    }
+  ]
+}

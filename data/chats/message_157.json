@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294963528,
+      "content": "Bonjour c'est disponible\n\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286974153,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286973727,
+      "content": "Ayawa Fianyo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286971266,
+      "content": "Ayawa a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286970740,
+      "content": "Ayawa a nommÃ© le groupe Ayawa Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

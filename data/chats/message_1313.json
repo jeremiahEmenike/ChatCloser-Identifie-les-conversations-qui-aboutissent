@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699961567131,
+      "content": "8500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699961365546,
+      "content": "Et le dernier prix ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699961359935,
+      "content": "Wii"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699902639144,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699902511009,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699902507312,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699902506929,
+      "content": "Thony Kissao"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699902505211,
+      "content": "Thony a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699902504863,
+      "content": "Thony a nommÃ© le groupe Thony Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

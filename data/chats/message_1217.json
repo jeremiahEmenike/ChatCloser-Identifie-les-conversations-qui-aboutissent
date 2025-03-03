@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712688141759,
+      "content": "Bonsoir, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712667805935,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712667805531,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712667803124,
+      "content": "Un contact a nommÃ© le groupe Salomon Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712667803124,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    }
+  ]
+}

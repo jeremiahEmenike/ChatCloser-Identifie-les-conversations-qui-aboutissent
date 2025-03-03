@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715150568671,
+      "content": "Annonces similaires Ã  Â«Â Beats Solo ProÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715023662281,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715020989008,
+      "content": "12 000 fr last"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715020964066,
+      "content": "Bonjour c'est Ã  combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715020961259,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715020960732,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Beats Solo Pro."
+    }
+  ]
+}

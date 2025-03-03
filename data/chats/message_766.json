@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696682330356,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696681575070,
+      "content": "DÃ©solÃ© le dernier prix c'est 8k"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696680317589,
+      "content": "7k je prend today"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696680259328,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696679270964,
+      "content": "Dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696679261551,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696664639074,
+      "content": "Bonjour, oui c'est disponible. Vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696622700959,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696622695757,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696622695017,
+      "content": "Kanlanfeyi Pascal Kobilone"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696622692887,
+      "content": "Kanlanfeyi Pascal a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696622692402,
+      "content": "Kanlanfeyi Pascal a nommÃ© le groupe Kanlanfeyi Pascal Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

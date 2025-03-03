@@ -1,0 +1,70 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701170514225,
+      "content": "71340768"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701071860420,
+      "content": "Je peux avoir votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701071850148,
+      "content": "Bonjour monsieur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701071836677,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701040274424,
+      "content": "NumÃ©ro de WhatsApp svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701040256807,
+      "content": "2"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701000698860,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701000332897,
+      "content": "Ok cool"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700999584501,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700994060421,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700994059987,
+      "content": "Seraphin Kouto"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700994056852,
+      "content": "Seraphin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1700994056371,
+      "content": "Seraphin a nommÃ© le groupe Seraphin Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

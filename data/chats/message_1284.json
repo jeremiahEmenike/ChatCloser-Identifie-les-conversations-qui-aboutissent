@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297149464,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297139796,
+      "content": "C'est Ã  3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297133613,
+      "content": "Mais maintenant c'est de retour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297123897,
+      "content": "Les Ã©couteurs Ã©taient fini"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297116403,
+      "content": "DÃ©solÃ© pour le silence"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719297110966,
+      "content": "Bonjour, j'espÃ¨re que vous allez bien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714078168413,
+      "content": "C'est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707550116360,
+      "content": "Bonjour c'est disponible, vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707524777984,
+      "content": "Syrille Baka"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707524775159,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707524774011,
+      "content": "Syrille a nommÃ© le groupe Syrille Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707524774011,
+      "content": "Syrille a modifiÃ© la photo du groupe."
+    }
+  ]
+}

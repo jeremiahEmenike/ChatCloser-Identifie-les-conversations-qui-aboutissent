@@ -1,0 +1,70 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713112006781,
+      "content": "92231659"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713098627613,
+      "content": "Donnez moi votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713098622666,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713098045873,
+      "content": "Nous pouvons continuer sur WhatsApp ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713096412443,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713095357091,
+      "content": "Le prix stp??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712991478464,
+      "content": "Vous voulez combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712991464323,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712991456112,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712987259822,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712987259231,
+      "content": "Ãmile Klutse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712987255937,
+      "content": "Ãmile a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712987255936,
+      "content": "Ãmile a nommÃ© le groupe Ãmile Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

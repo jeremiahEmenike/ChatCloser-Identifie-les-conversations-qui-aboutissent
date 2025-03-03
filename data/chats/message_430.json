@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720939729006,
+      "content": "Si vous Ãªtes prÃªt faite moi signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720939711930,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720936176039,
+      "content": "Ok j'ai compris"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720908476938,
+      "content": "On peut vous envoyer Ã§a par LK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720907471140,
+      "content": "C'est comment je peux acquÃ©rir Ã§a je suis Ã  kara"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720907470579,
+      "content": "Ericson Boukessim"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720907468054,
+      "content": "Ericson a nommÃ© le groupe Ericson Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720907468054,
+      "content": "Ericson a modifiÃ© la photo du groupe."
+    }
+  ]
+}

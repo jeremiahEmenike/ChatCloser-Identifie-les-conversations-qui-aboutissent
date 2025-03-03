@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713182946052,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713162554790,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713162554366,
+      "content": "Bernard Takapissi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713162552165,
+      "content": "Bernard a nommÃ© le groupe Bernard Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713162552165,
+      "content": "Bernard a modifiÃ© la photo du groupe."
+    }
+  ]
+}

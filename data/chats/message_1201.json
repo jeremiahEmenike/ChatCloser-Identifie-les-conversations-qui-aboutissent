@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701463378496,
+      "content": "Bonjour c'est disponible, vous voulez combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701457852546,
+      "content": "Bonsoir, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701457852085,
+      "content": "Romuald Amenyaglo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701457849436,
+      "content": "Romuald a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701457849091,
+      "content": "Romuald a nommÃ© le groupe Romuald Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

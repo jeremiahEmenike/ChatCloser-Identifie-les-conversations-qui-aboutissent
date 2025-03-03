@@ -1,0 +1,35 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721054816416,
+      "content": "79904654 et pour toi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736614332,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720732370878,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720732370403,
+      "content": "Justino Amegdjin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720732367548,
+      "content": "Justino a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720732367141,
+      "content": "Justino a nommÃ© le groupe Justino Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

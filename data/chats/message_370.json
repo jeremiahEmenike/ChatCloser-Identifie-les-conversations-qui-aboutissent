@@ -1,0 +1,45 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721129240171,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116844456,
+      "content": "90914828"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116779685,
+      "content": "Voici mon numÃ©ros watsaps faite moi signe svp. merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116469864,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116288999,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116288596,
+      "content": "Edis Edmondo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116286630,
+      "content": "Edis a nommÃ© le groupe Edis Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721116286630,
+      "content": "Edis a modifiÃ© la photo du groupe."
+    }
+  ]
+}

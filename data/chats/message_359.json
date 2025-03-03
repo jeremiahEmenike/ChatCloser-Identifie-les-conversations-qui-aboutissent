@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701359829621,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701359821528,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701359795735,
+      "content": "Vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701359792340,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701359787848,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701359787422,
+      "content": "Dovi RomÃ©o"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701359785105,
+      "content": "Dovi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701359784619,
+      "content": "Dovi a nommÃ© le groupe Dovi Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

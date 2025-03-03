@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701816959332,
+      "content": "Adtkp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701773344897,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701773316116,
+      "content": "Oui, c'est possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701772517874,
+      "content": "Livraison Ã  domicile"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701764821165,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701759948098,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701757468490,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701733593241,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701733592871,
+      "content": "ÄbÄvÅÅ³ PÅÃ¸ MÃ¥x"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701733590456,
+      "content": "ÄbÄvÅÅ³ a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701733590068,
+      "content": "ÄbÄvÅÅ³ a nommÃ© le groupe ÄbÄvÅÅ³ Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

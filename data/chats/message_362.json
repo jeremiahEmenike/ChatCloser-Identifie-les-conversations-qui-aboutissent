@@ -1,0 +1,85 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709547665384,
+      "content": "OK"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709547648435,
+      "content": "Je vais moi mÃªme passer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709547622500,
+      "content": "On peut vous livrer Ã  1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709547597992,
+      "content": "KlikanmÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709547454940,
+      "content": "Et vous??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709547454786,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709545609229,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709545605098,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709545560708,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709545497305,
+      "content": "Combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709545290862,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709543224059,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709543219004,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709543218576,
+      "content": "Bwoy DuSaint"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709543216439,
+      "content": "DuSaint a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709543215627,
+      "content": "DuSaint a nommÃ© le groupe DuSaint Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

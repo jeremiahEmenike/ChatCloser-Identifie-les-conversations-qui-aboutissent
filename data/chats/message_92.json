@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707482522159,
+      "content": "Ou legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707482513834,
+      "content": "Agbalepedo groupe C. C'est Ã  la maison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707482496763,
+      "content": "VÃ´tre boutique est oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707482384733,
+      "content": "Bonjour, c'est disponible, vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707481845188,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707481844798,
+      "content": "Ambroise Karka"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707481842120,
+      "content": "Ambroise a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707481841563,
+      "content": "Ambroise a nommÃ© le groupe Ambroise Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

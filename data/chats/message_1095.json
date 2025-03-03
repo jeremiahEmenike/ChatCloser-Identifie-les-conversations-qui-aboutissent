@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868307311,
+      "content": "Bonjour, oui c'est disponible.\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701868304365,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701863099989,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701863095535,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701863095022,
+      "content": "Koudzo Pascal"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701863092995,
+      "content": "Pascal a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701863092359,
+      "content": "Pascal a nommÃ© le groupe Pascal Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

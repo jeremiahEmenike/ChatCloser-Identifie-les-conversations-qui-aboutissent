@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713959544797,
+      "content": "Il reste que celui ci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713959535569,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713959505508,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713956147215,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713956141611,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713956141095,
+      "content": "Issifou Sebo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713956138359,
+      "content": "Issifou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713956137868,
+      "content": "Issifou a nommÃ© le groupe Issifou Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

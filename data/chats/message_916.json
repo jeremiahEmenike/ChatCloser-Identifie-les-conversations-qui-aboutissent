@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707659149803,
+      "content": "Bonjour sa majestÃ©.\nC'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707656631097,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707656630733,
+      "content": "Lucien Eklou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707656627397,
+      "content": "Lucien a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707656626725,
+      "content": "Lucien a nommÃ© le groupe Lucien Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

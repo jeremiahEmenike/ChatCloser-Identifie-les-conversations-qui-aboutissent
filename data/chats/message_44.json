@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712657099059,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611735809,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611732105,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611731681,
+      "content": "Aida Moussa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611729549,
+      "content": "Aida a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712611729172,
+      "content": "Aida a nommÃ© le groupe Aida Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

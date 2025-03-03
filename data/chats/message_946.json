@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713107175373,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713106973341,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713106966464,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713106966178,
+      "content": "Marcel Lawson-Body"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713106964233,
+      "content": "Marcel a nommÃ© le groupe Marcel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713106964233,
+      "content": "Marcel a modifiÃ© la photo du groupe."
+    }
+  ]
+}

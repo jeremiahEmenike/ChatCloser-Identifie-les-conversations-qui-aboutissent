@@ -1,0 +1,200 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005782710,
+      "content": "ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005701248,
+      "content": "Demain quand je serais au marchÃ©, je vous enverrai sa."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005667095,
+      "content": "Okay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005598932,
+      "content": "envoyer moi seulement la localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005589855,
+      "content": "Quand je serait Ã  LomÃ©, je vais venir prendre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005560791,
+      "content": "1k pour le chauffeur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005548747,
+      "content": "Se serait Ã  votre charge"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005523001,
+      "content": "Et les frais de livraison ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005498768,
+      "content": "Il suffit de donner sa Ã  un chauffeur et il tâamÃ¨ne sa."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005449772,
+      "content": "Okay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005434195,
+      "content": "je vais venir Ã  LomÃ© le vendredi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005413674,
+      "content": "Je suis Ã  ANEHO"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005291117,
+      "content": "On peut aussi vous livrez si vous voulez"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005276919,
+      "content": "Demain matin vous passez prendre sa."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005262892,
+      "content": "PAS de soucis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005251490,
+      "content": "Okay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005244843,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005239304,
+      "content": "Combien vous voulez ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005208587,
+      "content": "Sa fait demain matin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005199849,
+      "content": "Je suis plus au marchÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005132797,
+      "content": "Envoyez-moi votre localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717005122451,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717003465023,
+      "content": "Vous pouvez maintenant Ã©valuer ce vendeur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717003462859,
+      "content": "Câest Ã  5k chef"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717003316201,
+      "content": "C'est possible de l'amour Ã  3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1717003171792,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716995888039,
+      "content": "Un instant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716995644210,
+      "content": "ok, les photos svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716995278322,
+      "content": "Le prix câest Ã  5k lâunitÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716995220220,
+      "content": "photo et prix svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716995212304,
+      "content": "je veux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716994775112,
+      "content": "Est ce que vous voulez sa?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716994713442,
+      "content": "Boutique *"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716994705342,
+      "content": "Mais la je suis pas Ã  la Bou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716994695821,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716990156970,
+      "content": "Puis-je avoir d'autres photos"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716990101363,
+      "content": "Bonjour Edem, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716990097874,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716990097341,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Double filtre masque."
+    }
+  ]
+}

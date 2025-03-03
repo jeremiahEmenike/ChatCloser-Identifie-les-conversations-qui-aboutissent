@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701244400760,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701244395443,
+      "content": "70099010"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701244365720,
+      "content": "Ok laisse moi ton numÃ©ro aprÃ¨s je fais signe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701244312885,
+      "content": "Actuellement je suis au campus"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701244230901,
+      "content": "Vous Ãªtes Ã  quel niveau ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701244156088,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701244039820,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701244039442,
+      "content": "Antonio Luckeyto Adevoun"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701244038089,
+      "content": "Antonio a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701244037919,
+      "content": "Antonio a nommÃ© le groupe Antonio Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

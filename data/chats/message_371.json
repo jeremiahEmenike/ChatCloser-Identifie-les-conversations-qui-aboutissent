@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712843286754,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712826611746,
+      "content": "Combien s'il vous plaÃ®t"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712530508239,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712530504008,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712529625592,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712529625318,
+      "content": "Edmond Accla"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712529622181,
+      "content": "Edmond a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712529621711,
+      "content": "Edmond a nommÃ© le groupe Edmond Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

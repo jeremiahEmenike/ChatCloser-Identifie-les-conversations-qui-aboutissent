@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712767001366,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712766594669,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712766594229,
+      "content": "Mc Dodji Ahouelete"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712766591285,
+      "content": "Mc Dodji a nommÃ© le groupe Mc Dodji Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712766591285,
+      "content": "Mc Dodji a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798324050,
+      "content": "Agbalepedo groupe C ou legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707720381092,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707718310776,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707699986191,
+      "content": "Le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707665563668,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707665563665,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707660155237,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707660150004,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707660149517,
+      "content": "Wolf Rich"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707660146839,
+      "content": "Rich a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707660145906,
+      "content": "Rich a nommÃ© le groupe Rich Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

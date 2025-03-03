@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689702760,
+      "content": "Hummmm"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689655382,
+      "content": "memoire et ram"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689645279,
+      "content": "oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689625656,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689415919,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689407870,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689407582,
+      "content": "TaofÃ© Pop"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689403542,
+      "content": "TaofÃ© a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689403233,
+      "content": "TaofÃ© a nommÃ© le groupe TaofÃ© Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720739074164,
+      "content": "Le dernier prix c'est 3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720739065499,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720739053435,
+      "content": "2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736648577,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720731081967,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720731081533,
+      "content": "Eldad ThÃ©o Tena"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720731079325,
+      "content": "Eldad a nommÃ© le groupe Eldad Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720731079325,
+      "content": "Eldad a modifiÃ© la photo du groupe."
+    }
+  ]
+}

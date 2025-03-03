@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721142840108,
+      "content": "Mais on peut aussi vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721079181420,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721075985608,
+      "content": "Vs Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721060693106,
+      "content": "bonjour, c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721059142344,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721059142039,
+      "content": "Aap Djeto"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721059138767,
+      "content": "Aap a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721059138384,
+      "content": "Aap a nommÃ© le groupe Aap Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

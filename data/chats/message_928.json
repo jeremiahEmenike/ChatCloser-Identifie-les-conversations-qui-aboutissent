@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708087596699,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708086578345,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708086578217,
+      "content": "Madina Tabadi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708086576674,
+      "content": "Madina a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708086576406,
+      "content": "Madina a nommÃ© le groupe Madina Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

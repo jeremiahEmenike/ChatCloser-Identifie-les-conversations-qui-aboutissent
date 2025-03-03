@@ -1,0 +1,65 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701686426504,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701686233497,
+      "content": "Photo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701686230202,
+      "content": "Un peu cher"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701686187889,
+      "content": "2509"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685996711,
+      "content": "Bon prix ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701685991067,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680515890,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701645649067,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701645642272,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701645641963,
+      "content": "OxÃ©e Babakada"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701645639383,
+      "content": "OxÃ©e a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701645638774,
+      "content": "OxÃ©e a nommÃ© le groupe OxÃ©e Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

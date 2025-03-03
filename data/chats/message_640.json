@@ -1,0 +1,45 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712772379412,
+      "content": "C'est disponible vous voulez combien svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712772369569,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712772332185,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712772141335,
+      "content": "+22870776493"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712772126210,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712772125914,
+      "content": "Inob Djramedo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712772122475,
+      "content": "Inob a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712772121874,
+      "content": "Inob a nommÃ© le groupe Inob Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

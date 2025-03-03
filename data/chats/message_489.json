@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798358870,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707749049644,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707749044486,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707749043960,
+      "content": "Felix Yao Ariel BÃ©ni"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707749041473,
+      "content": "Felix a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707749040618,
+      "content": "Felix a nommÃ© le groupe Felix Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

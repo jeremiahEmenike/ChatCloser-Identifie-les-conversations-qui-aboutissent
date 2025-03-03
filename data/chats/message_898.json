@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712878042378,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712877942298,
+      "content": "Je vous reviendrai dans la semaine"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712877934376,
+      "content": "Ok d'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712877905528,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712877880375,
+      "content": "Votre boutique se trouve oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712877864034,
+      "content": "Ok super"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712836447837,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712832887058,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712832886688,
+      "content": "Lolonyo Epou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712832884463,
+      "content": "Lolonyo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712832884125,
+      "content": "Lolonyo a nommÃ© le groupe Lolonyo Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713486335357,
+      "content": "Kirato Azigodoe vous a envoyÃ© un message au sujet de votre annonceÂ : Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713486329071,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713486328715,
+      "content": "Kirato Azigodoe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713486325855,
+      "content": "Kirato a nommÃ© le groupe Kirato Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713486325855,
+      "content": "Kirato a modifiÃ© la photo du groupe."
+    }
+  ]
+}

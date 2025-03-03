@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694168713135,
+      "content": "AgoÃ© groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694113807562,
+      "content": "tu es oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694101615180,
+      "content": "Bonjour c'est en rupture pour le moment"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694038243399,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694038242951,
+      "content": "Koffagaba Abotsi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694038240778,
+      "content": "Koffagaba a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694038240395,
+      "content": "Koffagaba a nommÃ© le groupe Koffagaba Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

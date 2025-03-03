@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713543469912,
+      "content": "Si oui vous pouvez me livrer Ã§a aujourd'hui ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713543417449,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713543416893,
+      "content": "Manandjo Bagme"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713543413667,
+      "content": "Manandjo a nommÃ© le groupe Manandjo Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713543413667,
+      "content": "Manandjo a modifiÃ© la photo du groupe."
+    }
+  ]
+}

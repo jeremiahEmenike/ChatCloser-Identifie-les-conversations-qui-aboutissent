@@ -1,0 +1,100 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712591021053,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712580536655,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712579537458,
+      "content": "Tof stp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712579534435,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712515243565,
+      "content": "2500 c'est le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712515237544,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514742543,
+      "content": "Et 2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514740049,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514726178,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514717363,
+      "content": "Combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514040099,
+      "content": "Legbassito carrefour avinato mais on peut vous livrer"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712514025055,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712492228341,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712492223569,
+      "content": "Cc dispo ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701375385726,
+      "content": "Bonjour c'est disponible\n\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701374813446,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701374813027,
+      "content": "Gbongli Kossi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701374809466,
+      "content": "Kossi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701374808988,
+      "content": "Kossi a nommÃ© le groupe Kossi Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

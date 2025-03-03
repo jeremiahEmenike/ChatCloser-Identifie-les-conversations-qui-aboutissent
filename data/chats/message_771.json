@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294647690,
+      "content": "Bonjour c'est disponible,\n\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701266631495,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701266630937,
+      "content": "Keet Zangbe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701266627442,
+      "content": "Keet a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701266626891,
+      "content": "Keet a nommÃ© le groupe Keet Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712591944270,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712585843841,
+      "content": "70483836"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712585833335,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712585827989,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712585827606,
+      "content": "Fabr Krk"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712585823360,
+      "content": "Fabr a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712585822876,
+      "content": "Fabr a nommÃ© le groupe Fabr Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

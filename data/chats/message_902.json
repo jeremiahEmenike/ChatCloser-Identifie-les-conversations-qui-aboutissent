@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721321719579,
+      "content": "Tof svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721320963162,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721320957426,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721319635551,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721319635071,
+      "content": "Loris Louis"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721319631236,
+      "content": "Loris a nommÃ© le groupe Loris Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721319631236,
+      "content": "Loris a modifiÃ© la photo du groupe."
+    }
+  ]
+}

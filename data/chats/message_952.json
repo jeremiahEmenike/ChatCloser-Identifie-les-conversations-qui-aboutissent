@@ -1,0 +1,60 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721068266591,
+      "content": "70303291"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995029062,
+      "content": "Je vais garder votre contact quand Ã§a sera de retour je vais vous contacter"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995000966,
+      "content": "Oooh, j'en ai plus."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720994462078,
+      "content": "20000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993855787,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993689839,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720941301855,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719745774585,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719745774168,
+      "content": "Mariam Sory"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719745770705,
+      "content": "Mariam a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719745770008,
+      "content": "Mariam a nommÃ© le groupe Mariam Â· LÃ¨vres roses ou Baume Ã  lÃ¨vres disponible en gros et en dÃ©tail."
+    }
+  ]
+}

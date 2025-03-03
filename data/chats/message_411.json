@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713091178906,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713091170436,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713054474020,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713054467572,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713054467220,
+      "content": "Emmanuel Theking"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713054464343,
+      "content": "Emmanuel a nommÃ© le groupe Emmanuel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713054464343,
+      "content": "Emmanuel a modifiÃ© la photo du groupe."
+    }
+  ]
+}

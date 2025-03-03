@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698435738378,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698435303395,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698435299165,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698435298981,
+      "content": "El Makassi de MontrÃ©al"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698435297022,
+      "content": "El Makassi a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1698435296569,
+      "content": "El Makassi a nommÃ© le groupe El Makassi Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

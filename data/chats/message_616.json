@@ -1,0 +1,95 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720823351262,
+      "content": "99941695"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720823317005,
+      "content": "Donne moi ton numÃ©ro et envoie moi la localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720823316995,
+      "content": "1 que je veux"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720823291542,
+      "content": "HÃ´tel des fesses"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720823231063,
+      "content": "Vous Ãªtes vers oÃ¹ Ã  ANEHO??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720823188764,
+      "content": "Non"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720823178827,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720823110801,
+      "content": "Payage"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720822797594,
+      "content": "Oui on va se voir oÃ¹ maa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720822707307,
+      "content": "Ok on peut vous livrer le lundi Ã  1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720822683096,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720822655591,
+      "content": "Vous Ãªtes Ã  ANEHO"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720822598633,
+      "content": "OÃ¹ c'est anÃ©ho"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720822324143,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720821557404,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720821557210,
+      "content": "Hubert Kuwassi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720821554841,
+      "content": "Hubert a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720821554551,
+      "content": "Hubert a nommÃ© le groupe Hubert Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

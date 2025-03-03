@@ -1,0 +1,115 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689680964,
+      "content": "Ok merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689128545,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689114722,
+      "content": "Ok laissez moi votre contact"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689113690,
+      "content": "Le son est bon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689094487,
+      "content": "Je voulais juste savoir si le song est au moins bon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689074814,
+      "content": "Ok je vois"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689057079,
+      "content": "Actuellement il ne nous reste que le blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689039693,
+      "content": "C'est un produit chinois mais Ã§a peut faire l'affaire si vous recherchez des airpod moins chÃ¨re"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701689001673,
+      "content": "Tu as toutes les couleurs la?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701688981914,
+      "content": "Câest de qualitÃ© ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701688975658,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701688926439,
+      "content": "Mais actuellement je suis au campus, je vais revenir vers 17h"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701688914267,
+      "content": "Je suis Ã  agbalepedo non loin de groupe C."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701688887515,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701687351439,
+      "content": "Câest Ã  combien pardon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701684916379,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701682351402,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701682351395,
+      "content": "DA Sire Asdepic"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701682349939,
+      "content": "Sire Asdepic vous a proposÃ© 2Â 500Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701682348010,
+      "content": "Sire Asdepic a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701682348010,
+      "content": "Sire Asdepic a nommÃ© le groupe Sire Asdepic Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701682348010,
+      "content": "Cet article est-il toujours disponible ?"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330791060,
+      "content": "Mais actuellement je suis au campus, je reviens Ã  17h"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330774399,
+      "content": "Prendre les pavÃ©s de totsi vers attikoumÃ©. ArrivÃ© au feu devant la maison d'Adebayor\n- prendre le corner Ã  gauche pour aller vers le groupe C\n- puis prendre le coin Ã  droite aprÃ¨s ANADEB\n- puis prendre le prochain virage Ã  gauche\n- le lieu est Ã  environ deux cents mÃ¨tres"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701322443263,
+      "content": "Un âï¸ seulement"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294894145,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701283774076,
+      "content": "Ãa va tranquille bro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701240205430,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701240190339,
+      "content": "Vous avez acceptÃ© lâoffre de Greg"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701237996332,
+      "content": "Salut"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701236552072,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701235851451,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701235846428,
+      "content": "Greg vous a proposÃ© 2Â 250Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701235844896,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701235844652,
+      "content": "Greg Smith"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701235842235,
+      "content": "Greg a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701235842019,
+      "content": "Greg a nommÃ© le groupe Greg Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

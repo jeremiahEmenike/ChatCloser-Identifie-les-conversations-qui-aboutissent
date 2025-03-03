@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720636553933,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720636051719,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720629927869,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720629922300,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720617385071,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720617376117,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720617375472,
+      "content": "Gilles Yovo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720617372497,
+      "content": "Gilles a nommÃ© le groupe Gilles Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720617372497,
+      "content": "Gilles a modifiÃ© la photo du groupe."
+    }
+  ]
+}

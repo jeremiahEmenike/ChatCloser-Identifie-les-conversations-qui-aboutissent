@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699165386409,
+      "content": "Annonces similaires Ã  Â«Â Basket ð 5500Â Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699035784886,
+      "content": "Bonjour, je voudrais 1, est ce que vous avez 43  grand ou 44 petit"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699035782405,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699035781933,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Basket ð 5500."
+    }
+  ]
+}

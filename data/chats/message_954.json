@@ -1,0 +1,90 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701976599404,
+      "content": "Okk"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701961024593,
+      "content": "Envoyez moi votre localisation sur le 90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701960753088,
+      "content": "Livraison yokoe serai Ã  combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701960734972,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701945732483,
+      "content": "Oui mais a vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701945708165,
+      "content": "Vous livrez?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701945682148,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701945672335,
+      "content": "2500?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701945585355,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701945388871,
+      "content": "Et vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701945373932,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701872854617,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701872817061,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701872810563,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701872810171,
+      "content": "Marie Edoh"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701872807785,
+      "content": "Marie a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701872807098,
+      "content": "Marie a nommÃ© le groupe Marie Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

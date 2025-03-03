@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707841385650,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707841385300,
+      "content": "Bonjour c'est disponible. \nNous avons le blanc et le noir\nVous voulez laquelle??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707831423916,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707831419237,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707831418825,
+      "content": "Collecte Lare"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707831416553,
+      "content": "Collecte a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707831415733,
+      "content": "Collecte a nommÃ© le groupe Collecte Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

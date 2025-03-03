@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680353128,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701677925471,
+      "content": "Bonjour FrÃ¨re vous jet Dan quel qartie a Lome"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701677805985,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701677805413,
+      "content": "Utilisateur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701677802908,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701677802380,
+      "content": "Un contact a nommÃ© le groupe Baba Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

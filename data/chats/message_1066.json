@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721314090675,
+      "content": "Nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721314084879,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721310827197,
+      "content": "Oui quel est le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721310708665,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721310487093,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721310482819,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721310482391,
+      "content": "Odette Ketevi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721310480269,
+      "content": "Odette a nommÃ© le groupe Odette Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721310480269,
+      "content": "Odette a modifiÃ© la photo du groupe."
+    }
+  ]
+}

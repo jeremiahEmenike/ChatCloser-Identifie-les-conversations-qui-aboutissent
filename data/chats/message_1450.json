@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713113038415,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713110235303,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713110231950,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713110231554,
+      "content": "Zike Sagitaire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713110229512,
+      "content": "Zike a nommÃ© le groupe Zike Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713110229512,
+      "content": "Zike a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713538732284,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713538731897,
+      "content": "Frank Timo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713538728672,
+      "content": "Frank a nommÃ© le groupe Frank Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713538728672,
+      "content": "Frank a modifiÃ© la photo du groupe."
+    }
+  ]
+}

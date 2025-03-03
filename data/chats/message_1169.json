@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695452989544,
+      "content": "Bonjour, j'ai suivi votre meeting en ligne juste que j'ai pu terminer avec vous. Du coup je voudrais savoir le prix de la formation ainsi que la durÃ©e. Merci ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695234006222,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695234005242,
+      "content": "Ulrich ð La confÃ©rence Revoltrain va dÃ©marrer dans quelques minutes.\n\nJ'ai hÃ¢te de te retrouver de l'autre cÃ´tÃ© !\n\nRejoins-nous dÃ¨s maintenant en cliquant sur le bouton ci-dessous ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695234004159,
+      "content": "Vous avez prÃ©cÃ©demment choisi de recevoir les messagesÂ : Clique ici pour recevoir nos messages !"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695144154413,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695144152187,
+      "content": "Super ! Voici la sÃ©rie de 3 vidÃ©os bonus afin de te prÃ©parer au mieux d'ici mercredi soir ð§âð»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695144150689,
+      "content": "Vous avez choisi de recevoir des messages sur le sujet suivantÂ : Clique ici pour recevoir nos messages !"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695144150002,
+      "content": "Recevoir les actualitÃ©s"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695144140429,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695144140034,
+      "content": "Revoltrain Academy souhaite vous envoyer des informations, qui pourraient Ãªtre promotionnelles. En savoir plus(https://www.facebook.com/help/messenger-app/564030381383143)"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695144137411,
+      "content": "â©ï¸ IMPORTANT : pour obtenir ton lien de connexion ainsi que la sÃ©rie de vidÃ©os bonus, tu as juste Ã  cliquer sur le bouton ci-dessous ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695144135142,
+      "content": "Je te confirme ton inscription pour la confÃ©rence en direct de Revoltrain, ce mercredi 20 septembre Ã  20h30 (heure franÃ§aise) ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695144134273,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1695144128796,
+      "content": "DÃ©marrer"
+    }
+  ]
+}

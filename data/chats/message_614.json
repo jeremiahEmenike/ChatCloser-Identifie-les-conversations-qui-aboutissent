@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720939839489,
+      "content": "C'est disponible vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720939821402,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720910001201,
+      "content": "Slt"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720909986842,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720909986613,
+      "content": "Hosana Dadja"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720909983710,
+      "content": "Hosana a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720909983095,
+      "content": "Hosana a nommÃ© le groupe Hosana Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

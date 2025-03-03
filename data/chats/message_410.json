@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713453414156,
+      "content": "Bonsoir puis-je avoir Ã§a Ã  Dapaong"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713453291343,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713453290764,
+      "content": "Def Laniko"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713453288450,
+      "content": "Def a nommÃ© le groupe Emmanuel Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713453288450,
+      "content": "Def a modifiÃ© la photo du groupe."
+    }
+  ]
+}

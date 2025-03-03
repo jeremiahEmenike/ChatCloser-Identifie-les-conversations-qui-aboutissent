@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596764035,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596727639,
+      "content": "Le prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596712142,
+      "content": "98 60 09 70"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596647558,
+      "content": "Vous utilisez pour Whatsapp??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596610540,
+      "content": "70 83 62 76"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596563424,
+      "content": "D'accord votre numÃ©ro de tÃ©lÃ©phone svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596471843,
+      "content": "Aujourd'hui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596067403,
+      "content": "Vous voulez Ã§a pour quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720596056013,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720594071587,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720594063164,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720594062607,
+      "content": "Martin Hagnaboe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720594059881,
+      "content": "Martin a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720594059880,
+      "content": "Martin a nommÃ© le groupe Martin Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701199010699,
+      "content": "Envoyez moi votre localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701198998041,
+      "content": "Je viens de vous Ã©crire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701198924138,
+      "content": "Maison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701198839050,
+      "content": "Maintenant vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701198539620,
+      "content": "Dernier groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701198458982,
+      "content": "Un 72 Ã  la fin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701195273999,
+      "content": "Vous mm vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701195262258,
+      "content": "Avec quelle numÃ©ro??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701193707370,
+      "content": "J'Ã©tais dans le quartier je vous ai appelÃ© en vain"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701193682490,
+      "content": "Vers oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701182392486,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701179586923,
+      "content": "C'est insuffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701172428806,
+      "content": "2000 j'ai"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701172397649,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701154407326,
+      "content": "Agbalepedo groupe c"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701111439138,
+      "content": "Vous Ãªtes ou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701072844103,
+      "content": "Oui c'est disponible. Est-ce quâil vous intÃ©resse toujours ?\n\nSi oui vous en voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701013137546,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701013137106,
+      "content": "Bienvenue Esso"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701013133885,
+      "content": "Bienvenue a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701013133499,
+      "content": "Bienvenue a nommÃ© le groupe Bienvenue Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

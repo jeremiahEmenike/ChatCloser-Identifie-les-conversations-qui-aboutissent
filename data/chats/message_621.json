@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713281950473,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713280384927,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713280378882,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713280378721,
+      "content": "Ian Shogun"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713280375939,
+      "content": "Ian a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713280375535,
+      "content": "Ian a nommÃ© le groupe Ian Â· Ãcouteurs sans fil Pro 6 New. VENTE EN GROS ET EN DETAIL."
+    }
+  ]
+}

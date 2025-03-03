@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721234727600,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721224528496,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721219575031,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721219574528,
+      "content": "Akolly Attiogbe Bonaventure"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721219571537,
+      "content": "Akolly a nommÃ© le groupe Akolly Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721219571537,
+      "content": "Akolly a modifiÃ© la photo du groupe."
+    }
+  ]
+}

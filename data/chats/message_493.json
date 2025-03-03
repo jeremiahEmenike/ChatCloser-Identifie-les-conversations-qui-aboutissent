@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713335149587,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713335149231,
+      "content": "Ferdinand Hayaka"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713335146208,
+      "content": "Ferdinand a nommÃ© le groupe Ferdinand Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713335146208,
+      "content": "Ferdinand a modifiÃ© la photo du groupe."
+    }
+  ]
+}

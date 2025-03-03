@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704550387646,
+      "content": "Ok super"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704545073524,
+      "content": "je vais bien aussi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704529575873,
+      "content": "Je vais bien et de ton cÃ´tÃ© ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704529365877,
+      "content": "Comment vas tu??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704529360571,
+      "content": "Slt man"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1704529223180,
+      "content": "Cc"
+    }
+  ]
+}

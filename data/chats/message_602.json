@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701412094328,
+      "content": "Bjr Mr je veux vos produits c'est Ã  combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701412042674,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701412042248,
+      "content": "Hj Hourt"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701412040159,
+      "content": "Hj a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701412039631,
+      "content": "Hj a nommÃ© le groupe Hj Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

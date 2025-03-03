@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719932880637,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719932873497,
+      "content": "350"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719913684566,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719649146410,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719571561243,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719571552118,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719571551659,
+      "content": "Basile Prempeh"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719571548977,
+      "content": "Basile a nommÃ© le groupe Basile Â· LÃ¨vres roses ou Baume Ã  lÃ¨vres disponible en gros et en dÃ©tail."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719571548977,
+      "content": "Basile a modifiÃ© la photo du groupe."
+    }
+  ]
+}

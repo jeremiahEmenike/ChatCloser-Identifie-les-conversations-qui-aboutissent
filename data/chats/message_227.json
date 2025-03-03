@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713353023017,
+      "content": "Bonjour c'est en rupture"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713344336306,
+      "content": "Ouais 2500 n'est-ce pas ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183021820,
+      "content": "Bonjour, c'est disponible\nVous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713183018583,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713148633425,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713148626763,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713148626395,
+      "content": "Bye Boss"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713148624294,
+      "content": "Bye a nommÃ© le groupe Bye Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713148624294,
+      "content": "Bye a modifiÃ© la photo du groupe."
+    }
+  ]
+}

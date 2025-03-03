@@ -1,0 +1,90 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701680510987,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701646622005,
+      "content": "Une autre fois"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701602031407,
+      "content": "1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701602017978,
+      "content": "Livraison combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601988280,
+      "content": "Mais a vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601967410,
+      "content": "On peut vous livrez"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601961885,
+      "content": "Il ne reste que 3 boÃ®tes, donc..."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601940014,
+      "content": "En plus j'habite Ã  zoussime"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601907717,
+      "content": "Pas pour aujourd'hui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601872132,
+      "content": "Nous sommes Ã  agbalepedo groupe C, vous pouvez passer chercher dans l'aprÃ¨s midi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601697095,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601365405,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601298924,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601293373,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601293021,
+      "content": "Rafiou Mana"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601290566,
+      "content": "Rafiou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701601290198,
+      "content": "Rafiou a nommÃ© le groupe Rafiou Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701377063858,
+      "content": "Et si je vais venir Ã  kegue vous racontez"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376866267,
+      "content": "Ãa va vous coÃ»ter 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376854538,
+      "content": "Oui Ã  vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376562646,
+      "content": "On peut me livrer ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376553180,
+      "content": "Je suis a djagble"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701376544749,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701375433019,
+      "content": "Bonjour c'est disponible\n\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701367377682,
+      "content": "Jonny Wisdom"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701367374923,
+      "content": "Jonny a nommÃ© le groupe Jonny Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701367374923,
+      "content": "Jonny a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701367374923,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    }
+  ]
+}

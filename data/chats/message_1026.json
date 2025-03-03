@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721282345304,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721272556684,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721272549368,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721272549043,
+      "content": "Monique Lamboni"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721272546327,
+      "content": "Monique a nommÃ© le groupe Monique Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721272546327,
+      "content": "Monique a modifiÃ© la photo du groupe."
+    }
+  ]
+}

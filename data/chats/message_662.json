@@ -1,0 +1,95 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701378013659,
+      "content": "92115886"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701378007099,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701349557921,
+      "content": "Il ne reste que le blanc"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701349546785,
+      "content": "Votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701345706924,
+      "content": "J'en veux le noir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701345690706,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701345132489,
+      "content": "C'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701334896131,
+      "content": "Stp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701334892104,
+      "content": "Tu me donne Ã  2000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701334862217,
+      "content": "Oui oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701334759842,
+      "content": "2500??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701334755644,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701294957713,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286806416,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286801353,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286800893,
+      "content": "Ja Kusiape"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286798595,
+      "content": "Ja a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701286798221,
+      "content": "Ja a nommÃ© le groupe Ja Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

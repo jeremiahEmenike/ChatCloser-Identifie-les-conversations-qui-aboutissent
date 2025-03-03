@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721398130305,
+      "content": "Vous allez venir quand,??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721398118334,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721396724202,
+      "content": "Ok je suis Ã  sogbossito je viendrai chercher"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721385006781,
+      "content": "Nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721385000541,
+      "content": "C'est Ã  3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721384985784,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721346636560,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721346636080,
+      "content": "Joseph Banyetikpe"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721346632262,
+      "content": "Joseph a nommÃ© le groupe Joseph Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721346632262,
+      "content": "Joseph a modifiÃ© la photo du groupe."
+    }
+  ]
+}

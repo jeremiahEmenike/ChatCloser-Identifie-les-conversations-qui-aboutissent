@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798189959,
+      "content": "Agbalepedo groupe C ou legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707772083803,
+      "content": "Ok\nPardon vous Ãªtes oÃ¹"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707687115761,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707682278349,
+      "content": "C'est Ã  combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707682274424,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707681699489,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707681693721,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707681044424,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707681044237,
+      "content": "Go Chic"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707681042166,
+      "content": "Go a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707681041905,
+      "content": "Go a nommÃ© le groupe Go Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

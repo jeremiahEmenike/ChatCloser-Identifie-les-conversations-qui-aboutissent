@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713052022616,
+      "content": "Bonjour\nC'est disponible Ã  2500 vous voulez Ã§a pour quand ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713047573350,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713047573160,
+      "content": "Yassim Adam"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713047569946,
+      "content": "Yassim a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713047569608,
+      "content": "Yassim a nommÃ© le groupe Yassim Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

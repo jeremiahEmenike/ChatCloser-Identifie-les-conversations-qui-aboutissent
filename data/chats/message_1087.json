@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693585007,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712693526012,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712691240444,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712689177935,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712688857781,
+      "content": "Sinon j ai besoin de un mais je te reviens"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712687963057,
+      "content": "Bonsoir, c'est disponible\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712676958154,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712676957569,
+      "content": "Palouki Gnossike"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712676953600,
+      "content": "Palouki a nommÃ© le groupe Palouki Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712676953600,
+      "content": "Palouki a modifiÃ© la photo du groupe."
+    }
+  ]
+}

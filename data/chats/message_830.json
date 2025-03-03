@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720801969045,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720801841431,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720801834333,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720801834126,
+      "content": "Komi Emmanuel Atsa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720801831664,
+      "content": "Komi Emmanuel a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720801831198,
+      "content": "Komi Emmanuel a nommÃ© le groupe Komi Emmanuel Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

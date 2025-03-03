@@ -1,0 +1,20 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1691074677210,
+      "content": "Comment vas tu ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1691074677176,
+      "content": "Ãa fait un bail"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1691074677145,
+      "content": "Hello Edwige"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721079214844,
+      "content": "Un livreur viendra"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721073821398,
+      "content": "C'est vous mÃªme qui livre sa?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721073594471,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721063118282,
+      "content": "C'est a combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993778603,
+      "content": "D'accord nous sommes Ã  Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993325684,
+      "content": "Bonsoir chef stp je veux un"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993259784,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993259254,
+      "content": "Kinansoa Etienne Badiemie"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993257187,
+      "content": "Kinansoa Etienne a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993256756,
+      "content": "Kinansoa Etienne a nommÃ© le groupe Kinansoa Etienne Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

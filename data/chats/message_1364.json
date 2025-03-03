@@ -1,0 +1,25 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720421296913,
+      "content": "Annonces similaires Ã  Â«Â Rice CookÂ Â»"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720291691837,
+      "content": "Bonjour Gertrude, je voudrais commander un Rice cook et un mixeur 3in1 ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720291688925,
+      "content": "Vous avez changÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720291688475,
+      "content": "Vous avez nommÃ© le groupe Ulrich Â· Rice Cook."
+    }
+  ]
+}

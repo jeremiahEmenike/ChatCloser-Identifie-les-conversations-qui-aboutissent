@@ -1,0 +1,75 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819391648,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798166729,
+      "content": "C'est fait"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707772625158,
+      "content": "Envoie moi la localisation demain je vais passÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707766495980,
+      "content": "98916759"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707758037421,
+      "content": "Ok la localisation"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707718284059,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707715264004,
+      "content": "Combien?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707659017551,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654737111,
+      "content": "Vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654710971,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654706895,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654706466,
+      "content": "JÄff Ä¹'ÃÄÄ Ä'ÃÅ"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654703838,
+      "content": "JÄff a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707654703151,
+      "content": "JÄff a nommÃ© le groupe JÄff Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

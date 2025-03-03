@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709643253570,
+      "content": "Je ne vends pas de tÃ©lÃ©phone donc si je le prends Ã§a va pas me servir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709642502155,
+      "content": "Pourquoi?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709642485362,
+      "content": "C'est pas possible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709641704921,
+      "content": "Deal avec un phone"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709641538612,
+      "content": "Je veux faire deal"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709591351451,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709591346381,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709590511491,
+      "content": "Darius Kingslash"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709590506496,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709590504917,
+      "content": "Darius a nommÃ© le groupe Darius Â· Montre et Ã©couteur connectÃ© (Ultra 8)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709590504917,
+      "content": "Darius a modifiÃ© la photo du groupe."
+    }
+  ]
+}

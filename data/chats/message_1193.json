@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701156712115,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701156706849,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701111024846,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701111024496,
+      "content": "Romain Romilly"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701111021976,
+      "content": "Romain a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701111021517,
+      "content": "Romain a nommÃ© le groupe Romain Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

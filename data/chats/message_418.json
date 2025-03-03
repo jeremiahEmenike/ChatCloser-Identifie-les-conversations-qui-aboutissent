@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707460948490,
+      "content": "Abgalepedo non loin de groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707460669168,
+      "content": "Vous Ãªtes oÃ¹ svp ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707460659432,
+      "content": "Câest pas 4500?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707460626468,
+      "content": "5000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707460431300,
+      "content": "1 a 2500 2 Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707454602876,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707447783830,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707447777218,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707447777048,
+      "content": "Enfant Beni"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707447774136,
+      "content": "Enfant a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707447773175,
+      "content": "Enfant a nommÃ© le groupe Enfant Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

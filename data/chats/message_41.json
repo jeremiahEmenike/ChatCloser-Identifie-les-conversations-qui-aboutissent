@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699291225892,
+      "content": "Vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699291201279,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699291192177,
+      "content": "Bonjour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699287937239,
+      "content": "Salut toujours disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696270306734,
+      "content": "Bonsoir, c'est de nouveau disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694260731054,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694260730883,
+      "content": "Ahmed Bougonou TanghanwayÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694260729539,
+      "content": "Ahmed Bougonou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1694260729174,
+      "content": "Ahmed Bougonou a nommÃ© le groupe Ahmed Bougonou Â· Montre et Ecouteur sans fil bluetooth."
+    }
+  ]
+}

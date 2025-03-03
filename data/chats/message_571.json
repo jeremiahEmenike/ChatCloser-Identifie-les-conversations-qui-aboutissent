@@ -1,0 +1,70 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712992858655,
+      "content": "Bonjour, comment allez vous??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762607077,
+      "content": "D'accord votre numÃ©ro svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762592356,
+      "content": "Lundi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762548201,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762543697,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762528580,
+      "content": "2"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762501206,
+      "content": "Bonjour c'est disponible\nL'unitÃ© est Ã  2500\nVous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762493176,
+      "content": "DÃ©solÃ©, il nâest pas disponible."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762489538,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762486205,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762485742,
+      "content": "Grace Agb"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762483139,
+      "content": "Grace a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712762482734,
+      "content": "Grace a nommÃ© le groupe Grace Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

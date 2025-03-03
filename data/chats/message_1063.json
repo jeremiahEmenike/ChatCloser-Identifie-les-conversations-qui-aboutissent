@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709614335057,
+      "content": "Hello,ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1709599647779,
+      "content": "Really okay"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708017727020,
+      "content": "We can deliver to you. But it's you who pays the delivery man"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708017630804,
+      "content": "where do you live"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708017421949,
+      "content": "How do I get it"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708017378137,
+      "content": "Hello, it's available. We have white and black"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708017375304,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708017349399,
+      "content": "How much is this"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708017318962,
+      "content": "Yes"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708017277315,
+      "content": "Can you speak English please"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707844345721,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707839908645,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707839908186,
+      "content": "Nwa Oze"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707839905832,
+      "content": "Nwa a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707839905257,
+      "content": "Nwa a nommÃ© le groupe Nwa Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

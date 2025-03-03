@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699900184414,
+      "content": "Non, on connecte Ã§a au tÃ©lÃ©phone via bluetooth"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699900163496,
+      "content": "Sa prend SIM ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699900155709,
+      "content": "8500 plutÃ´t"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699900144263,
+      "content": "8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699900133160,
+      "content": "Prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699900112026,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699899691261,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699899688118,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699899687553,
+      "content": "Claudio Le Mec"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699899685536,
+      "content": "Claudio a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1699899684985,
+      "content": "Claudio a nommÃ© le groupe Claudio Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

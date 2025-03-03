@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701444662732,
+      "content": "Bonjour c'est disponible, vous voulez combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701441051232,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701441050886,
+      "content": "Jojo Pg"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701441047929,
+      "content": "Jojo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701441047443,
+      "content": "Jojo a nommÃ© le groupe Jojo Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

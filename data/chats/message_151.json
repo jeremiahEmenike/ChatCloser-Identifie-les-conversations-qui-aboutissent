@@ -1,0 +1,80 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707824444317,
+      "content": "Aujourd'hui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819427414,
+      "content": "La promotion termine quand ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819415546,
+      "content": "Ok merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819346406,
+      "content": "N'importe quel tÃ©lÃ©phone"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819321372,
+      "content": "Renseignez-vous pour moi svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819310296,
+      "content": "Concernant la montre c'est seulement utilisable avec iPhone ou bien n'importe quel tÃ©lÃ©phone ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819247084,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819179908,
+      "content": "C'est au prix promotionnel de 8000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819127504,
+      "content": "Le prix ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819099080,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819096960,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819091734,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819091537,
+      "content": "AurÃ©ole Bassah"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819089417,
+      "content": "AurÃ©ole a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707819088788,
+      "content": "AurÃ©ole a nommÃ© le groupe AurÃ©ole Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}

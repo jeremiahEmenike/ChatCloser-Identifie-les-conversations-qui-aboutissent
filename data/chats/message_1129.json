@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712915313640,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712915169937,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712915163059,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712915162626,
+      "content": "Prudence Zonblewou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712915160512,
+      "content": "Prudence a nommÃ© le groupe Prudence Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712915160512,
+      "content": "Prudence a modifiÃ© la photo du groupe."
+    }
+  ]
+}

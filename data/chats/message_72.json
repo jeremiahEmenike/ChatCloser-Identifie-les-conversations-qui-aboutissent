@@ -1,0 +1,55 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716721084997,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716721078313,
+      "content": "6000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716720803642,
+      "content": "Et prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716720801883,
+      "content": "NumÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715942793461,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715869340011,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715869332151,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715869331607,
+      "content": "Alidou Bawa"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715869326566,
+      "content": "Alidou a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715869326159,
+      "content": "Alidou a nommÃ© le groupe Alidou Â· Coffret Montre connectÃ©e et Ã©couteur sans fil Bluetooth W26."
+    }
+  ]
+}

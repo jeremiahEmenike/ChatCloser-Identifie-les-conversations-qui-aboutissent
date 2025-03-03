@@ -1,0 +1,75 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1715152514742,
+      "content": "OK cool"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714555166871,
+      "content": "SÃ©rieux je peux te laisser Ã§a Ã  5500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714553879642,
+      "content": "Pardon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714553836175,
+      "content": "NN c'est pas suffisant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714553779195,
+      "content": "5000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714553717447,
+      "content": "6000 dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714553381317,
+      "content": "Pardon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714553311226,
+      "content": "6500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714553294458,
+      "content": "C'est combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714553265433,
+      "content": "Bonjour oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714553182359,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714553182174,
+      "content": "Abdoulaye Yakoubou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714553179588,
+      "content": "Abdoulaye a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714553179183,
+      "content": "Abdoulaye a nommÃ© le groupe Abdoulaye Â· Coffret Montre connectÃ©e et Ã©couteur sans fil Bluetooth W26."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701364687392,
+      "content": "je peux voir les modÃ¨les svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701364675263,
+      "content": "Ok"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701364127882,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701364072265,
+      "content": "Bonjour, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701364072034,
+      "content": "Fredhino Benza"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701364069588,
+      "content": "Fredhino a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701364069154,
+      "content": "Fredhino a nommÃ© le groupe Fredhino Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

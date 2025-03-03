@@ -1,0 +1,110 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721413984492,
+      "content": "Hello, vous Ãªtes disponible ce soir ???"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721410467504,
+      "content": "Vous pouvez me livrer demain ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720893900885,
+      "content": "+229 55574962"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720859770024,
+      "content": "Votre numÃ©ro de tÃ©lÃ©phone"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720828927935,
+      "content": "Ã cÃ´tÃ© de l'hÃ´pital"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720778390787,
+      "content": "Vous Ãªtes Ã  quel niveau de Tokoin??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720772298085,
+      "content": "3000 svp"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720738518015,
+      "content": "Je peux vous laisser avec livraison 3500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720737465925,
+      "content": "2500 ðð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720737457982,
+      "content": "Plus livraison ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720737096962,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736741826,
+      "content": "Ok c'est combien le dernier prix ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736662286,
+      "content": "Livraison 1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736656285,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736625428,
+      "content": "Moi c'est tokouin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736614357,
+      "content": "Ok vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736591307,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736445737,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736445515,
+      "content": "AbigaÃ¯l DÃ¨nandi"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736443726,
+      "content": "AbigaÃ¯l a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720736443559,
+      "content": "AbigaÃ¯l a nommÃ© le groupe AbigaÃ¯l Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721229302148,
+      "content": "Bonsoir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721143026348,
+      "content": "Pour la livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721143014721,
+      "content": "Vous Ãªtes libre"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721143004829,
+      "content": "Bonjour je reviens demain soir"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721029159171,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721008332190,
+      "content": "A votre retour"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995953845,
+      "content": "C'est compliquÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995662371,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995643422,
+      "content": "Je serai occupÃ©"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995634093,
+      "content": "6h c'est impossible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995595481,
+      "content": "Je sais pas si vous pouvez le prendre Ã  6h"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995574373,
+      "content": "Il se trouve que demain je dois aller Ã  aneho trÃ¨s tÃ´t le matin."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995360830,
+      "content": "Je peux Ãªtre livrÃ©e demain a 9h?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995344924,
+      "content": "Okay d'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995339306,
+      "content": "1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995326187,
+      "content": "Je suis Ã  hedranawÅ la livraison c'est Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995326185,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720995303896,
+      "content": "Combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993752613,
+      "content": "C'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993579441,
+      "content": "Bonsoir, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993578956,
+      "content": "Bernardo La Victoire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993577022,
+      "content": "Bernardo a nommÃ© le groupe Bernardo Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720993577022,
+      "content": "Bernardo a modifiÃ© la photo du groupe."
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714154958867,
+      "content": "Si je veux lâavoir aujourdâhui on fais comment"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712995718641,
+      "content": "NN c'est le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712995553781,
+      "content": "Pas de rÃ©duction ?!"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712995535654,
+      "content": "2500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712995523348,
+      "content": "Oui mais le dernier prix câest a combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712995477319,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712995195315,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712995190569,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712995190038,
+      "content": "Kevin Atchon"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712995187366,
+      "content": "Kevin a nommÃ© le groupe Kevin Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712995187366,
+      "content": "Kevin a modifiÃ© la photo du groupe."
+    }
+  ]
+}

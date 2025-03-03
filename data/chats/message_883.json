@@ -1,0 +1,30 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707798418821,
+      "content": "Bonjour c'est disponible\nNous sommes agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707747734076,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707747733154,
+      "content": "Fafadji Lelord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707747730510,
+      "content": "Lelord a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707747729472,
+      "content": "Lelord a nommÃ© le groupe Lelord Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

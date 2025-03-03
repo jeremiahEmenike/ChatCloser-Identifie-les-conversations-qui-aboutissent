@@ -1,0 +1,40 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720886598953,
+      "content": "3000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720886455652,
+      "content": "Ces a combien"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720880527036,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720880185416,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720880184906,
+      "content": "Manani Kondo"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720880182062,
+      "content": "Manani a nommÃ© le groupe Manani Â· Ecouteur sans fil Bluetooth Pro 6 Neuf dans une boÃ®te scellÃ©e."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1720880182062,
+      "content": "Manani a modifiÃ© la photo du groupe."
+    }
+  ]
+}

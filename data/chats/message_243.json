@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712702071024,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712702049935,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712697258085,
+      "content": "Moi je suis Ã  TCHAMBA on fait comme"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712696813896,
+      "content": "Le produit est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712696804042,
+      "content": "Moi c'est Ulrich"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712696716291,
+      "content": "Et vous"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712696695327,
+      "content": "Salut mois c'est Charles"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712696622920,
+      "content": "Cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712696622633,
+      "content": "Charles Tchalim"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712696620581,
+      "content": "Charles a nommÃ© le groupe Charles Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1712696620581,
+      "content": "Charles a modifiÃ© la photo du groupe."
+    }
+  ]
+}

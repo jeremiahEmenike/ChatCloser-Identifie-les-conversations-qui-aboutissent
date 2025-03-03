@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701633637851,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701633602860,
+      "content": "Dans la semaine"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701443718685,
+      "content": "Nous sommes Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701443708692,
+      "content": "Vous allez passer quand??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701431384395,
+      "content": "1"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330834350,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701330824684,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701306109250,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701306108909,
+      "content": "Adinda Akpo Kamarou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701306105876,
+      "content": "Adinda Akpo a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701306105405,
+      "content": "Adinda Akpo a nommÃ© le groupe Adinda Akpo Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

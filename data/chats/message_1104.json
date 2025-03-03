@@ -1,0 +1,95 @@
+{
+  "label": "positive",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697034194967,
+      "content": "Ok merci"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697033983396,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697033957104,
+      "content": "Si je sort Ã  la terrainement"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697033885393,
+      "content": "Ok je te ferais signe vers 17 ou 18"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697033799827,
+      "content": "2 Ã  15000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697033780312,
+      "content": "Si je veux 2 combien tu va me le faire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697033748462,
+      "content": "Oui"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697033583974,
+      "content": "C'est le dernier qui est 8000mil"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697033462885,
+      "content": "90284082"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697033457996,
+      "content": "C'est le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697033418240,
+      "content": "Sltp votre numÃ©ro"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1697033395007,
+      "content": "C'est le dernier prix"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696966562964,
+      "content": "Bonjour c'est disponible, vous voulez combien ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696965801939,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696965801917,
+      "content": "Paul Adote"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696965798898,
+      "content": "Paul a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696965798898,
+      "content": "Paul a nommÃ© le groupe Paul Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1696965798898,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    }
+  ]
+}

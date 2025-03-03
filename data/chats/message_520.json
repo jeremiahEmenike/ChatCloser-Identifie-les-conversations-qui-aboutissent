@@ -1,0 +1,50 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707469710474,
+      "content": "Nous sommes Ã  agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707469703063,
+      "content": "D'accord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707468933263,
+      "content": "J'ai besoin d'un Ã©couteurs"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707468915880,
+      "content": "Salut comment vous allez ??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707468909854,
+      "content": "Franschesco Tchoulou"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707468909757,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707468901206,
+      "content": "Bonjour Ulrich, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707468899659,
+      "content": "Franschesco a nommÃ© le groupe Franschesco Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707468899659,
+      "content": "Franschesco a modifiÃ© la photo du groupe."
+    }
+  ]
+}

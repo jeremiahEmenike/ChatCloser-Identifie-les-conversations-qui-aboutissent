@@ -1,0 +1,60 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721051815098,
+      "content": "NN pas encore"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1721000349317,
+      "content": "Cc svp vos montres st tjr disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716119626338,
+      "content": "Dâaccord"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716103226813,
+      "content": "Legbassito carrefour avinato"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716079416469,
+      "content": "Cc vs Ãªtes situÃ©s ou svp?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716079389224,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716079387805,
+      "content": "Marc vous a proposÃ© 5Â 900Â CFA"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716079386912,
+      "content": "Marc Arno"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716079385506,
+      "content": "xx"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716079383631,
+      "content": "Marc a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1716079383138,
+      "content": "Marc a nommÃ© le groupe Marc Â· Coffret Montre connectÃ©e et Ã©couteur sans fil Bluetooth W26."
+    }
+  ]
+}

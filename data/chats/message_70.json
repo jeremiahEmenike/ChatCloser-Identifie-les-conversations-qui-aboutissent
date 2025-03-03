@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701732391088,
+      "content": "Okk"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701732287059,
+      "content": "Agbalepedo groupe C"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701732261023,
+      "content": "Vous habitez oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701732206523,
+      "content": "Oui c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701731660646,
+      "content": "Cet article est-il toujours disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701731660189,
+      "content": "Alice Apedoh"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701731657473,
+      "content": "Alice a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1701731656878,
+      "content": "Alice a nommÃ© le groupe Alice Â· Ãcouteurs sans fil Pro 6 New."
+    }
+  ]
+}

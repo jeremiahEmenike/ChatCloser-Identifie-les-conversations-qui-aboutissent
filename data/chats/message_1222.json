@@ -1,0 +1,55 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719296994655,
+      "content": "Vous voulez combien??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719296990080,
+      "content": "Mais c'est disponible maintenant"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719296980244,
+      "content": "Les Ã©couteurs Ã©taient en rupture"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719296964450,
+      "content": "Bonjour dÃ©solÃ© pour le silence"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1719296950758,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714059583916,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714059577868,
+      "content": "Bonjour, cet article est-il disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714059577594,
+      "content": "Samira Abdoulaye"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714059574660,
+      "content": "Samira a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1714059574066,
+      "content": "Samira a nommÃ© le groupe Samira Â· Ãcouteurs sans fil Pro 6 New. VENTE EN GROS ET EN DETAIL."
+    }
+  ]
+}

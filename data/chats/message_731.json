@@ -1,0 +1,100 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713215191478,
+      "content": "NN, le livreur refuse"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713215095786,
+      "content": "C'est possible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713214967977,
+      "content": "Ãa peut se faire"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713214428025,
+      "content": "C'est un peu loin"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713214154655,
+      "content": "500?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213937367,
+      "content": "1000"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213494357,
+      "content": "Livraison au grand marchÃ© Ã  combien ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213282989,
+      "content": "Legbassito"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213270973,
+      "content": "Et vous Ãªtes oÃ¹ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213183714,
+      "content": "Vous Ãªtes oÃ¹??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213179812,
+      "content": "Oui mais Ã  vos frais"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213162092,
+      "content": "?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213156531,
+      "content": "Vous faites livraison"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213103391,
+      "content": "Vous voulez Ã§a aujourd'hui??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713213097473,
+      "content": "Bonjour c'est disponible"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713211690898,
+      "content": "Disponibles ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713211690487,
+      "content": "JÃµ Sias Freestar"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713211688297,
+      "content": "JÃµ Sias a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1713211687857,
+      "content": "JÃµ Sias a nommÃ© le groupe JÃµ Sias Â· Ãcouteur sans fil et Powerbank combinÃ© neuf en carton. Vente en GROS ET EN DETAIL."
+    }
+  ]
+}

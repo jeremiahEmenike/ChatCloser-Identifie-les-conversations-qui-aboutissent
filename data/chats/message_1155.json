@@ -1,0 +1,35 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1708001104478,
+      "content": "Je peux avoir quelques photos"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707951705504,
+      "content": "Bonjour c'est disponible. \nNous avons le blanc et le noir\nVous voulez laquelle??"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707944437511,
+      "content": "RaphaÃ«l Capitan"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707944433536,
+      "content": "Bonjour, cet article est-il disponible ? ð"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707944432108,
+      "content": "RaphaÃ«l a nommÃ© le groupe RaphaÃ«l Â· Ãcouteurs sans fil Pro 6 New."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1707944432108,
+      "content": "RaphaÃ«l a modifiÃ© la photo du groupe."
+    }
+  ]
+}

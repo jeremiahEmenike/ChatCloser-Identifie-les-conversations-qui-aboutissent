@@ -1,0 +1,45 @@
+{
+  "label": "negative",
+  "messages": [
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702500312972,
+      "content": "Il reste celui-ci qui est Ã  10500"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702500281892,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702500266431,
+      "content": "Oui. Est-ce quâil vous intÃ©resse toujoursÂ ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702499783488,
+      "content": ""
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702499776297,
+      "content": "Bonjour, cet article est-il toujours disponible ?"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702499776086,
+      "content": "Utilisateur"
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702499773165,
+      "content": "Un contact a modifiÃ© la photo du groupe."
+    },
+    {
+      "sender_name": "client",
+      "timestamp_ms": 1702499772467,
+      "content": "Un contact a nommÃ© le groupe Djoudje Â· Montre connectÃ©e et Ã©couteur sans fil (w26 pro max special)."
+    }
+  ]
+}
