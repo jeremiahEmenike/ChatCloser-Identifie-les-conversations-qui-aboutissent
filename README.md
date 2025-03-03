@@ -1,0 +1,1 @@
+ChatCloser – Identifie les conversations qui aboutissent
